@@ -2,7 +2,7 @@
 title: "juanmrkdown"
 output: pdf_document
 ---
-this is line text
+##this is line text
 
 - bullet 1
 - bullet 2
@@ -15,3 +15,6 @@ plot(x,y)
 cmmd+opt+i for creating chunck
 cmmd+opt+c run code chunk
 cmmd+opt+n run first code chunk
+# level 1 header
+## level 2 header
+daring fireball for markdown syntax
