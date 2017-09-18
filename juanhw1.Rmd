@@ -2,6 +2,9 @@
 title: "juanmrkdown"
 output: pdf_document
 ---
+# JUAN SEBASTIAN BONILLA
+## MLIS STUDENT
+
 ##this is line text
 
 - bullet 1
@@ -15,6 +18,5 @@ plot(x,y)
 cmmd+opt+i for creating chunck
 cmmd+opt+c run code chunk
 cmmd+opt+n run first code chunk
-# level 1 header
-## level 2 header
-daring fireball for markdown syntax
+
+
