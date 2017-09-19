@@ -3,18 +3,18 @@
 ## MLIS STUDENT
 ![Juan](https://github.com/juansbr7/STAT545-hw01-Bonilla-Juan/blob/master/45-AAA.jpg)
 ### Facts about Juan:
-1. I am from Colombia
-  1.1 From Bogota, to be more specific.
-2. I have been living in Canada for more than 6 years
-  2.1 4 years in Ottawa
-  2.2 1 year in Calgary
-  2.3 2+ years in Vancouver
+1. I am from **Colombia**.
+    1.1. From **Bogota**, to be more specific.
+2. I have been living in Canada for more than 6 years.
+    2.1. 4 years in Ottawa.
+    2.2. 1 year in Calgary.
+    2.3. 2+ years in Vancouver.
 3. I studied Ethics at University of Ottawa and I am currently doing my second year of Masters in library and Information studies.
 4. I am considering doing the Masters in Data Science. I am learning:
 - Python for data analysis
 - R 
 5. I am looking for opportunities, jobs or internships where I can enahnce my learning and get some work done.
-![](https://tenor.com/view/work-hard-jim-carrey-typing-fast-gif-5604922)
+
 
 
 
