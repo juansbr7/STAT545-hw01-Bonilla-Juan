@@ -8,7 +8,7 @@ Welcome to Juan's homework1 created in Github and edited locally in Rstudio.
 2) Interested in Data mining/analysis/visualization 
 3) Basic/intermediate level of R and Python programming languages.   
 ***Wanna know more?*** 
-* Click here to see the repo--> https://github.com/juansbr7/STAT545-hw01-Bonilla-Juan
+* Click here to see my repo--> https://github.com/juansbr7/STAT545-hw01-Bonilla-Juan
 * Markdown doc--> https://github.com/juansbr7/STAT545-hw01-Bonilla-Juan/blob/master/juanhw1.Rmd
 * More about me-->  http://juan-sebastian-bonilla.strikingly.com/
 
