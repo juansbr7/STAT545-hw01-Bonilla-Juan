@@ -4,7 +4,7 @@ output: pdf_document
 ---
 # JUAN SEBASTIAN BONILLA
 ## MLIS STUDENT
-
+![alt text](https://drive.google.com/file/d/0B8FGE01kta7Cc29naWhCWm4xeEU/view?usp=sharing)
 ##this is line text
 
 - bullet 1
