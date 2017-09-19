@@ -9,7 +9,7 @@
     2.1. 4 years in Ottawa.
     2.2. 1 year in Calgary.
     2.3. 2+ years in Vancouver.
-3. I studied Ethics at University of Ottawa and I am currently doing my second year of Masters in library and Information studies.
+3. I studied Ethics at University of Ottawa and I am currently doing my second year of Masters in Library and Information Studies.
 4. I am considering doing the Masters in Data Science. I am learning:
 - Python for data analysis
 - R 
