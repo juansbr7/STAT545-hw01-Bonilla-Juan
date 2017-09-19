@@ -1,7 +1,4 @@
----
-title: "juanmrkdown"
-output: pdf_document
----
+
 # JUAN SEBASTIAN BONILLA
 ## MLIS STUDENT
 ![Juan](https://github.com/juansbr7/STAT545-hw01-Bonilla-Juan/blob/master/45-AAA.jpg)
@@ -17,7 +14,7 @@ output: pdf_document
 - Python for data analysis
 - R 
 5. I am looking for opportunities, jobs or internships where I can enahnce my learning and get some work done.
-![] https://tenor.com/view/work-hard-jim-carrey-typing-fast-gif-5604922
+![](https://tenor.com/view/work-hard-jim-carrey-typing-fast-gif-5604922)
 
 
 
