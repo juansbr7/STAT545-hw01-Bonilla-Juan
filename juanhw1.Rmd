@@ -13,7 +13,7 @@
 + I am considering doing the Masters in Data Science. I am learning:
   - Python for data analysis
   - R 
-5. I am looking for opportunities, jobs or internships where I can enahnce my learning and get some work done.
++ I am looking for opportunities, jobs or internships where I can enahnce my learning and get some work done.
 
 
 
