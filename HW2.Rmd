@@ -60,3 +60,5 @@ a %>%
   ggplot(aes(year, gdpPercap)) + geom_smooth()+
   geom_point(aes(color= country, size= pop ))
 ```
+## So, we can conclude that most countries have seen some improvemnts in gdpPercapita and an increase in population. (Also, that I haven't learnt how to read the graphs and I specualte a lot)
+
