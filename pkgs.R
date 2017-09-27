@@ -1,2 +1,5 @@
-library(tidyverse)
-library(gapminder)
+head(gapminder)
+tail(gapminder)
+str(gapminder)
+summary(gapminder)
+plot(gapminder)
