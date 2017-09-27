@@ -1,5 +1,0 @@
-head(gapminder)
-tail(gapminder)
-str(gapminder)
-summary(gapminder)
-plot(gapminder)
