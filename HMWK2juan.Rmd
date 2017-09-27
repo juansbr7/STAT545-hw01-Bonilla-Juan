@@ -4,8 +4,8 @@ author: "juan"
 date: '2017-09-26'
 output: html_document
 ---
-H1 Welcome to Juan's Homework 2
-In this assignment, I'm going to show the increment of population, life expectancy and gdpper capita in Colombia and other contries in the Americas since the year I was born (**1987**). This is to prove my theory that I brought good things to the world.
+# Welcome to Juan's Homework 2
+## In this assignment, I'm going to show the increment of population, life expectancy and gdpper capita in Colombia and other contries in the Americas since the year I was born (**1987**). This is to prove my theory that I brought good things to the world.
 
 ```{r}
 library(gapminder)
@@ -17,7 +17,7 @@ a<- filter(gapminder, continent == "Americas")
 select(filter(a, country== "Colombia"), country, gdpPercap, lifeExp, year) 
 
 ```
-Here we have Life Expectancy, gdpPercapita and Population in Colombia since 1987 to 2004; followed by graph.
+### Here we have: Life Expectancy, gdpPercapita and Population in Colombia since 1987 to 2004; followed by graph.
 ```{r}
 my_colombia<- a %>% 
   filter(country== "Colombia", year >= 1987) %>%
@@ -27,13 +27,13 @@ my_colombia
 ```{r pressure, echo=FALSE}
 ggplot(my_colombia, aes(year, lifeExp))+ geom_path()
 ```
-As we can see in the graph there is a significant improvement of life expectancy. Here are the increment numbers and the function that I wrote to see the results:
+### As we can see in the graph there is a significant improvement of life expectancy. Here are the increment numbers and the function that I wrote to see the results:
 ```{r}
 my_colombia
 inc<- function(x,y) {z<- x - y}
 mutate(my_colombia, inc_lifeExp= inc(lifeExp, lifeExp[+1]), inc_gdpPercap= inc(gdpPercap, gdpPercap[+1]))
 ```
-Now, let's see the population vs gdpPercap 
+### Now, let's see the population vs gdpPercap 
 ```{r}
 my_colombia %>%
   arrange(year) %>% 
@@ -41,7 +41,7 @@ my_colombia %>%
   geom_point(color= "red") +
   geom_path(color= "blue")
 ```
-But enough about Colombia, let's see how other countries in the Americas have done since I came to earth:
+### But enough about Colombia, let's see how other countries in the Americas have done since I came to earth:
 ```{r}
 a %>%
   group_by(country) %>% 
