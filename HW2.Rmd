@@ -2,7 +2,7 @@
 title: "HMWK2"
 author: "juan"
 date: '2017-09-26'
-output: html_document
+output: github_document
 ---
 # Welcome to Juan's Homework 2
 In this assignment, I'm going to show the increment of population, life expectancy and gdpper capita in Colombia and other contries in the Americas since the year I was born (**1987**). This is to prove my theory that I brought good things to the world.
@@ -20,9 +20,7 @@ typeof(gapminder$year)
 typeof(gapminder$lifeExp)
 
 a<- filter(gapminder, continent == "Americas")
-
 select(filter(a, country== "Colombia"), country, gdpPercap, lifeExp, year) 
-
 ```
 
 
