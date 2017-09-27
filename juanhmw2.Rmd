@@ -1,0 +1,63 @@
+---
+title: "HMWK2"
+author: "juan"
+date: '2017-09-26'
+output: html_document
+---
+# Welcome to Juan's Homework 2
+In this assignment, I'm going to show the increment of population, life expectancy and gdpper capita in Colombia and other contries in the Americas since the year I was born (**1987**). This is to prove my theory that I brought good things to the world.
+
+```{r}
+library(gapminder)
+library(tidyverse)
+
+str(gapminder)
+names(gapminder)
+summary(gapminder)
+summary(gapminder$gdpPercap)
+typeof(gapminder)
+typeof(gapminder$year)
+typeof(gapminder$lifeExp)
+
+a<- filter(gapminder, continent == "Americas")
+
+select(filter(a, country== "Colombia"), country, gdpPercap, lifeExp, year) 
+
+```
+
+## Here we have Colombia's Life Expectancy, gdpPercapita and Population digits since 1987 to 2004. As we can see in the graph below there was a hiccoup in the economy in 2002 follow by an significant recovery.
+```{r}
+my_colombia<- a %>% 
+  filter(country== "Colombia", year >= 1987) %>%
+  select(country, year, lifeExp, gdpPercap, pop)
+my_colombia
+```
+```{r pressure, echo=FALSE}
+ggplot(my_colombia, aes(x=year, y=gdpPercap))+ geom_path()+
+  geom_bar(stat="identity", color="green", fill="steelblue")
+```
+ 
+##  Now let's look at the growing life expectancy variable. Here are the increment numbers and **the function that I wrote** to see the results:
+```{r}
+inc<- function(x,y) {z<- x - y}
+mutate(my_colombia, inc_lifeExp= inc(lifeExp, lifeExp[+1]), inc_gdpPercap= inc(gdpPercap, gdpPercap[+1]))
+```
+
+## Now, let's see the population vs gdpPercap 
+```{r}
+my_colombia %>%
+  arrange(year) %>% 
+  ggplot(aes(pop, gdpPercap)) +
+  geom_point(color= "red") +
+  geom_path(color= "blue")
+```
+
+## But enough about Colombia, let's see how other countries in the Americas have done since I came to earth:
+```{r}
+a %>%
+  group_by(country) %>% 
+  ggplot(aes(year, gdpPercap)) + geom_smooth()+
+  geom_point(aes(color= country, size= pop ))
+```
+
+
