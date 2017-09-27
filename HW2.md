@@ -6,7 +6,9 @@ juan
 Welcome to Juan's Homework 2
 ============================
 
-In this assignment, I'm going to show the increment of population, life expectancy and gdpper capita in Colombia and other contries in the Americas since the year I was born (**1987**). This is to prove my theory that I brought good things to the world.
+#### In this assignment, I'm going to show the increment of population, life expectancy and gdpper capita in Colombia and other contries in the Americas since the year I was born (1987). This is to prove my theory that I brought good things to the world.
+
+In this first part of the assignment, we will see the **data type** of the gapminder package and variables as well as the **structure**, **names** and **summaries**.
 
 ``` r
 library(gapminder)
@@ -42,6 +44,12 @@ names(gapminder)
 ```
 
     ## [1] "country"   "continent" "year"      "lifeExp"   "pop"       "gdpPercap"
+
+``` r
+length(gapminder)
+```
+
+    ## [1] 6
 
 ``` r
 summary(gapminder)
