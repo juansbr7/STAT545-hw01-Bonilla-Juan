@@ -1,4 +1,0 @@
-"0","my_colombia<- a %>% "
-"0","  filter(country== ""Colombia"", year >= 1987) %>%"
-"0","  select(country, year, lifeExp, gdpPercap, pop)"
-"0","my_colombia"
