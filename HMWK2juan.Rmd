@@ -5,13 +5,23 @@ date: '2017-09-26'
 output: html_document
 ---
 # Welcome to Juan's Homework 2
-## In this assignment, I'm going to show the increment of population, life expectancy and gdpper capita in Colombia and other contries in the Americas since the year I was born (**1987**). This is to prove my theory that I brought good things to the world.
++ In this first part of the assignment, I'll explore the structure of the gapminder package, type, names, lenght and the summary. 
 
 ```{r}
 library(gapminder)
 library(tidyverse)
 
+str(gapminder)
+names(gapminder)
+summary(gapminder)
+summary(gapminder$gdpPercap)
 typeof(gapminder)
+typeof(gapminder$year)
+typeof(gapminder$lifeExp)
+
+```
+##  I'm going to show the increment of population, life expectancy and gdpper capita in Colombia and other contries in the Americas since the year I was born (**1987**). This is to prove my theory that I brought good things to the world.
+```{r}
 a<- filter(gapminder, continent == "Americas")
 
 select(filter(a, country== "Colombia"), country, gdpPercap, lifeExp, year) 
