@@ -1,0 +1,4 @@
+"0","a %>%"
+"0","  group_by(country) %>% "
+"0","  ggplot(aes(year, gdpPercap)) + geom_smooth()+"
+"0","  geom_point(aes(color= country, size= pop ))"

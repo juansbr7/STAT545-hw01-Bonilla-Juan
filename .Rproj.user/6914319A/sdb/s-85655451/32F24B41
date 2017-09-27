@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"HMWK2\"\nauthor: \"juan\"\ndate: '2017-09-26'\noutput: html_document\n---\n# Welcome to Juan's Homework 2\nIn this assignment, I'm going to show the increment of population, life expectancy and gdpper capita in Colombia and other contries in the Americas since the year I was born (**1987**). This is to prove my theory that I brought good things to the world.\n\n```{r}\nlibrary(gapminder)\nlibrary(tidyverse)\n\nstr(gapminder)\nnames(gapminder)\nsummary(gapminder)\nsummary(gapminder$gdpPercap)\ntypeof(gapminder)\ntypeof(gapminder$year)\ntypeof(gapminder$lifeExp)\n\na<- filter(gapminder, continent == \"Americas\")\n\nselect(filter(a, country== \"Colombia\"), country, gdpPercap, lifeExp, year) \n\n```\n## Here we have Colombia's Life Expectancy, gdpPercapita and Population digits since 1987 to 2004. As we can see in the graph below there was a hiccoup in the economy in 2002 follow by an significant recovery.\n```{r}\nmy_colombia<- a %>% \n  filter(country== \"Colombia\", year >= 1987) %>%\n  select(country, year, lifeExp, gdpPercap, pop)\nmy_colombia\n```\n```{r pressure, echo=FALSE}\nggplot(my_colombia, aes(x=year, y=gdpPercap))+ geom_path()+\n  geom_bar(stat=\"identity\", color=\"green\", fill=\"steelblue\")\n```\n \n##  Now let's look at the growing life expectancy variable. Here are the increment numbers and **the function that I wrote** to see the results:\n```{r}\ninc<- function(x,y) {z<- x - y}\nmutate(my_colombia, inc_lifeExp= inc(lifeExp, lifeExp[+1]), inc_gdpPercap= inc(gdpPercap, gdpPercap[+1]))\n```\n\n## Now, let's see the population vs gdpPercap \n```{r}\nmy_colombia %>%\n  arrange(year) %>% \n  ggplot(aes(pop, gdpPercap)) +\n  geom_point(color= \"red\") +\n  geom_path(color= \"blue\")\n```\n\n## But enough about Colombia, let's see how other countries in the Americas have done since I came to earth:\n```{r}\na %>%\n  group_by(country) %>% \n  ggplot(aes(year, gdpPercap)) + geom_smooth()+\n  geom_point(aes(color= country, size= pop ))\n```\n\n\n",
+    "created" : 1506486091937.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2800691971",
+    "id" : "32F24B41",
+    "lastKnownWriteTime" : 1506485588,
+    "last_content_update" : 1506485588,
+    "path" : "~/Desktop/HMWK2juan.Rmd",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
