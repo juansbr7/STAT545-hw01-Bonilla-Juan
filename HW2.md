@@ -6,8 +6,6 @@ juan
 Welcome to Juan's Homework 2
 ============================
 
-#### In this assignment, I'm going to show the increment of population, life expectancy and gdpper capita in Colombia and other contries in the Americas since the year I was born (1987). This is to prove my theory that I brought good things to the world.
-
 In this first part of the assignment, we will see the **data type** of the gapminder package and variables as well as the **structure**, **names** and **summaries**.
 
 ``` r
@@ -118,8 +116,18 @@ select(filter(a, country== "Colombia"), country, gdpPercap, lifeExp, year)
     ## 11 Colombia  5755.260  71.682  2002
     ## 12 Colombia  7006.580  72.889  2007
 
+The life Expectancy looks to be near 75
+---------------------------------------
+
+``` r
+hist(gapminder$lifeExp, col="green")
+```
+
+![](HW2_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-2-1.png)
+
+#### In this second part of the assignment, I'm going to show the increment of population, life expectancy and gdpper capita in Colombia and other contries in the Americas since the year I was born (1987). This is to prove my theory that I brought good things to the world.
+
 Here we have Colombia's Life Expectancy, gdpPercapita and Population digits since 1987 to 2004. As we can see in the graph below there was a hiccoup in the economy in 2002 follow by an significant recovery.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ``` r
 my_colombia<- a %>% 
@@ -167,7 +175,7 @@ my_colombia %>%
   geom_path(color= "blue")
 ```
 
-![](HW2_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-4-1.png)
+![](HW2_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-5-1.png)
 
 But enough about Colombia, let's see how other countries in the Americas have done since I came to earth:
 ---------------------------------------------------------------------------------------------------------
@@ -181,4 +189,7 @@ a %>%
 
     ## `geom_smooth()` using method = 'loess'
 
-![](HW2_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-5-1.png)
+![](HW2_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-6-1.png)
+
+So, we can conclude that most countries have seen some improvemnts in gdpPercapita and an increase in population. (Also, that I haven't learnt how to read the graphs and I specualte a lot)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
