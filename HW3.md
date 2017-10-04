@@ -1,4 +1,4 @@
-HW\#
+HW\#3
 ================
 juan
 2017-09-27
@@ -20,8 +20,7 @@ library(tidyverse)
     ## filter(): dplyr, stats
     ## lag():    dplyr, stats
 
-Homework 3
-----------
+###### Homework 3
 
 -   Get the maximum and minimum of GDP per capita for all continents.
 -   MEAN, MAX and MIN gdps per capita.
@@ -98,9 +97,11 @@ ggplot(gapminder, aes(lifeExp, year , size= gdpPercap, color= continent)) +
     geom_point(alpha= 0.3)
 ```
 
-![](HW3_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-5-1.png) - Report the absolute and/or relative abundance of countries with low life expectancy over time by continent: Compute some measure of worldwide life expectancy – you decide
+![](HW3_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-5-1.png)
 
--   The benchmark for the analysis is the mean life expectancy (59.47444). I will devide the results in **high** life expectancy if it is higher than the mean or **low**
+-   Report the absolute and/or relative abundance of countries with low life expectancy over time by continent: Compute some measure of worldwide life expectancy – you decide
+
+-   The benchmark for the analysis is the mean life expectancy (59.47444). I will devide the results in **high** life expectancy if it is higher than the mean or **low** if otherwise.
 
 ``` r
 mean(gapminder$lifeExp)
@@ -139,7 +140,9 @@ gapminder %>%
   geom_smooth(method="loess", span=1)
 ```
 
-![](HW3_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-7-1.png) - Find countries with interesting stories. Open-ended and, therefore, hard. Promising but unsuccessful attempts are encouraged. This will generate interesting questions to follow up on in class.
+![](HW3_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-7-1.png)
+
+##### Find countries with interesting stories. Open-ended and, therefore, hard. Promising but unsuccessful attempts are encouraged. This will generate interesting questions to follow up on in class.
 
 -   Countries with painfully low life expectancy due to various factors such as **war**, **diseases** or **scarcity** of resources. The crisis in Rwanda brought the life expectancy to aprox. 23.59 in the 90's.
 
