@@ -1,0 +1,4 @@
+"0","gapminder %>%"
+"0","  group_by(continent) %>% "
+"0","  ggplot(aes(year, gdpPercap, color= continent))+"
+"0","  geom_smooth(method=""loess"", span=0.5)+ geom_point()"

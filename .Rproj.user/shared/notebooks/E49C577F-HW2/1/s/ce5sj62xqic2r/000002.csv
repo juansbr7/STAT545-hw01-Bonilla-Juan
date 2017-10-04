@@ -1,0 +1,2 @@
+"0","ggplot(my_colombia, aes(x=year, y=gdpPercap))+ geom_path()+"
+"0","  geom_bar(stat=""identity"", color=""green"", fill=""steelblue"")"

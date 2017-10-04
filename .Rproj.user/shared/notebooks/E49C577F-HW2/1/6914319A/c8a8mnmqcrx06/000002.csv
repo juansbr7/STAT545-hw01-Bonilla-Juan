@@ -1,0 +1,5 @@
+"0","my_colombia %>%"
+"0","  arrange(year) %>% "
+"0","  ggplot(aes(pop, gdpPercap)) +"
+"0","  geom_point(color= ""red"") +"
+"0","  geom_path(color= ""blue"")"

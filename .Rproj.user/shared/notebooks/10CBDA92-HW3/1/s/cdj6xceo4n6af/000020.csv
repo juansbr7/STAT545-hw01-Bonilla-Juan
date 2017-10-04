@@ -1,0 +1,7 @@
+"0","gapminder %>%"
+"0","  arrange(year, lifeExp) %>% "
+"0","  mutate(l_ex=ifelse(lifeExp<= mean(lifeExp), ""low"", ""high"")) %>% "
+"0","  ggplot(aes( pop, year, color=lifeExp)) +"
+"0","    facet_grid(l_ex ~ continent) +"
+"0","    geom_point(alpha= 0.5)+ "
+"0","  geom_smooth(method=""loess"", span=1)"

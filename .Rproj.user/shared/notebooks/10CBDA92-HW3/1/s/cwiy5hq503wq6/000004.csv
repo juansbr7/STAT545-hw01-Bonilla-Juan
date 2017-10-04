@@ -1,0 +1,4 @@
+"0","gapminder %>%"
+"0","arrange(lifeExp) %>% "
+"0","filter(year== 2007) %>% "
+"0","  head(3) %>% knitr::kable()"

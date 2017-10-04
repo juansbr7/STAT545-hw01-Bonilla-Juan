@@ -1,0 +1,2 @@
+"0","inc<- function(x,y) {z<- x - y}"
+"0","mutate(my_colombia, inc_lifeExp= inc(lifeExp, lifeExp[+1]), inc_gdpPercap= inc(gdpPercap, gdpPercap[+1]))"

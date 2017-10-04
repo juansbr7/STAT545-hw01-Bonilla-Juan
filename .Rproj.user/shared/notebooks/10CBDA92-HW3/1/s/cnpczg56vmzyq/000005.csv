@@ -1,0 +1,6 @@
+"0","gapminder %>%"
+"0","  filter(country== ""Swaziland"" | country== ""Mozambique"" | country== ""Zambia"" ) %>% "
+"0","  select(country, year, lifeExp, gdpPercap ) %>%"
+"0","ggplot( aes(year , gdpPercap)) +"
+"0","    geom_point(aes(size=lifeExp , shape= country, color= country ))+"
+"0","  stat_smooth(method=""lm"")"

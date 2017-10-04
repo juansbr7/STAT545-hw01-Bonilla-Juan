@@ -1,0 +1,4 @@
+"0","anti_join(areas, gapminder)"
+"2","Joining, by = ""country""
+"
+"2","Column `country` joining factors with different levels, coercing to character vector"

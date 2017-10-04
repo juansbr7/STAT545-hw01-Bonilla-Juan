@@ -1,0 +1,5 @@
+"0","gapminder %>%"
+"0","  filter(lifeExp<= 35) %>% "
+"0","  arrange(year, lifeExp) %>% "
+"0","  ggplot(aes(year, lifeExp, size= pop)) +"
+"0","    geom_point(aes(color= country, alpha= 0.1))"
