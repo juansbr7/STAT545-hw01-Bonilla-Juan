@@ -20,9 +20,11 @@ library(tidyverse)
     ## filter(): dplyr, stats
     ## lag():    dplyr, stats
 
--   Get the maximum and minimum of GDP per capita for all continents.
+### Welcome to HW\#3.
 
-###### In the table, we can see the MEAN, MAX and MIN gdps per capita in all the continents.
+-   Instruction: Get the maximum and minimum of GDP per capita for all continents.
+
+##### In the table, we can see the MEAN, MAX and MIN gdps per capita in all the continents.
 
 ``` r
 gdps<- gapminder %>%
@@ -46,7 +48,7 @@ gdps %>%
 | Europe    |  14469.476|   49357.19|    973.5332|
 | Oceania   |  18621.609|   34435.37|  10039.5956|
 
-###### There is a lot of contrast in Asia's gdps. It has extreme numbers, the hights and the second lowest gdps in all time.
+##### There is a lot of contrast in Asia's gdps. It has extreme numbers, the hights and the second lowest gdps in all time.
 
 ``` r
 gapminder %>%
@@ -57,9 +59,9 @@ gapminder %>%
 
 ![](HW3_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-3-1.png)
 
--   Compute a trimmed mean of life expectancy for different years. Or a weighted mean, weighting by population. Just try something other than the plain vanilla mean.
+-   Instruction: Compute a trimmed mean of life expectancy for different years. Or a weighted mean, weighting by population. Just try something other than the plain vanilla mean.
 
-###### Here I calculated both the **trimmed** and **weighted** mean of the life expectancy per year.
+##### Here I calculated both the **trimmed** and **weighted** mean of the life expectancy per year.
 
 ``` r
 means<- gapminder %>%
@@ -94,9 +96,9 @@ gapminder %>%
 
 ![](HW3_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-4-1.png)
 
--   How is life expectancy changing over time on different continents?
+-   Instruction: How is life expectancy changing over time on different continents?
 
-###### Life expectancy is increasing in most countries. Understandably, countries with low GDP per capita and countries facing internal conflicts (with war or diseases) seem slower growth and setbacks.
+##### Life expectancy is increasing in most countries. Understandably, countries with low GDP per capita and countries facing internal conflicts (with war or diseases) seem slower growth and setbacks.
 
 ``` r
 ggplot(gapminder, aes(lifeExp, year , size= gdpPercap, color= continent)) +
@@ -106,7 +108,7 @@ ggplot(gapminder, aes(lifeExp, year , size= gdpPercap, color= continent)) +
 
 ![](HW3_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-5-1.png)
 
--   Report the absolute and/or relative abundance of countries with low life expectancy over time by continent: Compute some measure of worldwide life expectancy – you decide
+-   Instruction: Report the absolute and/or relative abundance of countries with low life expectancy over time by continent: Compute some measure of worldwide life expectancy – you decide
 
 The benchmark for the analysis is the mean life expectancy (59.47444). I will devide the results in **high** life expectancy if it is higher than the mean or **low** if otherwise.
 
@@ -149,7 +151,7 @@ gapminder %>%
 
 ![](HW3_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-7-1.png)
 
-###### Find countries with interesting stories. Open-ended and, therefore, hard. Promising but unsuccessful attempts are encouraged. This will generate interesting questions to follow up on in class.
+-   Instruction:Find countries with interesting stories. Open-ended and, therefore, hard. Promising but unsuccessful attempts are encouraged.
 
 -   Countries with painfully low life expectancy due to various factors such as **war**, **diseases** or **scarcity** of resources. The crisis in Rwanda brought the life expectancy to aprox. 23.59 in the 90's.
 
@@ -163,9 +165,9 @@ gapminder %>%
 
 ![](HW3_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-8-1.png)
 
--   Make up your own! Between the dplyr coverage in class and the list above, I think you get the idea.
+-   Instruction: Make up your own! Between the dplyr coverage in class and the list above, I think you get the idea.
 
-###### The 10 countries with the lowest life expectancy growth.
+##### The 10 countries with the lowest life expectancy growth.
 
 ``` r
 gapminder %>%
@@ -189,7 +191,7 @@ gapminder %>%
 | Zimbabwe  |  1997|   46.809|           -1.642|
 | Botswana  |  2002|   46.634|           -0.988|
 
-###### The three countries with lowest life expentancy in 2007.
+##### The three countries with lowest life expentancy in 2007.
 
 ``` r
 gapminder %>%
@@ -204,7 +206,7 @@ filter(year== 2007) %>%
 | Mozambique | Africa    |  2007|   42.082|  19951656|   823.6856|
 | Zambia     | Africa    |  2007|   42.384|  11746035|  1271.2116|
 
-###### Swaziland had the lowest life expectancy in 2007. However, compared to Mozambique and Zambia (the next two countries in the list), its gdp Per capita is high.
+##### Swaziland had the lowest life expectancy in 2007. However, compared to Mozambique and Zambia (the next two countries in the list), its gdp Per capita is high.
 
 ``` r
 gapminder %>%
