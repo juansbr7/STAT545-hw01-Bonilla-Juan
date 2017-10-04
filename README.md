@@ -11,6 +11,7 @@ Welcome to Juan's homework1 created in Github and edited locally in Rstudio.
 * Click here to see my repo--> https://github.com/juansbr7/STAT545-hw01-Bonilla-Juan
 * Markdown doc--> https://github.com/juansbr7/STAT545-hw01-Bonilla-Juan/blob/master/juanhw1.Rmd
 * Homework 2 --> https://github.com/juansbr7/STAT545-hw01-Bonilla-Juan/blob/master/HW2.md
+* Homework 3 --> https://github.com/juansbr7/STAT545-hw01-Bonilla-Juan/blob/master/HW3.md
 * More about me-->  http://juan-sebastian-bonilla.strikingly.com/
 
 
