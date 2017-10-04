@@ -61,7 +61,7 @@ gapminder %>%
 
 -   Instruction: Compute a trimmed mean of life expectancy for different years. Or a weighted mean, weighting by population. Just try something other than the plain vanilla mean.
 
-##### Here I calculated both the **trimmed** and **weighted** mean of the life expectancy per year.
+##### Here I calculated both the **trimmed** and **weighted** by population mean of the life expectancy per year.
 
 ``` r
 means<- gapminder %>%
@@ -110,7 +110,7 @@ ggplot(gapminder, aes(lifeExp, year , size= gdpPercap, color= continent)) +
 
 -   Instruction: Report the absolute and/or relative abundance of countries with low life expectancy over time by continent: Compute some measure of worldwide life expectancy – you decide
 
-The benchmark for the analysis is the mean life expectancy (59.47444). I will devide the results in **high** life expectancy if it is higher than the mean or **low** if otherwise.
+The benchmark for the analysis is the mean life expectancy (59.47444). I will split the results in **high** life expectancy if it is higher than the mean or **low** if otherwise.
 
 ``` r
 mean(gapminder$lifeExp)
@@ -153,7 +153,7 @@ gapminder %>%
 
 -   Instruction:Find countries with interesting stories. Open-ended and, therefore, hard. Promising but unsuccessful attempts are encouraged.
 
--   Countries with painfully low life expectancy due to various factors such as **war**, **diseases** or **scarcity** of resources. The crisis in Rwanda brought the life expectancy to aprox. 23.59 in the 90's.
+-   Countries with painfully low life expectancy (under 35) due to various factors such as **war**, **diseases** or **scarcity** of resources. The crisis in Rwanda brought the life expectancy to aprox. 23.59 in the 90's.
 
 ``` r
 gapminder %>%
@@ -224,7 +224,7 @@ Reflection
 
 1\_ I need to refresh my knowledge in statistics in order to understand what linear regression, or any regression, means and what it indicates. So far, I have made advance in the aesthetics part (colors, shapes, different types of graphs). I liked the peer reviews because i could see the progress of other people and learn from the way they read data and interpret the results; i still need to work more on that.
 
-2\_ It is really fun to explore this dataset, it tells lots of stories. I found a little trouble plotting all the countries at the same time because it is a lots of datapoints and the graphs and labels overlap too much. I find that low alphatransparency helps us seeing the overlaps which is important.
+2\_ It is really fun to explore this dataset, it tells lots of stories. I found a little trouble plotting all the countries at the same time because it is a lot of datapoints and the graphs and labels overlap too much. I find that low alphatransparency helps us seeing the overlaps which is important.
 
 3\_ I tried to write most of the code using piping but sometimes I used the simple nested functions just to try everything.
 
