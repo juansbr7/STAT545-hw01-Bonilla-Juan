@@ -10,7 +10,7 @@ library(gapminder)
 library(tidyverse)
 ```
 
-### Welcome to HW#3.  
+### Welcome to HW#3 
 + Instruction: Get the maximum and minimum of GDP per capita for all continents.
 
 ##### In the table, we can see the MEAN, MAX and MIN gdps per capita in all the continents. 

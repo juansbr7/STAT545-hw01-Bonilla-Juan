@@ -20,7 +20,7 @@ library(tidyverse)
     ## filter(): dplyr, stats
     ## lag():    dplyr, stats
 
-### Welcome to HW\#3.
+### Welcome to HW\#3
 
 -   Instruction: Get the maximum and minimum of GDP per capita for all continents.
 
