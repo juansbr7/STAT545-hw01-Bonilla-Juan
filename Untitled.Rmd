@@ -1,0 +1,157 @@
+---
+title: "HMW4"
+author: "juan"
+date: '2017-10-04'
+output: github_document
+---
+```{r}
+library(gapminder)
+suppressMessages(library(tidyverse))
+```
+
+Activity:
+Make a tibble with one row per year and columns for life expectancy for two or more countries.
+Use knitr::kable() to make this table look pretty in your rendered homework.
+Take advantage of this new data shape to scatterplot life expectancy for one country against that of another.
+
+## I'd like to work with countries in South America. Before picking my two countries I'd like to see all their life expectancies, gdps and populations to pick two with high contrast. 
+```{r}
+south_america<-  c("Colombia", "Chile", "Argentina", "Uruguay", "Ecuador", "Bolivia", "Paraguay", "Peru", "Brazil", "Venezuela")
+south<-gapminder %>%
+  filter(country %in% south_america) %>%
+  arrange(country)
+south %>% head(15) %>% 
+   knitr::kable(format = "markdown", padding=2, caption= "Preview of the Growth of Life expectancy in South America")
+
+south %>% 
+  ggplot(aes(gdpPercap , lifeExp, size= pop/10^6, colour= country )) +
+    facet_grid(~ year) +
+    geom_point(alpha= 0.5)+
+    theme(axis.text.x = element_text(angle=90),
+          plot.title = element_text(hjust=0.5))+
+    ggtitle("Life Expectancy in South America")+
+    scale_size_continuous("Population in Millions") 
+```
+
+## The results show that Bolivia has always had the lowest life expectancy in the region. On the other hand,  Chile became the country with the highest life expectancy in 1987.
+
+```{r}
+twocountries <- gapminder %>%
+  select(country, year, lifeExp) %>%
+  filter(country=="Bolivia"| country== "Chile") %>% 
+  spread(key = country, value = lifeExp) %>% 
+  setNames(c("Year", "LifeExp_Bolivia", "LifeExp_Chile" ))
+twocountries %>% 
+    knitr::kable()
+
+```
+
+### Let's see the results compared in the graph
+
+
+```{r}
+twocountries %>% 
+  ggplot(aes(LifeExp_Bolivia,LifeExp_Chile))+
+  geom_point( colour= "green")+
+  geom_smooth(method = "lm", se = FALSE, colour= "darkblue")
+  
+```
+
+
+Activity:
+
+Compute some measure of life expectancy (mean? median? min? max?) for all possible combinations of continent and year. Reshape that to have one row per year and one variable for each continent. Or the other way around: one row per continent and one variable per year.Use knitr::kable() to make these tables look pretty in your rendered homework.Is there a plot that is easier to make with the data in this shape versis the usual form? If so (or you think so), try it! Reflect.
+
+```{r}
+lifeEx_world<- gapminder %>%
+  group_by(year, continent) %>% 
+  select(lifeExp, continent) %>% 
+summarise(mean_le= mean(lifeExp, trim= 0.2), max_le= max(lifeExp), min_le= min(lifeExp), md_le= median(lifeExp)) 
+
+maxlifeEx_world<-lifeEx_world %>% 
+  select(year, max_le, continent) %>% 
+    spread(key = year, value = max_le) %>% 
+  knitr::kable(format = "markdown", padding=2, caption= "Max Life Expectancy per year in all Countries")
+maxlifeEx_world
+minlifeEx_world<-lifeEx_world %>% 
+  select(year, min_le, continent) %>% 
+    spread(key = year, value = min_le) %>% 
+  knitr::kable(format = "markdown", padding=2, caption= "Min Life Expectancy per year in all Countries")
+minlifeEx_world
+lifeEx_world %>% 
+  ggplot(aes(x= year, y= mean_le )) +
+  facet_grid(~ continent)+
+    geom_ribbon(aes(ymin= min_le, ymax= max_le), fill= "lightgreen")+
+  geom_line(aes(y= mean_le, colour= "mean_le"))+
+      theme(axis.text.x = element_text(angle=90),
+          plot.title = element_text(hjust=0.5))+
+    geom_line(aes(y=md_le , colour= "md_le"))+
+      ggtitle("Max, Min, Mean and Median Life Expectancy in all Continents")+
+      ylab("Life Expectancy")+
+      xlab("years") 
+```
+
+Join, merge, look up:
+Problem: You have two data sources and you need info from both in one new data object.
+Solution: Perform a join, which borrows terminology from the database world, specifically SQL.
+
+Activity:
+Create a second data frame, complementary to Gapminder. Join this with (part of) Gapminder using a dplyr join function and make some observations about the process and result. Explore the different types of joins.
+
+```{r}
+south_america<-  c("Colombia", "Chile", "Argentina", "Uruguay", "Ecuador", "Bolivia", "Paraguay", "Peru", "Brazil", "Venezuela")
+dataset1<- gapminder %>%
+  filter(country %in% south_america, year== 2007) %>%
+  select(country, pop, gdpPercap, year)
+
+
+  country= c("Guyana", "Colombia", "Suriname", "Chile", "Argentina", "Uruguay", "Ecuador", "Bolivia", "Paraguay", "Peru", "Brazil", "Venezuela", "French Guiana")
+  official_languages= c("English", "Spanish" ,"Dutch", "Spanish", "Spanish", "Spanish", "Spanish", "Spanish", "Spanish", "Spanish", "Portuguese", "Spanish", "French") 
+  capital_city= c("Georgetown", "Bogota", "Paramaribo", "Santiago", "Buenos Aires", "Montevideo", "Quito", "La Paz", "Asuncion", "Lima", "Brazilia", "Caracas", "Cayenne")
+dataset2<- data.frame(country, capital_city, official_languages)
+
+dataset3<- data.frame(capital_city, indigenous_languages= c("Caribean", "Quechua","Caribean" , "Aymara", "Quechua", "Guarani" ,"Quechua", "Aymara" , "Guarani","Aymara","Tupian" ,"Quechua", "Caribean"), official_languages )
+
+dataset1 %>% 
+  knitr::kable(format = "markdown", padding=2, caption= "South America General Info")
+dataset2 %>% 
+  knitr::kable(format = "markdown", padding=2, caption= " Languages in South America")
+dataset3 %>% 
+  knitr::kable(format = "markdown", padding=2, caption= " Capitals in South America")
+```
+
+
+## The goal will be to get a table with the country, capital city, population, official language and indigenous language. As we could see previously, parts of that information is stored in 3 different datasets and I need to join them and keep what I need from each of them. 
+### things to notice:
++ dataset 1 has 10 countries while dataset 2 and 3 have 13, so some joins will bring null values.
++ datasets are joined either by country or official language
+1. left_join: It brings the values from dataset2 into dataset 1. 3 Values are lost: Guyana, Suriname and French Guiana. 
+```{r}
+left_join(dataset1, dataset2, by= "country")%>% 
+  knitr::kable()
+```
+
+2. right_join: keeps the values in dataset2 and brings the values in dataset1. Guyana, Suriname and French Guiana appear with null values.
+```{r}
+country_pop<- right_join(dataset1, dataset2, by= "country") %>% select(country, pop)
+country_pop %>% 
+  knitr::kable()
+```
+
+3. inner_join: joins the common values in the two datasets.
+```{r}
+country_langs<-inner_join(dataset2, dataset3, by= c("capital_city", "official_languages")) 
+country_langs %>% 
+  knitr::kable()
+```
+
+4. Now, we have all we need in country_pop and country_langs. I will bring them together with a final join and there we get all the information we needed in one dataset.
+
+```{r}
+right_join(country_pop, country_langs, by= "country")%>% 
+  knitr::kable()
+```
+
+## Reflexion
+
+I had a bit of trouble reshaping data. I did not use gather() for that reason. I need to practice more with those two functions as well as with the other types of joins. I realized that if you join two tables using a column that does not have unique values (like official_languages) the results are very messy. 
