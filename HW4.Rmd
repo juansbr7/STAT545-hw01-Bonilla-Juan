@@ -125,27 +125,27 @@ dataset3 %>%
 ### things to notice:
 + dataset 1 has 10 countries while dataset 2 and 3 have 13, so some joins will bring null values.
 + datasets are joined either by country or official language
-1. left_join: It brings the values from dataset2 into dataset 1. 3 Values are lost: Guyana, Suriname and French Guiana. 
+#### 1. left_join: It brings the values from dataset2 into dataset 1. 3 Values are lost: Guyana, Suriname and French Guiana. 
 ```{r}
 left_join(dataset1, dataset2, by= "country")%>% 
   knitr::kable()
 ```
 
-2. right_join: keeps the values in dataset2 and brings the values in dataset1. Guyana, Suriname and French Guiana appear with null values.
+#### 2. right_join: keeps the values in dataset2 and brings the values in dataset1. Guyana, Suriname and French Guiana appear with null values.
 ```{r}
 country_pop<- right_join(dataset1, dataset2, by= "country") %>% select(country, pop)
 country_pop %>% 
   knitr::kable()
 ```
 
-3. inner_join: joins the common values in the two datasets.
+#### 3. inner_join: joins the common values in the two datasets.
 ```{r}
 country_langs<-inner_join(dataset2, dataset3, by= c("capital_city", "official_languages")) 
 country_langs %>% 
   knitr::kable()
 ```
 
-4. Now, we have all we need in country_pop and country_langs. I will bring them together with a final join and there we get all the information we needed in one dataset.
+#### 4. Now, we have all we need in country_pop and country_langs. I will bring them together with a final join and there we get all the information we needed in one dataset.
 
 ```{r}
 right_join(country_pop, country_langs, by= "country")%>% 
