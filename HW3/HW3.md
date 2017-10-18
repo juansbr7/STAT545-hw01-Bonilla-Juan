@@ -217,3 +217,6 @@ Reflection
 3\_ I tried to write most of the code using piping but sometimes I used the simple nested functions just to try everything.
 
 4\_ I learned the hard way that &lt;- and = can not be used interchangably to define variables, as I learned in my first R course. They throw different results when used in nested functions.
+
+## jump to Homework 4 --> ![Juan](https://github.com/juansbr7/STAT545Bonilla-Juan/blob/master/HW4/HW4.md)
+
