@@ -24,19 +24,19 @@ a<- filter(gapminder, continent == "Americas")
 select(filter(a, country== "Colombia"), country, gdpPercap, lifeExp, year) 
 ```
 ## The life Expectancy looks to be near 75
-```{r}
+```{r figure2.1}
 hist(gapminder$lifeExp, col="green")
 ```
 
 ####In this second part of the assignment, I'm going to show the increment of population, life expectancy and gdpper capita in Colombia and other contries in the Americas since the year I was born (1987). This is to prove my theory that I brought good things to the world.
 Here we have Colombia's Life Expectancy, gdpPercapita and Population digits since 1987 to 2004. As we can see in the graph below there was a hiccoup in the economy in 2002 follow by an significant recovery.
-```{r}
+```{r figure2}
 my_colombia<- a %>% 
   filter(country== "Colombia", year >= 1987) %>%
   select(country, year, lifeExp, gdpPercap, pop)
 my_colombia
 ```
-```{r pressure, echo=FALSE}
+```{r figure2.2, echo=FALSE}
 ggplot(my_colombia, aes(x=year, y=gdpPercap))+ geom_path()+
   geom_bar(stat="identity", color="green", fill="steelblue")
 ```
@@ -48,7 +48,7 @@ mutate(my_colombia, inc_lifeExp= inc(lifeExp, lifeExp[+1]), inc_gdpPercap= inc(g
 ```
 
 ## Now, let's see the population vs gdpPercap 
-```{r}
+```{r figure2.3}
 my_colombia %>%
   arrange(year) %>% 
   ggplot(aes(pop, gdpPercap)) +
@@ -57,7 +57,7 @@ my_colombia %>%
 ```
 
 ## But enough about Colombia, let's see how other countries in the Americas have done since I came to earth:
-```{r}
+```{r figure2.4}
 a %>%
   group_by(country) %>% 
   ggplot(aes(year, gdpPercap)) + geom_smooth()+

@@ -109,7 +109,7 @@ The life Expectancy looks to be near 75
 hist(gapminder$lifeExp, col="green")
 ```
 
-![](HW2_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-2-1.png)
+![](HW2_files/figure-markdown_github-ascii_identifiers/figure2.1-1.png)
 
 #### In this second part of the assignment, I'm going to show the increment of population, life expectancy and gdpper capita in Colombia and other contries in the Americas since the year I was born (1987). This is to prove my theory that I brought good things to the world.
 
@@ -131,7 +131,7 @@ my_colombia
     ## 4 Colombia  2002  71.682  5755.260 41008227
     ## 5 Colombia  2007  72.889  7006.580 44227550
 
-![](HW2_files/figure-markdown_github-ascii_identifiers/pressure-1.png)
+![](HW2_files/figure-markdown_github-ascii_identifiers/figure2.2-1.png)
 
 Now let's look at the growing life expectancy variable. Here are the increment numbers and **the function that I wrote** to see the results:
 --------------------------------------------------------------------------------------------------------------------------------------------
@@ -161,7 +161,7 @@ my_colombia %>%
   geom_path(color= "blue")
 ```
 
-![](HW2_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-5-1.png)
+![](HW2_files/figure-markdown_github-ascii_identifiers/figure2.3-1.png)
 
 But enough about Colombia, let's see how other countries in the Americas have done since I came to earth:
 ---------------------------------------------------------------------------------------------------------
@@ -175,6 +175,6 @@ a %>%
 
     ## `geom_smooth()` using method = 'loess'
 
-![](HW2_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-6-1.png)
+![](HW2_files/figure-markdown_github-ascii_identifiers/figure2.4-1.png)
 
 #### So, we can conclude that most countries have seen some improvemnts in gdpPercapita and an increase in population. (Also, that I haven't learnt how to read the graphs and I specualte a lot, I'm working on that)
