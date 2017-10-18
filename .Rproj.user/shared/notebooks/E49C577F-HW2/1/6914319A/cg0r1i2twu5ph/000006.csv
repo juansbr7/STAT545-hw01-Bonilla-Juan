@@ -1,7 +1,0 @@
-"0","a %>%"
-"0","  group_by(country) %>% "
-"0","  ggplot(aes(year, gdpPercap)) + geom_smooth()+"
-"0","  geom_point(aes(color= country, size= pop ))"
-"2","Error in UseMethod(""group_by_"") : 
-  no applicable method for 'group_by_' applied to an object of class ""c('double', 'numeric')""
-"
