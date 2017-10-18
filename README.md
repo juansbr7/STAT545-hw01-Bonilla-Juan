@@ -1,4 +1,4 @@
-# STAT545-hw01-Bonilla-Juan
+# STAT545-Bonilla-Juan
 
 
 Welcome to Juan's homework1 created in Github and edited locally in Rstudio.
