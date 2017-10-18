@@ -1,5 +1,5 @@
 ---
-title: "HMWK2"
+title: "HW2"
 author: "juan"
 date: '2017-09-26'
 output: github_document
@@ -9,7 +9,7 @@ output: github_document
 In this first part of the assignment, we will see the **data type** of the gapminder package and variables as well as the **structure**, **names** and **summaries**. 
 ```{r}
 library(gapminder)
-library(tidyverse)
+suppressMessages(library(tidyverse))
 
 str(gapminder)
 names(gapminder)

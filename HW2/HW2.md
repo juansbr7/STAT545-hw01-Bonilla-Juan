@@ -1,4 +1,4 @@
-HMWK2
+HW2
 ================
 juan
 2017-09-26
@@ -10,22 +10,8 @@ In this first part of the assignment, we will see the **data type** of the gapmi
 
 ``` r
 library(gapminder)
-library(tidyverse)
-```
+suppressMessages(library(tidyverse))
 
-    ## Loading tidyverse: ggplot2
-    ## Loading tidyverse: tibble
-    ## Loading tidyverse: tidyr
-    ## Loading tidyverse: readr
-    ## Loading tidyverse: purrr
-    ## Loading tidyverse: dplyr
-
-    ## Conflicts with tidy packages ----------------------------------------------
-
-    ## filter(): dplyr, stats
-    ## lag():    dplyr, stats
-
-``` r
 str(gapminder)
 ```
 
@@ -191,5 +177,4 @@ a %>%
 
 ![](HW2_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-6-1.png)
 
-So, we can conclude that most countries have seen some improvemnts in gdpPercapita and an increase in population. (Also, that I haven't learnt how to read the graphs and I specualte a lot)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### So, we can conclude that most countries have seen some improvemnts in gdpPercapita and an increase in population. (Also, that I haven't learnt how to read the graphs and I specualte a lot, I'm working on that)
