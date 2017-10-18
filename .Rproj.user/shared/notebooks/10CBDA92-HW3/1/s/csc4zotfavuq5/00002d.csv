@@ -1,8 +1,0 @@
-"0","gdps<- gapminder %>%"
-"0","  group_by(continent) %>% "
-"0","  select(gdpPercap) %>% "
-"0","summarise(mean_gdp= mean(gdpPercap),max_gdp= max(gdpPercap), min_gdp= min(gdpPercap) ) "
-"2","Adding missing grouping variables: `continent`
-"
-"0","gdps %>% "
-"0","  knitr::kable(format = ""markdown"", padding=2, caption= ""MEAN, MAX and MIN gdps per capita"")"
