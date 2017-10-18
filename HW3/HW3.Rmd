@@ -1,5 +1,5 @@
 ---
-title: "HW#3"
+title: "HW3"
 author: "juan"
 date: '2017-09-27'
 output: github_document
@@ -7,7 +7,7 @@ output: github_document
 
 ```{r}
 library(gapminder)
-library(tidyverse)
+suppressMessages(library(tidyverse))
 ```
 
 ### Welcome to HW#3 
@@ -25,7 +25,7 @@ gdps %>%
 
 
 ##### There is a lot of contrast in Asia's gdps. It has extreme numbers, the hights and the second lowest gdps in all time.
-```{r}
+```{r figure3.1}
 gapminder %>%
   group_by(continent) %>% 
   ggplot(aes(year, gdpPercap, color= continent))+
@@ -37,7 +37,7 @@ gapminder %>%
 
 ##### Here I calculated both the **trimmed** and **weighted** mean of the life expectancy per year. 
 
-```{r}
+```{r figure3.2}
 means<- gapminder %>%
   group_by(year) %>%
   summarize(tm_lifeExp = mean(lifeExp, trim= 0.2), wmean= weighted.mean(lifeExp, pop)) 
@@ -54,7 +54,7 @@ gapminder %>%
 
 ##### Life expectancy is increasing in most countries. Understandably, countries with low GDP per capita and countries facing internal conflicts (with war or diseases) seem slower growth and setbacks.
 
-```{r}
+```{r figure3.3}
 ggplot(gapminder, aes(lifeExp, year , size= gdpPercap, color= continent)) +
     facet_grid(~ continent) +
     geom_point(alpha= 0.3)
@@ -73,7 +73,7 @@ gapminder %>%
 
 ```
 
-```{r}
+```{r figure3.4}
 gapminder %>%
   arrange(year, lifeExp) %>% 
   mutate(l_ex=ifelse(lifeExp<= mean(lifeExp), "low", "high")) %>% 
@@ -87,7 +87,7 @@ gapminder %>%
 + Instruction:Find countries with interesting stories. Open-ended and, therefore, hard. Promising but unsuccessful attempts are encouraged.
 
 + Countries with painfully low life expectancy due to various factors such as **war**, **diseases** or **scarcity** of resources. The crisis in Rwanda brought the life expectancy to aprox. 23.59  in the 90's.
-```{r}
+```{r figure3.5}
 gapminder %>%
   filter(lifeExp<= 35) %>% 
   arrange(year, lifeExp) %>% 
@@ -116,7 +116,7 @@ filter(year== 2007) %>%
 ```
 
 ##### Swaziland had the lowest life expectancy in 2007. However, compared to Mozambique and Zambia (the next two countries in the list), its gdp Per capita is high.
-```{r}
+```{r figure3.6}
 gapminder %>%
   filter(country== "Swaziland" | country== "Mozambique" | country== "Zambia" ) %>% 
   select(country, year, lifeExp, gdpPercap ) %>%
