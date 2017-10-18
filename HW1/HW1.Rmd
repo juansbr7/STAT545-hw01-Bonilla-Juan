@@ -16,5 +16,5 @@
 + I am looking for opportunities, jobs or internships where I can enahnce my learning and get some work done.
 
 
-* Homework 2 --> ![Juan](hhttps://github.com/juansbr7/STAT545Bonilla-Juan/blob/master/HW2/HW2.md)
+* Homework 2 --> ![Juan](https://github.com/juansbr7/STAT545Bonilla-Juan/blob/master/HW2/HW2.md)
 
