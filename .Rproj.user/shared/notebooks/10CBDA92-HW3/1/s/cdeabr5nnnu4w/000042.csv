@@ -1,3 +1,0 @@
-"0","ggplot(gapminder, aes(lifeExp, year , size= gdpPercap, color= continent)) +"
-"0","    facet_grid(~ continent) +"
-"0","    geom_point(alpha= 0.3)"
