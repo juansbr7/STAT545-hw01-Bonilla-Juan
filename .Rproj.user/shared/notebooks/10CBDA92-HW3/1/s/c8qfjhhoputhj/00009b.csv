@@ -1,6 +1,0 @@
-"0","gapminder %>%"
-"0","  group_by(country) %>% "
-"0","  select(country, year, lifeExp) %>% "
-"0","  mutate(lifeExp_growth = lifeExp - first(lifeExp)) %>% "
-"0","  arrange(lifeExp_growth) %>% head(10) %>% "
-"0","  knitr::kable(format = ""markdown"", padding=2, caption= ""Life expectancy growth"")"
