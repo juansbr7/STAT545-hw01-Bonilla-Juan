@@ -51,7 +51,7 @@ south %>%
     scale_size_continuous("Population in Millions") 
 ```
 
-![](HW4_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-2-1.png)
+![](HW4_files/figure-markdown_github-ascii_identifiers/figure4.1-1.png)
 
 The results show that Bolivia has always had the lowest life expectancy in the region. On the other hand, Chile became the country with the highest life expectancy in 1987.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -90,7 +90,7 @@ twocountries %>%
   geom_smooth(method = "lm", se = FALSE, colour= "darkblue")
 ```
 
-![](HW4_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-4-1.png)
+![](HW4_files/figure-markdown_github-ascii_identifiers/figure4.2-1.png)
 
 Activity:
 
@@ -359,7 +359,7 @@ lifeEx_world %>%
       xlab("years") 
 ```
 
-![](HW4_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-5-1.png)
+![](HW4_files/figure-markdown_github-ascii_identifiers/figure4.3-1.png)
 
 Join, merge, look up: Problem: You have two data sources and you need info from both in one new data object. Solution: Perform a join, which borrows terminology from the database world, specifically SQL.
 

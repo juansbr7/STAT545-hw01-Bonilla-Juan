@@ -15,7 +15,7 @@ Use knitr::kable() to make this table look pretty in your rendered homework.
 Take advantage of this new data shape to scatterplot life expectancy for one country against that of another.
 
 ## I'd like to work with countries in South America. Before picking my two countries I'd like to see all their life expectancies, gdps and populations to pick two with high contrast. 
-```{r}
+```{r figure4.1}
 south_america<-  c("Colombia", "Chile", "Argentina", "Uruguay", "Ecuador", "Bolivia", "Paraguay", "Peru", "Brazil", "Venezuela")
 south<-gapminder %>%
   filter(country %in% south_america) %>%
@@ -49,7 +49,7 @@ twocountries %>%
 ### Let's see the results compared in the graph
 
 
-```{r}
+```{r figure4.2}
 twocountries %>% 
   ggplot(aes(LifeExp_Bolivia,LifeExp_Chile))+
   geom_point( colour= "green")+
@@ -62,7 +62,7 @@ Activity:
 
 Compute some measure of life expectancy (mean? median? min? max?) for all possible combinations of continent and year. Reshape that to have one row per year and one variable for each continent. Or the other way around: one row per continent and one variable per year.Use knitr::kable() to make these tables look pretty in your rendered homework.Is there a plot that is easier to make with the data in this shape versis the usual form? If so (or you think so), try it! Reflect.
 
-```{r}
+```{r figure4.3}
 lifeEx_world<- gapminder %>%
   group_by(year, continent) %>% 
   select(lifeExp, continent) %>% 
