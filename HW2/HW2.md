@@ -178,3 +178,6 @@ a %>%
 ![](HW2_files/figure-markdown_github-ascii_identifiers/figure2.4-1.png)
 
 #### So, we can conclude that most countries have seen some improvemnts in gdpPercapita and an increase in population. (Also, that I haven't learnt how to read the graphs and I specualte a lot, I'm working on that)
+
+
+## Jump to Homework 3 --> ![Juan](https://github.com/juansbr7/STAT545Bonilla-Juan/blob/master/HW3/HW3.md)
