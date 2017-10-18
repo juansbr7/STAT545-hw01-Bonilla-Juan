@@ -1,4 +1,4 @@
-HMW4
+HW4
 ================
 juan
 2017-10-04
@@ -444,7 +444,7 @@ The goal will be to get a table with the country, capital city, population, offi
 ### things to notice:
 
 -   dataset 1 has 10 countries while dataset 2 and 3 have 13, so some joins will bring null values.
--   datasets are joined either by country or official language \#\#\#\# 1. left\_join: It brings the values from dataset2 into dataset 1. 3 Values are lost: Guyana, Suriname and French Guiana.
+-   datasets are joined either by country or official language \#\#\# 1. left\_join: It brings the values from dataset2 into dataset 1. 3 Values are lost: Guyana, Suriname and French Guiana.
 
 ``` r
 left_join(dataset1, dataset2, by= "country")%>% 
