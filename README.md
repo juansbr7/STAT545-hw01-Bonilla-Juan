@@ -1,6 +1,6 @@
 # STAT545_Bonilla_Juan
 
-
+NOTE-to-SELF: Rstudio is highly inconsistent and crashes sometimes. Always save all the time. 
 Welcome to Juan's homework1 created in Github and edited locally in Rstudio.
 
   
