@@ -3,10 +3,7 @@
 
 Welcome to Juan's homework1 created in Github and edited locally in Rstudio.
 
-### Top 3 things about me: ###
-1) Second year MLIS student 
-2) Interested in Data mining/analysis/visualization 
-3) Basic/intermediate level of R and Python programming languages.   
+  
 
 
 ***Table of Contents*** 
