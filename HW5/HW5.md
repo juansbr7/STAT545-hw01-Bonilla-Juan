@@ -549,4 +549,4 @@ ggplot(both, aes(country, weird_food, fill= weird_food))+ geom_bar(stat= "identi
 
 ###### Reflection
 
-I had so much fun tweaking graphs and thinking about new things to do. Thanks
+I had so much fun tweaking graphs and thinking about new things to do. Thank you
