@@ -1,10 +1,9 @@
 # STAT545_Bonilla_Juan
 
-NOTE-to-SELF: Rstudio is highly inconsistent and crashes sometimes. Always save all the time. 
-Welcome to Juan's homework1 created in Github and edited locally in Rstudio.
+NOTE-to-SELF: Dear Juan remember that Rstudio is highly inconsistent and crashes unexpectandly. Always save changes all the time, please.
 
-  
 
+Welcome to Juan's homeworks created in Github and edited locally in Rstudio. Above are all the homeworks associated to the main topics.
 
 ***Table of Contents*** 
 
