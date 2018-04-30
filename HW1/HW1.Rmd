@@ -15,5 +15,5 @@ Completed a Master of Library and Information Studies at the University of Briti
 + In the future, I see myself working with a team of knowledgable people doing research and learning something new everyday.
 
 
-* See some of my projects at ![Juan](https://github.com/juansbr7/STAT545Bonilla-Juan/blob/master/HW2/HW2.md)
+* See some of my projects at ![Juan](https:// )
 
