@@ -14,5 +14,5 @@ Completed a Master of Library and Information Studies at the University of Briti
 + In the future, I see myself working with a team of knowledgable people doing research and learning something new everyday.
 
 
-* See some of my projects at ![Juan](https:// )
+* See some of my projects at ![Juan](http://juan-sebastian-bonilla.strikingly.com )
 
