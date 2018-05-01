@@ -1,0 +1,486 @@
+---
+title: "Blockchain: Visual Analytics Project"
+author: "Juan Bonilla"
+date: '2018-03-06'
+output: pdf_document
+---
+
+
+```{r setup, include=FALSE}
+suppressWarnings(suppressMessages(easypackages::libraries("ggplot2", "xml2", "purrr", "tidyverse", "pander", "stringr", "plyr", "knitr", "kableExtra", "formattable", "RColorBrewer", "tm", "Ida", "wordcloud", "qdap", "readr", "dendextend", "topicmodels","Rgraphviz", "graph", "bnlearn", "tidytext", "sentiment", "imager")))
+
+data("stop_words")
+```
+
+```{r warning=FALSE, error=FALSE,  include=FALSE}
+blockchain1 <- read_csv("~/Desktop/datablockchain/blockchain1.csv")
+```
+
+###THE DATASET:
+
+Data was collected by requesting tweet containing the terms #blockchain, #healthcare, #identity and #realestate to the Twitter Rest API from February 5th to March 5th. The results were stored in a .CSV file and analysed using tools such as Jigsaw, Netlynk, Sentiment viz and a variety of libraries for data wrangling and visualization in R language.
+
+###DATA CLEANING:
+
+User-generated data such twitter's messages come uses different encodings that hinder the data analysis process and could skew the results of the computations or create an error. Therefore, it is paramount to employ tools to correct or remove unsupported characters and prepare data for error-free manipulation. These tools could be software such as Open Refine or libraries such as stringr and purrr in R. These latter tools are particularly useful because they can be customized to select, replace, delete, move, or modify any character anywhere in the text given that the code is properly written.
+
+Standard procedures for removing trailing whitespace, embedded URLs, emoticons and some punctuation characters were executed on the data preserving important characters such as the commercial at (@) which indicates a user or a hashtag (#) which indicate a topic. These two attributes commonly appear at the beginning of the message to address other users and at the end of the message to emphasise a topic, however, in many cases, hashtags are used inside the message which could complicate the cleaning tasks. It is important to identify these two attributes because they are necessary for the network and cluster analysis. 
+
+Other formatting functions were performed to map terms and its abbreviations or nicknames. Cryptocurrencies commonly use abbreviations or contractions and identifying them successfully requires considering all the terms people use to refer to term. This aspect was taken into consideration in the data cleaning process where the official name of the cryptocurrency was linked to its currency, token or abbreviation to make the term frequency counts accurate and precise. Plural nouns also needed consideration since stripping the s at the end make it look the same but sometimes they are not. For example, new and news are very close, but they are unrelated while cryptocurrency and cryptocurrencies are technically different words, but they make reference to the same topic. Crypto may refer to cryptocurrency as well but it could also refer to cryptography in general. Context evaluation was important to determine the place of a term and how it should be treated. 
+
+### Extracting the text from the tweets 
+65223 documents in total. 
+Removing unrecognized UTF-8 characters such as emoticons
+
+```{r}
+blockchain_tweets<- blockchain1$text
+noemoticon_tweets<- gsub("[^\x01-\x7F]", "", blockchain_tweets)
+str(noemoticon_tweets)
+```
+
+### Deleting duplicates
+38097 unique documents (27126 duplicates) 
+
+```{r}
+noduplicate_tweets<- unique(noemoticon_tweets)
+str(noduplicate_tweets)
+```
+
+```{r include=FALSE}
+blockchain_source<- VectorSource(noduplicate_tweets)
+blockchain_corpus<-  VCorpus(blockchain_source)
+removeURL <- function(x) gsub("http[^[:space:]]*", "", x)
+clean_corpus <- function(corpus){
+  corpus <- tm_map(corpus, content_transformer(removeURL))
+  corpus <- tm_map(corpus, stripWhitespace)
+  corpus <- tm_map(corpus, removePunctuation)
+  corpus <- tm_map(corpus, content_transformer(tolower))
+  return(corpus)
+}
+blockchain_clean<- clean_corpus(blockchain_corpus)
+replaceWord <- function(corpus, oldword, newword) { 
+              tm_map(corpus, content_transformer(gsub),
+             pattern=oldword, replacement=newword)}
+
+mappcrypto<- function(corpus, source){
+  corpus <- replaceWord(source, " crypto ", " cryptocurrency ")
+  corpus <- replaceWord(corpus, " cryptocurrencies", " cryptocurrency ")
+  corpus <- replaceWord(corpus, " tokens ", " token ")
+  corpus <- replaceWord(corpus, "btc", "bitcoin")
+  corpus <- replaceWord(corpus, "xrp", "ripple")
+  corpus <- replaceWord(corpus, "ethereum", "eth")
+  corpus <- replaceWord(corpus, "eth", "ethereum")
+  corpus<-  replaceWord(corpus, "xrp", "ripple" )
+  corpus<-  replaceWord(corpus, "ltc", "litecoin" )
+  corpus<-  replaceWord(corpus, "darkcoin", "dash" )
+  corpus<-  replaceWord(corpus, "xmr", "monero" )
+  corpus<-  replaceWord(corpus, "zche", "zcash" )
+  return(corpus)}
+
+mystopwords<- c(stopwords('english'), "blockchain", "cryptocurrency", "rt ", "2018", "amp", "will", "via", "new", "now")
+```
+
+##TEXT ANALYSIS
+
+Text analysis was conducted on the tweets to identify the most used hashtags, the most prolific tweeters and the most popular tweets (measured by the number of retweets). The analysis utilized techniques to identify word frequency to identify the most commented topics related to #blockchain. 
+
+**CONSIDERATIONS:**
+
+Many considerations were made to get the most telling results from the text analysis. The first one was filtering out terms that appeared too frequently such as blockchain and cryptocurrency.  Being the searching term in the mining process, blockchain appeared at least once in every tweet. After blockchain, cryptocurrency, also referred as crypto, was also omitted as it appeared too frequently, and it is a broad term that could refer to many types of cryptocurrencies. 
+
+Other considerations were made in regard to RT treatment. There are two ways to interpret retweets: as a duplicate tweet or as a unique tweet with the same text content of another tweet. The second interpretation would consider that some people agree with the tweet they are retweeting and therefore borrow the words to express themselves. However, in many cases, people retweet as a way to participate in raffles or contests in some way. We can see this by looking at tweets like this:  
+
+```{r}
+im<-load.image("t1.png") %>% plot(axes=FALSE)
+```
+
+
+Many of the tweets that are advertisement are auto-generated and therefore they appear multiple times. This is a problem because it affects word frequency analysis in text analytics. On the other hand, treating RT as duplicates will disregard tweets with identical text and gives space for people who commented using their own thoughts. This last approach is very insightful because it allows us to see a wide breadth of views about blockchain.
+
+###MOST COMMON HASHTAGS
+
+```{r include=FALSE}
+hashtags<-unlist(map(noduplicate_tweets, str_extract_all, pattern= "#\\S+")) %>%  tolower()
+hashtags<- removePunctuation(hashtags)
+hashtags<- stripWhitespace(hashtags)
+hashtag<- str_replace_all(hashtags, "cryptocurrencies", "crypto")
+hashtag<- str_replace_all(hashtag, "cryptocurrency", "crypto")
+hashtag<- str_replace_all(hashtag, "crypto", "cryptocurrency")
+hashtag<- str_replace_all(hashtag, "btc", "bitcoin" )
+hashtag<- str_replace_all(hashtag, "xrp", "ripple" )
+hashtag<- str_replace_all(hashtag, "ltc", "litecoin" )
+hashtag<- str_replace_all(hashtag, "darkcoin", "dash" )
+hashtag<- str_replace_all(hashtag, "xmr", "monero" )
+hashtag<- str_replace_all(hashtag, "zche", "zcash" )
+hashtag<- str_replace_all(hashtag, "ethereum", "eth" )
+hashtag<- str_replace_all(hashtag, "eth", "ethereum" )
+hashs<- table(hashtag) 
+hashs<- cbind.data.frame(names(hashs),as.integer(hashs)) 
+names(hashs)<- c("hashtags", "h_repeats")
+frequenthashtags<- hashs %>% arrange(desc(h_repeats))
+frequenthashtags[3:13, ] %>% kable( "html") %>%  
+  kable_styling("striped", full_width = F)
+
+
+```
+
+
+```{r}
+frequenthashtags 
+```
+```{r include=FALSE}
+blockchain_corpus<- mappcrypto(blockchain_corpus, blockchain_clean)
+blockchain_corpus<- tm_map(blockchain_corpus, removeWords, mystopwords)
+blockchain_tdm<- TermDocumentMatrix(blockchain_corpus)
+blockchain_m<- as.matrix(blockchain_tdm)
+# Calculate the rowSums: term_frequency
+term_frequency<- rowSums(blockchain_m)
+
+# Sort term_frequency in descending order
+term_frequency<- subset(term_frequency, term_frequency >= 1500)
+term_frequency<- sort(term_frequency,decreasing = TRUE)
+# Create word_freqs
+word_freqs<- data.frame(term= names(term_frequency), num= term_frequency)
+```
+```{r}
+wordcloud(word_freqs$term, word_freqs$num, scale = c(5,1),max.words = 50,random.order= F, colors = brewer.pal(8, "Dark2"),rot.per = 0.35,use.r.layout = F)
+```
+
+**FREQUENT TERMS:**
+
+**ICO:** Token sales (also known as Initial Coin Offerings) offer a new form of fundraising which involves an exchange of currency for a digital token. The sales are proving immensely popular with high risk investors. While there is a huge variety of tokens being sold at present, with over 900 currently in the market, they generally fall into three main categories: protocol tokens, asset-backed tokens and access tokens (BACINA, 2017).    
+
+
+**AIRDROP:** An airdrop for a cryptocurrency is a procedure involves granting tokens to every address on a protocol (for instance, bitcoin or Ethereum) on a given date. 
+
+**TOKEN:** Since Bitcoin was invented, tokens have taken on a whole new role. Tokens utilising blockchain technology are not single use and have unique properties. When a user buys a token (such as a Bitcoin, Ether or another token), what is really purchased is a private key which gives control of a ledger entry on the relevant blockchain relating to the token purchased (BACINA, 2017).
+
+**ALTCOIN:** Alternative approaches to bitcoin can be divided broadly into two categories, based on the primary purpose of their development. If the primary purpose is to build a decentralized blockchain platform, they are called alternative chains; if the sole purpose of the alternative project is to introduce a new virtual currency, it's called an altcoin. (Bashir, I. 2017).
+
+###Advertisement:
+
+Many companies use Twitter for advertisement and they tweet and retweet messages relentlessly to influence people and attract users/customers. Key words such as "join", "free", "win" are "get" appeared in the term frequently analysis. Here are some samples:
+
+* Join samples: 15 days till the ICO ends! Join now https://t.co/G5u9sID34T #cryptocurrency #crypto #ethereum #bitcoin #ico #blockchain #blockchainexpert #blockchainconsultant #cryptocurrencyenthusiast #blockchainlaw #blockchainlegal #blockchainmarketing #icomarketing #icoinvestment https://t.co/LbyNEUiM7K
+
+* Free samples: #Pecunio offers a one stop shop for all crytocurrency. Pre #ICO live now until 21st of feb. Get you free 25% bonuses https://t.co/G3mG28fr9K #blockchain #profit https://t.co/NeLSabaMHR
+
+* Get samples: The ATC Airdrop is live..!!! Retweet' fill the form and get free ATC tokens... #ATC #BTC #ETHERUM #BLOCKCHAIN #ATC #FREE #TOKENS https://t.co/s1fHcLpb21
+
+* News samples: Blockchain Observatory and Forum to Bring EU to "Forefront" of Blockchain Tech: The European.. #blockchain #news https://t.co/p0lXiZsfrJ
+
+###Cryptocurrency
+
+It was not a surprise that cryptocurrency was the major topic related to blockchain. Many cryptocurrencies appeared often such as bitcoin, ripple, ethereum and lino. @linonetwork was the most frequently mentioned user with 1115 mentions. T Other terms related to the financial field appear such as fintech, airdrop, token
+
+###TOP TEN MOST MENTIONED CRYPTOCURRENCIES
+
+```{r include=FALSE}
+cyptocurrency<- c("bitcoin", "ripple",  "litecoin",  "dash",  "monero",  
+                  "ethereum",  "zcash","lino", "iota", "bitcoincash", "neo")
+
+topcrypto<-frequenthashtags %>% filter(hashtags %in% cyptocurrency) %>% 
+  head(10)
+topcrypto%>% kable( "latex") %>%  kable_styling("striped", full_width = F)
+main_cryptocurrencies<- ggplot(topcrypto, aes(x= fct_reorder(hashtags, h_repeats, .desc = T), y= h_repeats, fill= hashtags))+
+  xlab("Cryptocurrencies") + ylab("Count") + 
+  geom_bar(stat= "identity", colour= "black")+ 
+  scale_fill_manual(values=brewer.pal(n=11, "Paired"))+ 
+  theme(axis.text.x = element_text(angle=0))+ 
+  ggtitle("Most Popular Cryptocurrencies ")+ guides(fill= F)
+```
+
+```{r }
+main_cryptocurrencies
+```
+
+
+**OVERVIEW**
+
+**BITCOIN**: Bitcoin is the first application of the blockchain technology. In 2008, a paper on bitcoin, Bitcoin: A Peer-to-Peer Electronic Cash System was written by Satoshi Nakamoto. The first key idea introduced in the paper was that purely peer-to-peer electronic cash that does need an intermediary bank to transfer payments between peers. Bitcoin can be defined in various ways; it's a protocol, a digital currency, and a platform. It is a combination of peer-to-peer network, protocols, and software that facilitate the creation and usage of the digital currency named bitcoin. Note that Bitcoin with a capital B is used to refer to the Bitcoin protocol, whereas bitcoin with a lowercase b is used to refer to bitcoin, the currency. Nodes in this peer-to-peer network talk to each other using the Bitcoin protocol (Bashir, I. 2017).
+
+**ETHEREUM(ETH):** Ethereum is an open source second-generation distributed ledger with an associated Turing-complete platform used to build and distribute decentralized applications. At the core, there is the Ethereum blockchain running on the P2P Ethereum network. Secondly, there's an Ethereum client (usually geth) that runs on the nodes and connects to the peer-to-peer Ethereum network from where blockchain is downloaded and stored locally. It provides various functions, such as mining and account management. The local copy of the blockchain is synchronized regularly with the network. As an incentive to the miners, Ethereum also rewards its native currency called Ether, abbreviated as ETH. After the DAO hack (described later), a hard fork was proposed in order to mitigate the issue; therefore, there are now two Ethereum blockchains: one is called Ethereum classic and its currency is represented by ETC, whereas the hard-forked version is ETH, which continues to grow and on which active development is being carried out. ETC, however, has its own following with a dedicated community that is further developing ETC, which is the nonforked original version of Ethereum.(Franco, 2015)
+
+**LINO:** It is a platform for recorded and live videos, with creators rewarded through "micro-tipping, gifting, purchasing, and more. It has its own cryptocurrency.
+        
+**RIPPLE(XRP):** Ripple is a decentralized financial network which was first proposed by Ryan Fugger in 2004. In the original Ripple network, users establish trust relationships among them. These trust relationships are basically credit lines between the users. Users choose the amount to allocate to each of their lines of credit with other users. Once these relationships are in place, a user can send funds to another user through this web of relations. The modern Ripple network, created by Ripple Labs, can be used to route any asset, not only digital assets or cryptocurrencies. Thus Ripple is a payment system which is agnostic to the currency used. The network can handle assets such as at money or precious metals (Franco, 2015).        
+
+
+**MONERO(XMR):** Monero is a privacy-centric cryptocurrency based on the Cryptonote protocol that allows users to obscure their transaction graph by including chaff coins, called "mixins," along with the actual coins they spend (Miller, 2017). Transactions are confirmed by distributed consensus and then immutably recorded on the blockchain.  Monero uses ring signatures, ring confidential transactions, and stealth addresses to obfuscate the origins, amounts, and destinations of all transactions. Monero provides all the benefits of a decentralized cryptocurrency, without any of the typical privacy concessions. (getmonero, 2018)
+
+**LITECOIN (LTC):** Litecoin is a fork of the bitcoin source code released in 2011. It uses Scrypt as PoW, originally introduced in the Tenebrix coin. Litecoin allows for faster transactions as compared to bitcoin due to its faster block generation time of 2.5 minutes. Also, difficulty readjustment is achieved every 3.5 days roughly due to faster block generation time. The total coin supply is 84 million. (Bashir, I. 2017).
+
+**ZCASH(ZECH):** Zcash was launched on 28th of October, 2016. This is the first currency that uses a specific type of zero-knowledge proofs known as zero-knowledge Succinct Non-interactive Arguments of Knowledge (zk-SNARKs) to provide complete privacy to the user(Bashir, I. 2017).
+
+**DASH(DARKCOIN):** Dash is an open source peer-to-peer cryptocurrency with a strong focus on the payments industry. Dash offers a form of money that is portable, inexpensive, divisible and fast. It can be spent securely both online and in person with only minimal transaction fees. Based on the Bitcoin project, Dash aims to be the most user-friendly and scalable payments system in the world. (DASH, 2017)
+
+https://netlytic.org/index.php?do_text&fid=129815
+https://voyant-tools.org/?corpus=597dc24e41a67c80b015e53cb68543bd
+
+
+##SENTIMENT ANALYSIS
+
+**POSITIVE**
+
+Most of the tweets are classified as positive messages. Based on words such as success, fun, win, strong among others, users tweet to encourage other users to invest in new cryptocurrencies, participate in contests, promote new applications etc.. 
+
+* R3 creates Legal Centre of Excellence for blockchain technolgy https://t.co/SxAyp5pzL1 #blockchain #bitcoin $ETH $BTC
+
+* A strong team is the key to successful business! This project is exactly the structure that combines a brilliant and innovative idea with a strong and creative team! #gasfiles #ICO #Blockchain #cryptocurrency #tokensale #trading #decentralisation @gasfiles
+
+* RT @vestarin: Vestarin for consumers - is effective, simple and comfortable! More: https://t.co/DapjrkiFNn #blockchain #vestarin #ico #eth #crypto #ethereum #cryptocurrency https://t.co/NeZSsAptpm
+Could IPSX be a solution for some of the problems imposed by the net neutrality repeal? Check and have you own answer!!! #IPSX #Crypto #Blockchain #Crowdfunding #ether #ethereum #bitcoin #cryptocurrency #ICO #tokensale #exchange https://t.co/yzB2n616ch
+
+
+
+**NEGATIVE**
+
+Negative tweets point to concerns and issues that people are experiencing with blockchain. Most of the negative tweets are specific to cryptocurrencies precisely because it is the most visible and used side of blockchain. Gender domination, scams with cryptocurrencies, uncertainty or security breaches.  
+
+* Bitcoin & Blockchain: Why Is It So Male-Dominated? #btc #bitcoin #cryptocurrency #Blockchain #finance https://t.co/w8D7T6aXYd
+
+* ,#Crypto #Blockchain #Scalability #Transactions #LightningNetwork Lightning's Watchtower: How Laolu Is Fighting Future Fraud https://t.co/gQRyuUWsvb
+
+* RT @DavNetwork: During a wild week in the #cryptocurrency world, DAV CEO Noam @Copel told the crowd at the #Blockchain Economic Forum 2018 in Singapore why he isn't rattled: https://t.co/CFVolXnTo6 https://t.co/BOvSt83ZyC
+
+* Today marks 7 weeks since I tried to withdraw $ZRX from @poloniex, and it failed. Polo has locked those funds and I'm left without recourse (ticket #671369 untouched). Anyone know anyone that might be able to help? #crytpo #ethereum #0xproject #blockchain
+
+* Ridiculous, absurd and unjust! There is no reason for this level of fundraising and diluted valuation. I sniff pure money grab. Passing in this without hesitation! #crypto #ton #telegram #ico #tokensale #privatesales #centralised #blockchain #telegram https://t.co/OBYvmCGXFc 
+
+
+https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/
+
+
+
+#HEALTHCARE
+
+Most of the tweets express a positive view of blockchain in regard to healthcare. Words such as "affordable", "easy", "improvement", "help" and exciting appeared in positive tweets. On the other hand, negative tweets 
+
+```{r warning=FALSE, error=FALSE,  include=FALSE}
+health <- read_csv("~/Downloads/healthcare - Archive.csv")
+health_tweets<- health$text
+noemoticon_htweets<- gsub("[^\x01-\x7F]", "", health_tweets)
+noduplicate_htweets<- unique(noemoticon_htweets)
+user_mentions<-unlist(map(noduplicate_htweets, str_extract_all, pattern= "@\\S+")) %>%  
+  tolower()
+user_mentions<- user_mentions %>% str_replace_all(":$", "") %>% 
+  stripWhitespace()
+mentions<- table(user_mentions) 
+mentions<- cbind.data.frame(names(mentions),as.integer(mentions)) 
+names(mentions)<- c("user", "number_mentions")
+mentions<- mentions %>% arrange(desc(number_mentions))
+```
+
+```{r}
+healthcare
+```
+
+
+
+```{r}
+hsentiments<- sentiment(noduplicate_htweets)
+names(hsentiments)<- c("healthcare_text", "polarity", "language")
+table(hsentimens$polarity)
+hsentimens$score <- 0
+hsentimens$score[hsentimens$polarity == "positive"] <- 1
+hsentimens$score[hsentimens$polarity == "negative"] <- -1
+healthcare<- ggplot(hsentimens, aes(x= healthcare_text, y= score))+
+ geom_jitter(aes(colour= polarity, alpha= 0.2))+
+  scale_colour_discrete(breaks=c("positive","neutral","negative"))+
+  scale_alpha(guide = 'none')+
+  ggtitle("Healthcare and Blockchain")+
+  geom_blank() + theme(axis.line.x=element_blank(),
+          axis.text.x=element_blank(),
+          axis.ticks.x=element_blank(),
+          axis.title.x=element_blank(),
+          panel.grid.minor.x=element_blank(),
+          panel.grid.major.x=element_blank())
+```
+
+**Positive**
+Users expressed ideas about important uses of blockchain technology in the healthcare system that included a fast and secure exchange of data, transparent management of medical records, control in the pharmaceutical supply chain to ensure drugs are genuine and detect counterfeit, and cryptocurrencies to make the billing and payment procedures straightforward and transparent. Also, separating responsibilities within in the healthcare field may lead to benefits within areas such as patient care and medical research.
+
+* The advantage of *#WELL *#tokens purchase is that it lets doctors to focus on care instead of non-care functions.   Therefore patients get the highest quality of care at an adequate price. The healthcare and insurance companies are also in benefit!  #blockchain *#healthcare
+
+* The pharmaceutical supply chain is quite fragmented... making transparency and visibility difficult," says *#FTT CEO *@rajasharif. Click to watch the interview by *@BiznessReporter & *@Telegraph!   *#HackTheFake *#crypto *#blockchain *#ico
+
+```{r}
+mentions %>% head(10) %>%  kable( "html") %>%  
+  kable_styling("striped", full_width = F) 
+```
+
+The most visible companies were Healthureum, Gainfy, lympo.io, MediChain, Docademic and WELL. 
+
+
+**Healthureum**: uses HHEM token. Healthureum is a gateway to global standard healthcare secured and operated on the blockchain. It provides the users a secure and transparent method of procuring and paying for medical services globally. Healthureum operates on the Ethereum blockchain using an ERC20 standard to deploy smart contracts for health-related services.
+
+**Gainfy**: powered by the GAIN token. Gainfy is aimed to build blockchain protocol used for communication and payment transactions, identity verification, data storage and sharing. We believe using a hybrid system platform utilizing modified/forked Hyperledger Fabric v1.0 and Ethereum Classic, will result in stable, scalable and secure technology protocol that can pass the requirements of healthcare regulations by ensuring better data integrity and regulatory compliance. 
+
+**Lympo.io**: powered by LYM token.  Lympo promotes a healthy lifestyle ecosystem by monetising and incentivising sports and wellness data which is collected via blockchain. It uses personal fitness wallet connected to health apps and wearables to track health data and reward with tokens accomplished pre-defined goals. 
+
+**MediChain**: powered by Medichain Utility Tokens (MCU). MediChain is a medical big-data platform.  It allows patients to store their own data in a secure way and give access to specialists anywhere regardless of the payer network or EMR (Electronic Medical Record) used. MediChain seeks to make data available to users anywhere in the world regardless of the health provider, insurers or specialist they are affiliated with. Users have control over the anonymization of their data and whether they want to let medical scientists and companies to use data for research.
+
+**Docademic**: powered by Medical Token Currency (MTC). The Docademic Platform is a single globally-sourced healthcare service platform for the public that provides free Human Doctor-AI assisted Video Telemedicine service (Docademic App) and an associated suite of AI assisted tools and social network for the medical community (Docademic for Doctors). Combined, these produce the highest level of free basic quality healthcare allowing any individual to access the benefits and knowledge of healthcare that technology now permits. 
+
+**WELL**: powered by WELL tokens. WELL is a global network of multilingual doctors and specialists. Patients receive medical support in their native language from leading doctors wherever they are in the world. WELL's low-cost business model can generate a price reduction of approximately 30%. WELL patients receive advice from leading medical specialists for far less than the price of a personal appointment with a doctor.
+
+
+**Negative**
+
+Disbelieve in the technology as well as concerns about security and the way it could be employed, are the main topics in the negative comments. All the speculation about Blockchain and its potential impact on current information management systems let to people to doubt whether the technology improves health services or provide more tools to discriminate patients. Users showed concern about the cost of implementing new technology and quality control of practitioners. 
+
+* ,#PPL's #MEDICAL #Data MUST NOT Be in #BlockChain, Unles100%PPL Hav = #MediCare   From #GOV'T OrElz #HealthCare Industry Wil #DisCrim. #infosec
+
+* For example, #blockchain could genuinely be more than a buzzword for healthcare if we use it to democratize data so that theres seamless access 
+
+* I was recently told that blockchain was going to redistribute wealth and revolutionize healthcare. I'll bet you 10 early-gen cryptokitties that is not going to happen folks.
+
+* Forget it, blockchain with healthcare, hospitals can't afford the miners for one and the fees will drive bills out of site, not to mention it will suck all the power needed to operate the MRI machines
+
+* In what world would decentralizing healthcare systems improve performance or cost? Systems are already fragmented and THAT S THE PROBLEM. Why do we need a blockchain for doctor credentials? The Board already maintains this and uses exams vs blockchain to validate.
+
+
+```{r}
+names(hsentiments)<- c("healthcare_text", "polarity", "lan")
+hsentiments %>% filter(polarity == "negative") %>% select(healthcare_text, polarity) %>% head(5) %>%   kable( "html") %>%  
+  kable_styling("striped", full_width = F) 
+```
+
+
+###IDENTITY
+
+```{r}
+ima<-load.image("id.png") %>% plot(axes=FALSE)
+```
+
+Contrary to tweets about cryptocurrency, most of the tweet about identity were richer in content and had no advertisement, contests or raffles. Most of the tweets were opinions, thoughts, and literature references about how blockchain is being adopted by large companies and governments and the benefits that this will bring in fields such cybersecurity, registration, voting and airport screenings among others. Identity control or identity protection were some of the term used by users to describe the potential benefits that blockchain can provide to prevent fraud and errors in identity management. It was reported that companies such as Microsoft, are aiming to create an open-source, blockchain-based digital identity system where people can store their identity data and have access to it conveniently and securely. Other users reported on the integration of blockchain-based platform and identity verification to securely connect artificial intelligence with IoT. Governments are also considering implementing digital ID systems that use blockchain and biometrics to improve the speed and quality of the screening process of travellers in airports.
+
+
+```{r warning=FALSE, error=FALSE,  include=FALSE}
+identity<- read_csv("~/Downloads/identity-blockchain - Archive.csv")
+identity_tweets<- identity$text
+noemoticon_dtweets<- gsub("[^\x01-\x7F]", "", identity_tweets)
+IDRT<- table(noemoticon_dtweets)
+idretweets<- cbind.data.frame(names(IDRT),as.integer(IDRT)) 
+names(idretweets)<- c("id_retweets", "retweets")
+idretweets<- idretweets %>% arrange(desc(retweets))
+```
+```{r}
+idretweets  %>% head(5) %>%   kable( "html") %>%  
+  kable_styling("striped", full_width = F) 
+
+```
+
+**LEADING COMPANIES IN THIS FIELD:**
+
+**VELIX.ID**: Velix.ID is a blockchain startup in identity verification space with a mission to simplify access to consumer services across the globe - online or offline. It is a platform for worldwide identity verification that aims at building a universal, obscure, transparent, decentralized, time and cost-efficient ecosystem for identity verification by utilizing blockchain Smart Contracts, Zero Knowledge Proofs, and Stellar Consensus Protocol (SCP). (Velix.ID, 2018)
+
+**PERSONA**: Persona is a blockchain-based identity management solution which allows individuals to easily update the data they share with various third-parties as well as easing the corporate clients’ efforts of keeping their data up-to-date. It uses the ARK blockchain technology as well as other state-of-the-art technologies in order to offer a safe and complete identity solution. This product is aligned with the GDPR1 requirements and provides a safe mean to keep, share and process data (Persona, 2018).
+
+**CIVIC**: Civic's blockchain identity-verification technology allows consumers to authorize the use of their identities in real time. It is spearheading the development of an ecosystem that is designed to facilitate on-demand, secure, low-cost access to identity-verification services via the blockchain. (Civic, 2018)
+
+
+
+###REAL ESTATE
+
+Users highlighted a relationship between blockchain and real estate as well as cryptocurrencies and real estate. A 2017 study by Deloitte highlights the most promising areas where blockchain can benefit the commercial real estate (CRE) industry: blockchain technology can advance leasing, as well as purchase and sale transactions in the commercial real estate. Explore the time and cost benefits of the blockchain, as well as increased security and transparency that the technology could drive across the purchase and sale process (2017). Users mention various of these benefits in the tweets such as secure ledgers, smart contracts, investment opportunities but also mentioned that the integration of this technology in this field is taking its time. 
+
+Articles such as "Blockchain's Real Estate Disruption Off To A Slow Start" was among the most retweeted messages. However, most of the tweets were optimistic and stressed on the potential of blockchain to disrupt the real estate industry worldwide. 
+
+
+
+
+```{r}
+imag<-load.image("cluster.png") %>% plot(axes=FALSE)
+```
+
+
+* RT @sklegesi: How to use blockchain technology to unlock real estate potential in Uganda https://t.co/P4eFVy0Tgk
+
+* RT @Keyrpto: Introducing partnership No.10, EthiopianHome!Ethiopian Home is the leading real estate marketplace in Ethiopia and they will be utilising our website for crypto based transactions! #Blockchain #paywithcrypto #TokenSale
+
+* RT @OliverDurrer: Now is the time to be looking at #Blockchain for #Real #Estate” an overview of the blockchain scene in #Switzerland by Charlotte Dove McCarthy via @_futureproperty
+
+
+
+More Visualizations in Voyant-tools.org are available here: https://voyant-tools.org/?corpus=a986ed3987f39163cc2311e8e0258510
+
+
+
+
+
+
+
+
+
+#Network Analysis
+
+Network analysis helps us understand how users interact with one another and the content of those interactions. This analysis helps us identifying users and communities and how influential or active they are. 
+
+Nodes represent the users which can be individuals or organizations.  Edges are the connection or interaction which can be direct such as reply to a tweet or indirectly such as a mention in the message.
+The first visualization let us see who talks to whom, aka name network, and the second one who replies to whom, aka chain network. These relationships are drawn based on the data stored in the "user" attribute and "in reply to" attribute.
+Languages: 
+
+
+### MOST INFLUENTIAL USERS
+
+
+```{r include=FALSE}
+user_mentions<-unlist(map(noduplicate_tweets, str_extract_all, pattern= "@\\S+")) %>%  
+  tolower()
+user_mentions<- user_mentions %>% str_replace_all(":$", "") %>% 
+  stripWhitespace()
+mentions<- table(user_mentions) 
+mentions<- cbind.data.frame(names(mentions),as.integer(mentions)) 
+names(mentions)<- c("user", "number_mentions")
+mentions<- mentions %>% arrange(desc(number_mentions))
+```
+
+```{r}
+mentions %>% head(10) %>% kable( "html") %>%  
+  kable_styling("striped", full_width = F) 
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**REFERENCES**
+
+Panetta, Kasey. (July, 2017). Are you ready for Blockchain?. Smarter with Gartner. Available at: https://www.gartner.com/smarterwithgartner/are-you-ready-for-blockchain-infographic/
+
+Bashir, I. (2017). Mastering blockchain: Distributed ledgers, decentralization and smart contracts explained Packt.
+
+Daniel Keim, Gennady Andrienko, Jean-Daniel Fekete, Carsten Görg, Jörn Kohlhammer, et al.. Visual Analytics: Definition, Process and Challenges. Andreas Kerren and John T. Stasko and Jean-Daniel Fekete and Chris North. Information Visualization - Human-Centered Issues and Perspectives, Springer, pp.154-175, 2008, LNCS. <lirmm-00272779> 
+
+BACINA, Michael and Kassra, Sina. Unlocking cryptocurrency token sales. [online]. LSJ : LAW SOCIETY OF NSW JOURNAL; (37) September 2017: 79-81. Availability:<https://search.informit.com.au/fullText;dn=20173794;res=AGISPT> ISSN: 1839-5287. [cited 07 Mar 18].
+
+Franco, P. (2015). Understanding bitcoin: cryptography, engineering, and economics. Chichester: Wiley.
+Miller, A., Moeser, M., Lee, K., & Narayanan, A. (2017). An empirical analysis of linkability in the monero blockchain.
+
+About Monero, 2018. Available at: https://getmonero.org
+
+About Dash, 2017. Available at: https://dashpay.atlassian.net/wiki/spaces/DOC/pages/29360130/Introducing+Dash
+
+
