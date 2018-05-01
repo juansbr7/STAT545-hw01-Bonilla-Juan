@@ -36,7 +36,7 @@ This repo has diffrent folder with projects that I made to practice
 + Data mining
 + Data cleaning 
 + Visualization
-+ Document Design 
++ Document Design  
 
 **Resources:**
 
