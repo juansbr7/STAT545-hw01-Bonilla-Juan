@@ -1,0 +1,3906 @@
+"","brand","emotion","age","n"
+"1","100 grand bar","joy",35,145
+"2","100 grand bar","joy",30,137
+"3","100 grand bar","joy",45,136
+"4","100 grand bar","joy",34,133
+"5","100 grand bar","joy",31,129
+"6","100 grand bar","joy",32,129
+"7","100 grand bar","joy",33,123
+"8","100 grand bar","joy",29,118
+"9","100 grand bar","joy",27,108
+"10","100 grand bar","joy",36,106
+"11","100 grand bar","joy",40,106
+"12","100 grand bar","joy",37,99
+"13","100 grand bar","joy",38,97
+"14","100 grand bar","joy",43,96
+"15","100 grand bar","joy",46,96
+"16","100 grand bar","joy",28,94
+"17","100 grand bar","joy",44,91
+"18","100 grand bar","joy",42,88
+"19","100 grand bar","joy",39,83
+"20","100 grand bar","joy",41,81
+"21","100 grand bar","joy",26,77
+"22","100 grand bar","despair",32,73
+"23","100 grand bar","despair",35,72
+"24","100 grand bar","despair",30,71
+"25","100 grand bar","despair",31,70
+"26","100 grand bar","joy",50,65
+"27","100 grand bar","despair",33,63
+"28","100 grand bar","despair",26,62
+"29","100 grand bar","joy",25,59
+"30","100 grand bar","joy",24,57
+"31","100 grand bar","joy",48,57
+"32","100 grand bar","despair",27,54
+"33","100 grand bar","joy",52,54
+"34","100 grand bar","despair",34,53
+"35","100 grand bar","joy",47,53
+"36","100 grand bar","joy",51,50
+"37","100 grand bar","despair",29,47
+"38","100 grand bar","joy",49,47
+"39","100 grand bar","despair",25,46
+"40","100 grand bar","joy",22,46
+"41","100 grand bar","despair",28,45
+"42","100 grand bar","despair",38,45
+"43","100 grand bar","despair",37,43
+"44","100 grand bar","joy",53,43
+"45","100 grand bar","despair",24,42
+"46","100 grand bar","despair",45,42
+"47","100 grand bar","despair",40,39
+"48","100 grand bar","joy",23,38
+"49","100 grand bar","joy",55,38
+"50","100 grand bar","joy",54,37
+"51","100 grand bar","despair",36,35
+"52","100 grand bar","despair",39,32
+"53","100 grand bar","joy",58,31
+"54","100 grand bar","neutral",30,31
+"55","100 grand bar","neutral",33,31
+"56","100 grand bar","despair",23,30
+"57","100 grand bar","despair",44,29
+"58","100 grand bar","joy",21,29
+"59","100 grand bar","joy",57,29
+"60","100 grand bar","neutral",34,28
+"61","100 grand bar","despair",50,27
+"62","100 grand bar","neutral",28,27
+"63","100 grand bar","despair",41,26
+"64","100 grand bar","neutral",36,26
+"65","100 grand bar","despair",21,25
+"66","100 grand bar","joy",20,25
+"67","100 grand bar","neutral",35,24
+"68","100 grand bar","despair",22,23
+"69","100 grand bar","despair",46,23
+"70","100 grand bar","despair",42,22
+"71","100 grand bar","joy",56,22
+"72","100 grand bar","neutral",32,22
+"73","100 grand bar","neutral",42,22
+"74","100 grand bar","despair",19,20
+"75","100 grand bar","despair",47,19
+"76","100 grand bar","neutral",31,19
+"77","100 grand bar","despair",18,18
+"78","100 grand bar","neutral",24,18
+"79","100 grand bar","neutral",37,18
+"80","100 grand bar","despair",43,17
+"81","100 grand bar","joy",62,17
+"82","100 grand bar","neutral",27,17
+"83","100 grand bar","despair",49,16
+"84","100 grand bar","joy",19,16
+"85","100 grand bar","neutral",26,16
+"86","100 grand bar","neutral",29,16
+"87","100 grand bar","neutral",38,16
+"88","100 grand bar","neutral",40,16
+"89","100 grand bar","neutral",47,16
+"90","100 grand bar","despair",17,15
+"91","100 grand bar","despair",52,15
+"92","100 grand bar","joy",59,15
+"93","100 grand bar","joy",18,14
+"94","100 grand bar","neutral",39,14
+"95","100 grand bar","neutral",44,14
+"96","100 grand bar","despair",13,13
+"97","100 grand bar","despair",20,13
+"98","100 grand bar","despair",48,13
+"99","100 grand bar","despair",56,13
+"100","100 grand bar","neutral",25,13
+"101","100 grand bar","despair",51,12
+"102","100 grand bar","joy",61,12
+"103","100 grand bar","neutral",43,12
+"104","100 grand bar","neutral",45,12
+"105","100 grand bar","despair",16,11
+"106","100 grand bar","despair",58,11
+"107","100 grand bar","joy",60,11
+"108","100 grand bar","joy",63,11
+"109","100 grand bar","despair",54,10
+"110","100 grand bar","despair",60,10
+"111","100 grand bar","joy",17,10
+"112","100 grand bar","despair",57,9
+"113","100 grand bar","joy",65,9
+"114","100 grand bar","neutral",20,9
+"115","100 grand bar","neutral",23,9
+"116","100 grand bar","neutral",41,9
+"117","100 grand bar","neutral",58,9
+"118","100 grand bar","despair",53,8
+"119","100 grand bar","joy",12,8
+"120","100 grand bar","joy",64,8
+"121","100 grand bar","neutral",21,8
+"122","100 grand bar","despair",55,7
+"123","100 grand bar","despair",67,7
+"124","100 grand bar","joy",66,7
+"125","100 grand bar","neutral",18,7
+"126","100 grand bar","neutral",46,7
+"127","100 grand bar","neutral",54,7
+"128","100 grand bar","despair",59,6
+"129","100 grand bar","joy",13,6
+"130","100 grand bar","joy",16,6
+"131","100 grand bar","joy",67,6
+"132","100 grand bar","neutral",13,6
+"133","100 grand bar","neutral",19,6
+"134","100 grand bar","neutral",55,6
+"135","100 grand bar","neutral",57,6
+"136","100 grand bar","neutral",59,6
+"137","100 grand bar","neutral",67,6
+"138","100 grand bar","despair",14,5
+"139","100 grand bar","despair",15,5
+"140","100 grand bar","despair",61,5
+"141","100 grand bar","despair",62,5
+"142","100 grand bar","despair",66,5
+"143","100 grand bar","joy",9,5
+"144","100 grand bar","joy",14,5
+"145","100 grand bar","joy",15,5
+"146","100 grand bar","joy",69,5
+"147","100 grand bar","neutral",14,5
+"148","100 grand bar","neutral",22,5
+"149","100 grand bar","neutral",49,5
+"150","100 grand bar","neutral",50,5
+"151","100 grand bar","neutral",52,5
+"152","100 grand bar","neutral",60,5
+"153","100 grand bar","neutral",64,5
+"154","100 grand bar","despair",64,4
+"155","100 grand bar","despair",65,4
+"156","100 grand bar","despair",69,4
+"157","100 grand bar","joy",11,4
+"158","100 grand bar","joy",70,4
+"159","100 grand bar","neutral",16,4
+"160","100 grand bar","neutral",48,4
+"161","100 grand bar","neutral",51,4
+"162","100 grand bar","neutral",53,4
+"163","100 grand bar","despair",9,3
+"164","100 grand bar","despair",10,3
+"165","100 grand bar","despair",70,3
+"166","100 grand bar","despair",71,3
+"167","100 grand bar","joy",72,3
+"168","100 grand bar","joy",75,3
+"169","100 grand bar","neutral",65,3
+"170","100 grand bar","neutral",70,3
+"171","100 grand bar","despair",8,2
+"172","100 grand bar","despair",11,2
+"173","100 grand bar","despair",12,2
+"174","100 grand bar","despair",68,2
+"175","100 grand bar","joy",6,2
+"176","100 grand bar","joy",68,2
+"177","100 grand bar","joy",74,2
+"178","100 grand bar","neutral",6,2
+"179","100 grand bar","neutral",11,2
+"180","100 grand bar","neutral",12,2
+"181","100 grand bar","neutral",17,2
+"182","100 grand bar","neutral",56,2
+"183","100 grand bar","neutral",62,2
+"184","100 grand bar","despair",5,1
+"185","100 grand bar","despair",63,1
+"186","100 grand bar","despair",72,1
+"187","100 grand bar","despair",74,1
+"188","100 grand bar","joy",7,1
+"189","100 grand bar","joy",8,1
+"190","100 grand bar","joy",10,1
+"191","100 grand bar","joy",71,1
+"192","100 grand bar","joy",77,1
+"193","100 grand bar","joy",85,1
+"194","100 grand bar","joy",97,1
+"195","100 grand bar","joy",99,1
+"196","100 grand bar","neutral",7,1
+"197","100 grand bar","neutral",8,1
+"198","100 grand bar","neutral",9,1
+"199","100 grand bar","neutral",10,1
+"200","100 grand bar","neutral",61,1
+"201","100 grand bar","neutral",63,1
+"202","100 grand bar","neutral",66,1
+"203","100 grand bar","neutral",68,1
+"204","100 grand bar","neutral",71,1
+"205","100 grand bar","neutral",72,1
+"206","100 grand bar","neutral",99,1
+"207","bonkers","despair",30,174
+"208","bonkers","despair",31,162
+"209","bonkers","despair",32,159
+"210","bonkers","despair",35,156
+"211","bonkers","despair",33,146
+"212","bonkers","despair",45,141
+"213","bonkers","despair",29,130
+"214","bonkers","despair",34,127
+"215","bonkers","despair",27,126
+"216","bonkers","despair",26,112
+"217","bonkers","despair",28,111
+"218","bonkers","despair",37,102
+"219","bonkers","despair",36,101
+"220","bonkers","despair",38,101
+"221","bonkers","despair",46,98
+"222","bonkers","despair",40,97
+"223","bonkers","despair",41,89
+"224","bonkers","despair",44,89
+"225","bonkers","despair",39,85
+"226","bonkers","despair",42,83
+"227","bonkers","despair",43,82
+"228","bonkers","despair",50,80
+"229","bonkers","despair",24,79
+"230","bonkers","despair",25,74
+"231","bonkers","despair",23,62
+"232","bonkers","despair",47,60
+"233","bonkers","despair",52,60
+"234","bonkers","despair",22,56
+"235","bonkers","despair",48,56
+"236","bonkers","neutral",30,54
+"237","bonkers","despair",49,53
+"238","bonkers","despair",51,51
+"239","bonkers","neutral",34,50
+"240","bonkers","neutral",27,47
+"241","bonkers","neutral",35,47
+"242","bonkers","neutral",32,46
+"243","bonkers","neutral",28,45
+"244","bonkers","neutral",31,45
+"245","bonkers","despair",55,43
+"246","bonkers","neutral",29,42
+"247","bonkers","neutral",33,42
+"248","bonkers","despair",21,41
+"249","bonkers","despair",58,39
+"250","bonkers","despair",53,38
+"251","bonkers","joy",35,38
+"252","bonkers","joy",34,37
+"253","bonkers","neutral",25,37
+"254","bonkers","neutral",26,37
+"255","bonkers","neutral",44,37
+"256","bonkers","despair",54,35
+"257","bonkers","despair",57,34
+"258","bonkers","neutral",36,34
+"259","bonkers","joy",36,32
+"260","bonkers","joy",37,32
+"261","bonkers","joy",40,32
+"262","bonkers","neutral",24,32
+"263","bonkers","neutral",40,32
+"264","bonkers","despair",20,31
+"265","bonkers","neutral",45,31
+"266","bonkers","despair",19,30
+"267","bonkers","joy",33,29
+"268","bonkers","joy",38,29
+"269","bonkers","neutral",39,29
+"270","bonkers","neutral",38,28
+"271","bonkers","despair",56,27
+"272","bonkers","neutral",42,27
+"273","bonkers","neutral",43,27
+"274","bonkers","neutral",37,26
+"275","bonkers","despair",18,24
+"276","bonkers","joy",42,22
+"277","bonkers","despair",60,21
+"278","bonkers","despair",62,20
+"279","bonkers","joy",32,19
+"280","bonkers","neutral",41,19
+"281","bonkers","despair",16,18
+"282","bonkers","joy",45,18
+"283","bonkers","neutral",47,18
+"284","bonkers","despair",17,17
+"285","bonkers","despair",59,17
+"286","bonkers","neutral",22,17
+"287","bonkers","despair",13,16
+"288","bonkers","joy",43,16
+"289","bonkers","neutral",21,16
+"290","bonkers","neutral",46,16
+"291","bonkers","joy",39,15
+"292","bonkers","neutral",20,15
+"293","bonkers","despair",67,14
+"294","bonkers","despair",61,13
+"295","bonkers","neutral",18,13
+"296","bonkers","neutral",23,13
+"297","bonkers","neutral",54,13
+"298","bonkers","despair",64,12
+"299","bonkers","joy",46,12
+"300","bonkers","neutral",19,12
+"301","bonkers","neutral",48,12
+"302","bonkers","despair",12,11
+"303","bonkers","despair",63,11
+"304","bonkers","despair",65,11
+"305","bonkers","joy",30,11
+"306","bonkers","joy",31,11
+"307","bonkers","despair",66,10
+"308","bonkers","joy",28,10
+"309","bonkers","joy",47,10
+"310","bonkers","joy",50,10
+"311","bonkers","neutral",53,10
+"312","bonkers","neutral",56,10
+"313","bonkers","neutral",58,10
+"314","bonkers","despair",14,9
+"315","bonkers","despair",15,9
+"316","bonkers","joy",29,9
+"317","bonkers","neutral",49,9
+"318","bonkers","neutral",52,9
+"319","bonkers","neutral",59,9
+"320","bonkers","despair",69,8
+"321","bonkers","joy",41,8
+"322","bonkers","joy",44,8
+"323","bonkers","neutral",13,8
+"324","bonkers","neutral",51,8
+"325","bonkers","neutral",57,8
+"326","bonkers","joy",25,7
+"327","bonkers","joy",51,7
+"328","bonkers","joy",53,7
+"329","bonkers","neutral",50,7
+"330","bonkers","neutral",55,7
+"331","bonkers","joy",24,6
+"332","bonkers","joy",26,6
+"333","bonkers","joy",27,6
+"334","bonkers","joy",48,6
+"335","bonkers","joy",49,6
+"336","bonkers","joy",54,6
+"337","bonkers","neutral",14,6
+"338","bonkers","neutral",17,6
+"339","bonkers","despair",9,5
+"340","bonkers","despair",70,5
+"341","bonkers","joy",21,5
+"342","bonkers","joy",52,5
+"343","bonkers","neutral",64,5
+"344","bonkers","neutral",65,5
+"345","bonkers","neutral",67,5
+"346","bonkers","neutral",70,5
+"347","bonkers","despair",68,4
+"348","bonkers","despair",72,4
+"349","bonkers","joy",17,4
+"350","bonkers","despair",10,3
+"351","bonkers","despair",11,3
+"352","bonkers","despair",71,3
+"353","bonkers","despair",74,3
+"354","bonkers","joy",9,3
+"355","bonkers","joy",11,3
+"356","bonkers","joy",62,3
+"357","bonkers","neutral",8,3
+"358","bonkers","neutral",60,3
+"359","bonkers","neutral",61,3
+"360","bonkers","neutral",66,3
+"361","bonkers","despair",6,2
+"362","bonkers","despair",75,2
+"363","bonkers","joy",18,2
+"364","bonkers","joy",23,2
+"365","bonkers","joy",57,2
+"366","bonkers","joy",58,2
+"367","bonkers","joy",60,2
+"368","bonkers","joy",61,2
+"369","bonkers","neutral",6,2
+"370","bonkers","neutral",11,2
+"371","bonkers","neutral",16,2
+"372","bonkers","neutral",63,2
+"373","bonkers","neutral",71,2
+"374","bonkers","despair",5,1
+"375","bonkers","despair",7,1
+"376","bonkers","despair",8,1
+"377","bonkers","despair",77,1
+"378","bonkers","despair",85,1
+"379","bonkers","despair",97,1
+"380","bonkers","despair",99,1
+"381","bonkers","joy",10,1
+"382","bonkers","joy",13,1
+"383","bonkers","joy",16,1
+"384","bonkers","joy",20,1
+"385","bonkers","joy",22,1
+"386","bonkers","joy",55,1
+"387","bonkers","joy",59,1
+"388","bonkers","joy",69,1
+"389","bonkers","neutral",7,1
+"390","bonkers","neutral",9,1
+"391","bonkers","neutral",10,1
+"392","bonkers","neutral",12,1
+"393","bonkers","neutral",15,1
+"394","bonkers","neutral",62,1
+"395","bonkers","neutral",68,1
+"396","bonkers","neutral",72,1
+"397","bonkers","neutral",75,1
+"398","bonkers","neutral",99,1
+"399","bubble gum","despair",35,188
+"400","bubble gum","despair",32,171
+"401","bubble gum","despair",30,164
+"402","bubble gum","despair",31,155
+"403","bubble gum","despair",33,153
+"404","bubble gum","despair",29,136
+"405","bubble gum","despair",34,135
+"406","bubble gum","despair",45,128
+"407","bubble gum","despair",27,125
+"408","bubble gum","despair",36,121
+"409","bubble gum","despair",37,117
+"410","bubble gum","despair",28,111
+"411","bubble gum","despair",38,111
+"412","bubble gum","despair",40,106
+"413","bubble gum","despair",46,98
+"414","bubble gum","despair",26,95
+"415","bubble gum","despair",39,87
+"416","bubble gum","despair",43,87
+"417","bubble gum","despair",41,86
+"418","bubble gum","despair",42,83
+"419","bubble gum","despair",44,79
+"420","bubble gum","despair",25,69
+"421","bubble gum","despair",24,68
+"422","bubble gum","despair",50,59
+"423","bubble gum","despair",47,58
+"424","bubble gum","joy",34,55
+"425","bubble gum","despair",52,53
+"426","bubble gum","joy",30,53
+"427","bubble gum","joy",31,51
+"428","bubble gum","despair",22,50
+"429","bubble gum","despair",48,50
+"430","bubble gum","joy",26,49
+"431","bubble gum","joy",45,49
+"432","bubble gum","despair",23,48
+"433","bubble gum","joy",33,47
+"434","bubble gum","despair",51,45
+"435","bubble gum","despair",49,44
+"436","bubble gum","joy",27,44
+"437","bubble gum","joy",32,44
+"438","bubble gum","joy",40,40
+"439","bubble gum","joy",35,39
+"440","bubble gum","joy",25,38
+"441","bubble gum","joy",28,38
+"442","bubble gum","joy",44,38
+"443","bubble gum","joy",42,37
+"444","bubble gum","despair",53,36
+"445","bubble gum","despair",58,36
+"446","bubble gum","despair",55,35
+"447","bubble gum","joy",29,35
+"448","bubble gum","joy",38,35
+"449","bubble gum","despair",54,34
+"450","bubble gum","joy",24,33
+"451","bubble gum","despair",21,32
+"452","bubble gum","joy",37,31
+"453","bubble gum","joy",50,31
+"454","bubble gum","despair",57,29
+"455","bubble gum","joy",36,29
+"456","bubble gum","joy",39,29
+"457","bubble gum","despair",20,28
+"458","bubble gum","joy",43,26
+"459","bubble gum","joy",21,25
+"460","bubble gum","despair",56,24
+"461","bubble gum","neutral",34,24
+"462","bubble gum","despair",19,23
+"463","bubble gum","joy",23,23
+"464","bubble gum","joy",41,23
+"465","bubble gum","joy",46,22
+"466","bubble gum","neutral",30,22
+"467","bubble gum","joy",49,21
+"468","bubble gum","joy",22,20
+"469","bubble gum","joy",48,20
+"470","bubble gum","joy",18,19
+"471","bubble gum","joy",47,19
+"472","bubble gum","joy",51,19
+"473","bubble gum","despair",60,18
+"474","bubble gum","despair",62,18
+"475","bubble gum","joy",52,18
+"476","bubble gum","neutral",28,17
+"477","bubble gum","neutral",33,17
+"478","bubble gum","neutral",36,17
+"479","bubble gum","neutral",44,17
+"480","bubble gum","despair",59,16
+"481","bubble gum","neutral",24,16
+"482","bubble gum","despair",17,15
+"483","bubble gum","despair",18,15
+"484","bubble gum","joy",13,15
+"485","bubble gum","joy",19,15
+"486","bubble gum","joy",53,15
+"487","bubble gum","joy",54,15
+"488","bubble gum","neutral",40,15
+"489","bubble gum","joy",20,14
+"490","bubble gum","neutral",35,14
+"491","bubble gum","despair",64,13
+"492","bubble gum","joy",55,13
+"493","bubble gum","neutral",39,13
+"494","bubble gum","neutral",45,13
+"495","bubble gum","despair",61,12
+"496","bubble gum","despair",67,12
+"497","bubble gum","joy",17,12
+"498","bubble gum","joy",57,12
+"499","bubble gum","neutral",31,12
+"500","bubble gum","neutral",37,12
+"501","bubble gum","neutral",38,12
+"502","bubble gum","neutral",42,12
+"503","bubble gum","neutral",43,12
+"504","bubble gum","despair",63,11
+"505","bubble gum","despair",65,11
+"506","bubble gum","despair",66,11
+"507","bubble gum","joy",16,11
+"508","bubble gum","joy",56,11
+"509","bubble gum","neutral",25,11
+"510","bubble gum","neutral",26,11
+"511","bubble gum","neutral",47,11
+"512","bubble gum","joy",58,10
+"513","bubble gum","neutral",27,10
+"514","bubble gum","neutral",29,10
+"515","bubble gum","despair",16,9
+"516","bubble gum","neutral",32,9
+"517","bubble gum","joy",14,8
+"518","bubble gum","despair",12,7
+"519","bubble gum","despair",69,7
+"520","bubble gum","despair",70,7
+"521","bubble gum","joy",59,7
+"522","bubble gum","neutral",41,7
+"523","bubble gum","neutral",50,7
+"524","bubble gum","joy",11,6
+"525","bubble gum","neutral",13,6
+"526","bubble gum","neutral",23,6
+"527","bubble gum","neutral",46,6
+"528","bubble gum","despair",14,5
+"529","bubble gum","joy",9,5
+"530","bubble gum","joy",10,5
+"531","bubble gum","joy",12,5
+"532","bubble gum","joy",15,5
+"533","bubble gum","joy",60,5
+"534","bubble gum","joy",61,5
+"535","bubble gum","joy",62,5
+"536","bubble gum","joy",65,5
+"537","bubble gum","neutral",18,5
+"538","bubble gum","neutral",20,5
+"539","bubble gum","neutral",21,5
+"540","bubble gum","neutral",54,5
+"541","bubble gum","neutral",58,5
+"542","bubble gum","despair",13,4
+"543","bubble gum","despair",15,4
+"544","bubble gum","despair",71,4
+"545","bubble gum","neutral",19,4
+"546","bubble gum","neutral",22,4
+"547","bubble gum","neutral",48,4
+"548","bubble gum","neutral",53,4
+"549","bubble gum","neutral",59,4
+"550","bubble gum","neutral",67,4
+"551","bubble gum","despair",9,3
+"552","bubble gum","despair",68,3
+"553","bubble gum","despair",72,3
+"554","bubble gum","joy",6,3
+"555","bubble gum","joy",8,3
+"556","bubble gum","joy",67,3
+"557","bubble gum","neutral",49,3
+"558","bubble gum","neutral",52,3
+"559","bubble gum","neutral",55,3
+"560","bubble gum","neutral",57,3
+"561","bubble gum","neutral",60,3
+"562","bubble gum","neutral",64,3
+"563","bubble gum","despair",74,2
+"564","bubble gum","despair",75,2
+"565","bubble gum","joy",68,2
+"566","bubble gum","joy",69,2
+"567","bubble gum","neutral",14,2
+"568","bubble gum","neutral",51,2
+"569","bubble gum","neutral",56,2
+"570","bubble gum","neutral",66,2
+"571","bubble gum","neutral",70,2
+"572","bubble gum","despair",6,1
+"573","bubble gum","despair",7,1
+"574","bubble gum","despair",8,1
+"575","bubble gum","despair",11,1
+"576","bubble gum","despair",85,1
+"577","bubble gum","despair",97,1
+"578","bubble gum","joy",5,1
+"579","bubble gum","joy",7,1
+"580","bubble gum","joy",63,1
+"581","bubble gum","joy",64,1
+"582","bubble gum","joy",70,1
+"583","bubble gum","joy",71,1
+"584","bubble gum","joy",72,1
+"585","bubble gum","joy",74,1
+"586","bubble gum","joy",77,1
+"587","bubble gum","joy",99,1
+"588","bubble gum","neutral",9,1
+"589","bubble gum","neutral",11,1
+"590","bubble gum","neutral",15,1
+"591","bubble gum","neutral",16,1
+"592","bubble gum","neutral",61,1
+"593","bubble gum","neutral",62,1
+"594","bubble gum","neutral",63,1
+"595","bubble gum","neutral",72,1
+"596","bubble gum","neutral",75,1
+"597","bubble gum","neutral",99,1
+"598","butterfinger","joy",30,187
+"599","butterfinger","joy",35,179
+"600","butterfinger","joy",34,174
+"601","butterfinger","joy",33,170
+"602","butterfinger","joy",31,168
+"603","butterfinger","joy",32,167
+"604","butterfinger","joy",45,148
+"605","butterfinger","joy",29,135
+"606","butterfinger","joy",27,129
+"607","butterfinger","joy",28,127
+"608","butterfinger","joy",38,123
+"609","butterfinger","joy",36,121
+"610","butterfinger","joy",40,121
+"611","butterfinger","joy",37,115
+"612","butterfinger","joy",26,113
+"613","butterfinger","joy",46,99
+"614","butterfinger","joy",43,95
+"615","butterfinger","joy",44,93
+"616","butterfinger","joy",25,91
+"617","butterfinger","joy",39,89
+"618","butterfinger","joy",42,88
+"619","butterfinger","joy",41,86
+"620","butterfinger","joy",24,76
+"621","butterfinger","joy",50,66
+"622","butterfinger","joy",47,63
+"623","butterfinger","joy",23,58
+"624","butterfinger","joy",49,55
+"625","butterfinger","joy",22,52
+"626","butterfinger","despair",32,50
+"627","butterfinger","joy",52,49
+"628","butterfinger","joy",48,48
+"629","butterfinger","joy",53,48
+"630","butterfinger","despair",35,47
+"631","butterfinger","joy",51,47
+"632","butterfinger","joy",54,45
+"633","butterfinger","despair",30,38
+"634","butterfinger","joy",55,38
+"635","butterfinger","despair",27,37
+"636","butterfinger","joy",21,37
+"637","butterfinger","despair",26,36
+"638","butterfinger","despair",29,36
+"639","butterfinger","despair",31,35
+"640","butterfinger","despair",33,35
+"641","butterfinger","joy",58,35
+"642","butterfinger","despair",45,34
+"643","butterfinger","joy",20,34
+"644","butterfinger","joy",57,34
+"645","butterfinger","despair",28,33
+"646","butterfinger","despair",36,33
+"647","butterfinger","despair",37,33
+"648","butterfinger","despair",42,30
+"649","butterfinger","despair",44,28
+"650","butterfinger","joy",19,28
+"651","butterfinger","despair",38,27
+"652","butterfinger","despair",39,27
+"653","butterfinger","joy",56,26
+"654","butterfinger","despair",24,25
+"655","butterfinger","despair",34,25
+"656","butterfinger","despair",40,24
+"657","butterfinger","despair",41,24
+"658","butterfinger","despair",50,23
+"659","butterfinger","joy",18,23
+"660","butterfinger","despair",48,22
+"661","butterfinger","despair",43,21
+"662","butterfinger","despair",46,21
+"663","butterfinger","despair",52,21
+"664","butterfinger","joy",62,20
+"665","butterfinger","despair",25,19
+"666","butterfinger","joy",60,19
+"667","butterfinger","despair",22,18
+"668","butterfinger","despair",47,18
+"669","butterfinger","despair",51,18
+"670","butterfinger","despair",21,17
+"671","butterfinger","joy",17,17
+"672","butterfinger","despair",23,16
+"673","butterfinger","joy",59,16
+"674","butterfinger","neutral",24,16
+"675","butterfinger","neutral",40,16
+"676","butterfinger","neutral",31,15
+"677","butterfinger","neutral",34,15
+"678","butterfinger","neutral",35,15
+"679","butterfinger","despair",18,14
+"680","butterfinger","joy",16,14
+"681","butterfinger","joy",61,14
+"682","butterfinger","joy",67,14
+"683","butterfinger","neutral",30,14
+"684","butterfinger","neutral",42,14
+"685","butterfinger","neutral",27,13
+"686","butterfinger","neutral",36,13
+"687","butterfinger","neutral",39,13
+"688","butterfinger","neutral",44,13
+"689","butterfinger","despair",49,12
+"690","butterfinger","joy",13,12
+"691","butterfinger","neutral",33,12
+"692","butterfinger","neutral",37,12
+"693","butterfinger","despair",19,11
+"694","butterfinger","despair",58,11
+"695","butterfinger","joy",12,11
+"696","butterfinger","despair",17,10
+"697","butterfinger","joy",66,10
+"698","butterfinger","neutral",29,10
+"699","butterfinger","despair",13,9
+"700","butterfinger","joy",63,9
+"701","butterfinger","joy",65,9
+"702","butterfinger","neutral",43,9
+"703","butterfinger","despair",55,8
+"704","butterfinger","despair",57,8
+"705","butterfinger","neutral",21,8
+"706","butterfinger","neutral",25,8
+"707","butterfinger","neutral",38,8
+"708","butterfinger","neutral",45,8
+"709","butterfinger","neutral",50,8
+"710","butterfinger","despair",14,7
+"711","butterfinger","despair",20,7
+"712","butterfinger","despair",59,7
+"713","butterfinger","joy",70,7
+"714","butterfinger","neutral",32,7
+"715","butterfinger","neutral",47,7
+"716","butterfinger","despair",16,6
+"717","butterfinger","despair",53,6
+"718","butterfinger","despair",56,6
+"719","butterfinger","despair",60,6
+"720","butterfinger","despair",64,6
+"721","butterfinger","despair",65,6
+"722","butterfinger","joy",9,6
+"723","butterfinger","joy",14,6
+"724","butterfinger","joy",64,6
+"725","butterfinger","joy",69,6
+"726","butterfinger","neutral",20,6
+"727","butterfinger","neutral",26,6
+"728","butterfinger","neutral",28,6
+"729","butterfinger","neutral",41,6
+"730","butterfinger","neutral",46,6
+"731","butterfinger","despair",15,5
+"732","butterfinger","joy",11,5
+"733","butterfinger","joy",15,5
+"734","butterfinger","neutral",54,5
+"735","butterfinger","neutral",55,5
+"736","butterfinger","neutral",56,5
+"737","butterfinger","neutral",58,5
+"738","butterfinger","neutral",64,5
+"739","butterfinger","despair",54,4
+"740","butterfinger","joy",10,4
+"741","butterfinger","joy",71,4
+"742","butterfinger","neutral",13,4
+"743","butterfinger","neutral",22,4
+"744","butterfinger","neutral",48,4
+"745","butterfinger","neutral",52,4
+"746","butterfinger","neutral",59,4
+"747","butterfinger","despair",9,3
+"748","butterfinger","despair",11,3
+"749","butterfinger","despair",61,3
+"750","butterfinger","despair",62,3
+"751","butterfinger","despair",63,3
+"752","butterfinger","despair",69,3
+"753","butterfinger","joy",8,3
+"754","butterfinger","joy",68,3
+"755","butterfinger","joy",74,3
+"756","butterfinger","joy",75,3
+"757","butterfinger","neutral",19,3
+"758","butterfinger","neutral",23,3
+"759","butterfinger","neutral",67,3
+"760","butterfinger","despair",66,2
+"761","butterfinger","despair",67,2
+"762","butterfinger","despair",68,2
+"763","butterfinger","despair",70,2
+"764","butterfinger","despair",72,2
+"765","butterfinger","joy",6,2
+"766","butterfinger","joy",72,2
+"767","butterfinger","neutral",6,2
+"768","butterfinger","neutral",14,2
+"769","butterfinger","neutral",18,2
+"770","butterfinger","neutral",57,2
+"771","butterfinger","despair",7,1
+"772","butterfinger","despair",10,1
+"773","butterfinger","despair",12,1
+"774","butterfinger","joy",5,1
+"775","butterfinger","joy",7,1
+"776","butterfinger","joy",77,1
+"777","butterfinger","joy",85,1
+"778","butterfinger","joy",97,1
+"779","butterfinger","joy",99,1
+"780","butterfinger","neutral",8,1
+"781","butterfinger","neutral",16,1
+"782","butterfinger","neutral",49,1
+"783","butterfinger","neutral",51,1
+"784","butterfinger","neutral",53,1
+"785","butterfinger","neutral",60,1
+"786","butterfinger","neutral",61,1
+"787","butterfinger","neutral",62,1
+"788","butterfinger","neutral",63,1
+"789","butterfinger","neutral",65,1
+"790","butterfinger","neutral",66,1
+"791","butterfinger","neutral",70,1
+"792","butterfinger","neutral",71,1
+"793","butterfinger","neutral",72,1
+"794","butterfinger","neutral",99,1
+"795","caramellos","joy",35,149
+"796","caramellos","joy",30,146
+"797","caramellos","joy",31,139
+"798","caramellos","joy",34,133
+"799","caramellos","joy",32,129
+"800","caramellos","joy",33,127
+"801","caramellos","joy",45,116
+"802","caramellos","joy",38,113
+"803","caramellos","joy",36,108
+"804","caramellos","joy",40,108
+"805","caramellos","joy",29,107
+"806","caramellos","joy",37,101
+"807","caramellos","joy",43,92
+"808","caramellos","joy",27,91
+"809","caramellos","joy",39,87
+"810","caramellos","joy",28,86
+"811","caramellos","joy",44,83
+"812","caramellos","joy",26,80
+"813","caramellos","joy",41,79
+"814","caramellos","joy",46,74
+"815","caramellos","despair",32,73
+"816","caramellos","despair",33,73
+"817","caramellos","joy",42,70
+"818","caramellos","despair",30,65
+"819","caramellos","despair",27,64
+"820","caramellos","despair",35,64
+"821","caramellos","despair",26,62
+"822","caramellos","despair",45,62
+"823","caramellos","despair",31,61
+"824","caramellos","joy",25,60
+"825","caramellos","despair",34,57
+"826","caramellos","joy",50,57
+"827","caramellos","despair",28,56
+"828","caramellos","despair",29,56
+"829","caramellos","despair",24,54
+"830","caramellos","despair",37,49
+"831","caramellos","despair",46,46
+"832","caramellos","joy",47,46
+"833","caramellos","joy",48,46
+"834","caramellos","despair",42,45
+"835","caramellos","joy",52,44
+"836","caramellos","joy",24,43
+"837","caramellos","joy",22,42
+"838","caramellos","despair",36,41
+"839","caramellos","joy",51,41
+"840","caramellos","despair",25,40
+"841","caramellos","despair",44,40
+"842","caramellos","joy",23,38
+"843","caramellos","joy",49,38
+"844","caramellos","despair",40,37
+"845","caramellos","despair",50,37
+"846","caramellos","joy",53,37
+"847","caramellos","despair",38,33
+"848","caramellos","despair",47,33
+"849","caramellos","joy",54,33
+"850","caramellos","despair",23,31
+"851","caramellos","despair",39,30
+"852","caramellos","joy",57,29
+"853","caramellos","neutral",30,28
+"854","caramellos","neutral",35,28
+"855","caramellos","joy",55,27
+"856","caramellos","despair",21,26
+"857","caramellos","despair",52,26
+"858","caramellos","joy",21,26
+"859","caramellos","despair",41,25
+"860","caramellos","despair",48,25
+"861","caramellos","despair",43,24
+"862","caramellos","despair",49,24
+"863","caramellos","joy",58,24
+"864","caramellos","neutral",27,24
+"865","caramellos","neutral",28,24
+"866","caramellos","neutral",34,24
+"867","caramellos","joy",56,23
+"868","caramellos","despair",19,22
+"869","caramellos","despair",22,22
+"870","caramellos","joy",20,22
+"871","caramellos","neutral",32,22
+"872","caramellos","despair",51,20
+"873","caramellos","despair",55,20
+"874","caramellos","despair",58,20
+"875","caramellos","joy",18,20
+"876","caramellos","neutral",24,20
+"877","caramellos","joy",62,18
+"878","caramellos","neutral",25,18
+"879","caramellos","neutral",29,18
+"880","caramellos","neutral",31,18
+"881","caramellos","neutral",36,18
+"882","caramellos","neutral",33,17
+"883","caramellos","neutral",42,17
+"884","caramellos","neutral",40,16
+"885","caramellos","joy",17,14
+"886","caramellos","joy",19,14
+"887","caramellos","joy",59,14
+"888","caramellos","joy",60,14
+"889","caramellos","joy",61,14
+"890","caramellos","despair",20,13
+"891","caramellos","despair",54,13
+"892","caramellos","neutral",26,13
+"893","caramellos","despair",18,12
+"894","caramellos","despair",53,12
+"895","caramellos","despair",56,12
+"896","caramellos","neutral",20,12
+"897","caramellos","neutral",38,12
+"898","caramellos","neutral",39,12
+"899","caramellos","neutral",41,12
+"900","caramellos","neutral",45,12
+"901","caramellos","despair",16,11
+"902","caramellos","joy",65,11
+"903","caramellos","neutral",44,11
+"904","caramellos","despair",17,10
+"905","caramellos","joy",13,10
+"906","caramellos","neutral",21,10
+"907","caramellos","neutral",22,10
+"908","caramellos","neutral",37,10
+"909","caramellos","despair",13,9
+"910","caramellos","despair",57,9
+"911","caramellos","despair",59,9
+"912","caramellos","despair",60,9
+"913","caramellos","joy",12,9
+"914","caramellos","joy",66,9
+"915","caramellos","neutral",43,9
+"916","caramellos","neutral",47,9
+"917","caramellos","joy",15,8
+"918","caramellos","joy",16,8
+"919","caramellos","neutral",23,8
+"920","caramellos","neutral",54,8
+"921","caramellos","despair",63,7
+"922","caramellos","despair",67,7
+"923","caramellos","joy",64,7
+"924","caramellos","joy",67,7
+"925","caramellos","neutral",18,7
+"926","caramellos","neutral",58,7
+"927","caramellos","despair",70,6
+"928","caramellos","joy",14,6
+"929","caramellos","neutral",13,6
+"930","caramellos","neutral",19,6
+"931","caramellos","neutral",46,6
+"932","caramellos","neutral",49,6
+"933","caramellos","neutral",53,6
+"934","caramellos","neutral",57,6
+"935","caramellos","despair",14,5
+"936","caramellos","despair",62,5
+"937","caramellos","despair",64,5
+"938","caramellos","joy",63,5
+"939","caramellos","neutral",51,5
+"940","caramellos","neutral",64,5
+"941","caramellos","neutral",67,5
+"942","caramellos","despair",65,4
+"943","caramellos","despair",69,4
+"944","caramellos","joy",9,4
+"945","caramellos","joy",10,4
+"946","caramellos","joy",11,4
+"947","caramellos","joy",69,4
+"948","caramellos","joy",72,4
+"949","caramellos","neutral",14,4
+"950","caramellos","neutral",52,4
+"951","caramellos","neutral",55,4
+"952","caramellos","neutral",59,4
+"953","caramellos","despair",11,3
+"954","caramellos","despair",12,3
+"955","caramellos","despair",61,3
+"956","caramellos","despair",66,3
+"957","caramellos","despair",74,3
+"958","caramellos","joy",6,3
+"959","caramellos","joy",68,3
+"960","caramellos","neutral",9,3
+"961","caramellos","neutral",17,3
+"962","caramellos","neutral",48,3
+"963","caramellos","neutral",50,3
+"964","caramellos","neutral",60,3
+"965","caramellos","despair",9,2
+"966","caramellos","despair",15,2
+"967","caramellos","despair",68,2
+"968","caramellos","despair",71,2
+"969","caramellos","joy",7,2
+"970","caramellos","joy",8,2
+"971","caramellos","joy",70,2
+"972","caramellos","joy",71,2
+"973","caramellos","neutral",8,2
+"974","caramellos","neutral",16,2
+"975","caramellos","neutral",56,2
+"976","caramellos","neutral",70,2
+"977","caramellos","despair",6,1
+"978","caramellos","despair",10,1
+"979","caramellos","despair",75,1
+"980","caramellos","despair",85,1
+"981","caramellos","despair",99,1
+"982","caramellos","joy",5,1
+"983","caramellos","joy",75,1
+"984","caramellos","joy",77,1
+"985","caramellos","joy",97,1
+"986","caramellos","neutral",11,1
+"987","caramellos","neutral",61,1
+"988","caramellos","neutral",62,1
+"989","caramellos","neutral",63,1
+"990","caramellos","neutral",65,1
+"991","caramellos","neutral",66,1
+"992","caramellos","neutral",69,1
+"993","caramellos","neutral",71,1
+"994","caramellos","neutral",72,1
+"995","caramellos","neutral",75,1
+"996","caramellos","neutral",99,1
+"997","gummy bears","joy",32,145
+"998","gummy bears","joy",33,136
+"999","gummy bears","joy",30,131
+"1000","gummy bears","joy",31,128
+"1001","gummy bears","joy",34,120
+"1002","gummy bears","joy",29,117
+"1003","gummy bears","joy",35,117
+"1004","gummy bears","joy",27,113
+"1005","gummy bears","despair",35,105
+"1006","gummy bears","joy",38,95
+"1007","gummy bears","joy",45,95
+"1008","gummy bears","joy",36,94
+"1009","gummy bears","joy",37,92
+"1010","gummy bears","joy",26,90
+"1011","gummy bears","joy",28,89
+"1012","gummy bears","despair",45,86
+"1013","gummy bears","despair",30,83
+"1014","gummy bears","despair",31,81
+"1015","gummy bears","joy",40,81
+"1016","gummy bears","despair",34,73
+"1017","gummy bears","joy",25,72
+"1018","gummy bears","joy",44,72
+"1019","gummy bears","joy",42,71
+"1020","gummy bears","despair",32,68
+"1021","gummy bears","despair",33,68
+"1022","gummy bears","despair",28,65
+"1023","gummy bears","joy",39,65
+"1024","gummy bears","despair",40,64
+"1025","gummy bears","joy",41,61
+"1026","gummy bears","joy",46,60
+"1027","gummy bears","despair",26,59
+"1028","gummy bears","despair",37,57
+"1029","gummy bears","despair",43,57
+"1030","gummy bears","despair",50,57
+"1031","gummy bears","joy",24,57
+"1032","gummy bears","despair",27,56
+"1033","gummy bears","despair",46,56
+"1034","gummy bears","despair",36,55
+"1035","gummy bears","despair",39,55
+"1036","gummy bears","despair",44,55
+"1037","gummy bears","joy",43,55
+"1038","gummy bears","despair",38,50
+"1039","gummy bears","despair",42,49
+"1040","gummy bears","despair",41,47
+"1041","gummy bears","despair",29,46
+"1042","gummy bears","despair",24,45
+"1043","gummy bears","despair",47,43
+"1044","gummy bears","despair",25,41
+"1045","gummy bears","joy",22,41
+"1046","gummy bears","joy",23,41
+"1047","gummy bears","despair",48,38
+"1048","gummy bears","joy",47,37
+"1049","gummy bears","despair",49,36
+"1050","gummy bears","despair",52,36
+"1051","gummy bears","joy",21,36
+"1052","gummy bears","joy",50,36
+"1053","gummy bears","joy",52,36
+"1054","gummy bears","joy",51,35
+"1055","gummy bears","despair",23,34
+"1056","gummy bears","joy",48,33
+"1057","gummy bears","despair",58,32
+"1058","gummy bears","despair",51,30
+"1059","gummy bears","despair",22,29
+"1060","gummy bears","joy",54,29
+"1061","gummy bears","despair",53,27
+"1062","gummy bears","despair",55,27
+"1063","gummy bears","joy",19,26
+"1064","gummy bears","joy",49,26
+"1065","gummy bears","neutral",30,25
+"1066","gummy bears","despair",56,24
+"1067","gummy bears","joy",53,23
+"1068","gummy bears","despair",21,22
+"1069","gummy bears","joy",18,22
+"1070","gummy bears","despair",57,21
+"1071","gummy bears","joy",20,21
+"1072","gummy bears","neutral",34,21
+"1073","gummy bears","despair",54,20
+"1074","gummy bears","joy",57,20
+"1075","gummy bears","neutral",35,19
+"1076","gummy bears","joy",55,18
+"1077","gummy bears","neutral",29,18
+"1078","gummy bears","neutral",36,18
+"1079","gummy bears","despair",20,17
+"1080","gummy bears","despair",59,17
+"1081","gummy bears","despair",62,16
+"1082","gummy bears","neutral",40,16
+"1083","gummy bears","joy",13,15
+"1084","gummy bears","neutral",24,15
+"1085","gummy bears","despair",18,14
+"1086","gummy bears","despair",19,14
+"1087","gummy bears","despair",61,14
+"1088","gummy bears","joy",17,14
+"1089","gummy bears","despair",17,13
+"1090","gummy bears","joy",16,13
+"1091","gummy bears","joy",58,13
+"1092","gummy bears","neutral",33,13
+"1093","gummy bears","neutral",38,13
+"1094","gummy bears","neutral",43,13
+"1095","gummy bears","joy",60,12
+"1096","gummy bears","neutral",28,12
+"1097","gummy bears","neutral",42,12
+"1098","gummy bears","despair",60,11
+"1099","gummy bears","neutral",32,11
+"1100","gummy bears","neutral",37,11
+"1101","gummy bears","despair",63,10
+"1102","gummy bears","despair",64,10
+"1103","gummy bears","despair",66,10
+"1104","gummy bears","neutral",27,10
+"1105","gummy bears","neutral",46,10
+"1106","gummy bears","despair",12,9
+"1107","gummy bears","joy",56,9
+"1108","gummy bears","neutral",20,9
+"1109","gummy bears","neutral",31,9
+"1110","gummy bears","neutral",39,9
+"1111","gummy bears","neutral",45,9
+"1112","gummy bears","despair",67,8
+"1113","gummy bears","joy",14,8
+"1114","gummy bears","joy",15,8
+"1115","gummy bears","joy",62,8
+"1116","gummy bears","joy",65,8
+"1117","gummy bears","neutral",41,8
+"1118","gummy bears","neutral",47,8
+"1119","gummy bears","despair",16,7
+"1120","gummy bears","despair",65,7
+"1121","gummy bears","joy",9,7
+"1122","gummy bears","joy",67,7
+"1123","gummy bears","neutral",44,7
+"1124","gummy bears","joy",11,6
+"1125","gummy bears","joy",59,6
+"1126","gummy bears","joy",64,6
+"1127","gummy bears","neutral",13,6
+"1128","gummy bears","neutral",26,6
+"1129","gummy bears","neutral",49,6
+"1130","gummy bears","neutral",55,6
+"1131","gummy bears","neutral",58,6
+"1132","gummy bears","despair",69,5
+"1133","gummy bears","despair",71,5
+"1134","gummy bears","joy",10,5
+"1135","gummy bears","neutral",25,5
+"1136","gummy bears","neutral",53,5
+"1137","gummy bears","neutral",54,5
+"1138","gummy bears","despair",13,4
+"1139","gummy bears","despair",14,4
+"1140","gummy bears","despair",70,4
+"1141","gummy bears","joy",69,4
+"1142","gummy bears","neutral",21,4
+"1143","gummy bears","neutral",22,4
+"1144","gummy bears","neutral",50,4
+"1145","gummy bears","neutral",56,4
+"1146","gummy bears","neutral",59,4
+"1147","gummy bears","neutral",67,4
+"1148","gummy bears","despair",68,3
+"1149","gummy bears","joy",6,3
+"1150","gummy bears","joy",8,3
+"1151","gummy bears","joy",12,3
+"1152","gummy bears","joy",70,3
+"1153","gummy bears","joy",74,3
+"1154","gummy bears","neutral",14,3
+"1155","gummy bears","neutral",18,3
+"1156","gummy bears","neutral",48,3
+"1157","gummy bears","neutral",57,3
+"1158","gummy bears","neutral",60,3
+"1159","gummy bears","neutral",66,3
+"1160","gummy bears","neutral",70,3
+"1161","gummy bears","despair",72,2
+"1162","gummy bears","despair",75,2
+"1163","gummy bears","joy",61,2
+"1164","gummy bears","joy",63,2
+"1165","gummy bears","joy",68,2
+"1166","gummy bears","joy",72,2
+"1167","gummy bears","neutral",19,2
+"1168","gummy bears","neutral",23,2
+"1169","gummy bears","neutral",52,2
+"1170","gummy bears","neutral",61,2
+"1171","gummy bears","despair",6,1
+"1172","gummy bears","despair",7,1
+"1173","gummy bears","despair",8,1
+"1174","gummy bears","despair",9,1
+"1175","gummy bears","despair",11,1
+"1176","gummy bears","despair",15,1
+"1177","gummy bears","despair",77,1
+"1178","gummy bears","despair",85,1
+"1179","gummy bears","joy",5,1
+"1180","gummy bears","joy",7,1
+"1181","gummy bears","joy",75,1
+"1182","gummy bears","joy",97,1
+"1183","gummy bears","joy",99,1
+"1184","gummy bears","neutral",9,1
+"1185","gummy bears","neutral",11,1
+"1186","gummy bears","neutral",15,1
+"1187","gummy bears","neutral",16,1
+"1188","gummy bears","neutral",51,1
+"1189","gummy bears","neutral",63,1
+"1190","gummy bears","neutral",64,1
+"1191","gummy bears","neutral",65,1
+"1192","gummy bears","neutral",72,1
+"1193","gummy bears","neutral",99,1
+"1194","hershey’s milk chocolate","joy",35,140
+"1195","hershey’s milk chocolate","joy",32,139
+"1196","hershey’s milk chocolate","joy",33,136
+"1197","hershey’s milk chocolate","joy",34,131
+"1198","hershey’s milk chocolate","joy",30,126
+"1199","hershey’s milk chocolate","joy",31,124
+"1200","hershey’s milk chocolate","joy",45,121
+"1201","hershey’s milk chocolate","joy",26,111
+"1202","hershey’s milk chocolate","joy",29,109
+"1203","hershey’s milk chocolate","joy",27,106
+"1204","hershey’s milk chocolate","joy",38,106
+"1205","hershey’s milk chocolate","joy",28,99
+"1206","hershey’s milk chocolate","joy",36,98
+"1207","hershey’s milk chocolate","joy",37,98
+"1208","hershey’s milk chocolate","joy",40,96
+"1209","hershey’s milk chocolate","joy",44,88
+"1210","hershey’s milk chocolate","despair",30,84
+"1211","hershey’s milk chocolate","joy",46,81
+"1212","hershey’s milk chocolate","joy",39,80
+"1213","hershey’s milk chocolate","joy",25,79
+"1214","hershey’s milk chocolate","joy",42,79
+"1215","hershey’s milk chocolate","despair",35,78
+"1216","hershey’s milk chocolate","joy",24,76
+"1217","hershey’s milk chocolate","despair",31,74
+"1218","hershey’s milk chocolate","joy",43,74
+"1219","hershey’s milk chocolate","despair",32,72
+"1220","hershey’s milk chocolate","joy",41,71
+"1221","hershey’s milk chocolate","despair",33,70
+"1222","hershey’s milk chocolate","joy",50,64
+"1223","hershey’s milk chocolate","despair",45,58
+"1224","hershey’s milk chocolate","joy",47,58
+"1225","hershey’s milk chocolate","despair",27,57
+"1226","hershey’s milk chocolate","despair",34,57
+"1227","hershey’s milk chocolate","despair",29,56
+"1228","hershey’s milk chocolate","joy",48,55
+"1229","hershey’s milk chocolate","joy",23,54
+"1230","hershey’s milk chocolate","joy",52,54
+"1231","hershey’s milk chocolate","despair",28,51
+"1232","hershey’s milk chocolate","despair",40,51
+"1233","hershey’s milk chocolate","despair",36,49
+"1234","hershey’s milk chocolate","despair",37,48
+"1235","hershey’s milk chocolate","joy",22,48
+"1236","hershey’s milk chocolate","despair",38,46
+"1237","hershey’s milk chocolate","joy",21,44
+"1238","hershey’s milk chocolate","joy",49,41
+"1239","hershey’s milk chocolate","despair",41,40
+"1240","hershey’s milk chocolate","despair",42,40
+"1241","hershey’s milk chocolate","despair",43,40
+"1242","hershey’s milk chocolate","joy",53,40
+"1243","hershey’s milk chocolate","despair",46,39
+"1244","hershey’s milk chocolate","joy",51,39
+"1245","hershey’s milk chocolate","joy",54,39
+"1246","hershey’s milk chocolate","despair",39,36
+"1247","hershey’s milk chocolate","joy",19,36
+"1248","hershey’s milk chocolate","joy",58,35
+"1249","hershey’s milk chocolate","despair",26,34
+"1250","hershey’s milk chocolate","joy",18,33
+"1251","hershey’s milk chocolate","despair",44,32
+"1252","hershey’s milk chocolate","despair",25,31
+"1253","hershey’s milk chocolate","joy",20,31
+"1254","hershey’s milk chocolate","joy",57,31
+"1255","hershey’s milk chocolate","joy",55,30
+"1256","hershey’s milk chocolate","despair",50,29
+"1257","hershey’s milk chocolate","neutral",30,29
+"1258","hershey’s milk chocolate","despair",24,26
+"1259","hershey’s milk chocolate","neutral",34,26
+"1260","hershey’s milk chocolate","despair",51,24
+"1261","hershey’s milk chocolate","despair",47,23
+"1262","hershey’s milk chocolate","neutral",35,23
+"1263","hershey’s milk chocolate","joy",56,22
+"1264","hershey’s milk chocolate","despair",22,21
+"1265","hershey’s milk chocolate","despair",23,20
+"1266","hershey’s milk chocolate","joy",17,20
+"1267","hershey’s milk chocolate","neutral",31,20
+"1268","hershey’s milk chocolate","neutral",36,20
+"1269","hershey’s milk chocolate","despair",48,18
+"1270","hershey’s milk chocolate","despair",49,18
+"1271","hershey’s milk chocolate","joy",59,18
+"1272","hershey’s milk chocolate","despair",52,17
+"1273","hershey’s milk chocolate","joy",62,17
+"1274","hershey’s milk chocolate","despair",55,16
+"1275","hershey’s milk chocolate","joy",13,16
+"1276","hershey’s milk chocolate","neutral",27,16
+"1277","hershey’s milk chocolate","neutral",28,16
+"1278","hershey’s milk chocolate","neutral",29,16
+"1279","hershey’s milk chocolate","joy",60,15
+"1280","hershey’s milk chocolate","neutral",24,15
+"1281","hershey’s milk chocolate","despair",21,14
+"1282","hershey’s milk chocolate","joy",67,14
+"1283","hershey’s milk chocolate","neutral",37,14
+"1284","hershey’s milk chocolate","neutral",40,14
+"1285","hershey’s milk chocolate","neutral",44,14
+"1286","hershey’s milk chocolate","joy",16,13
+"1287","hershey’s milk chocolate","neutral",32,13
+"1288","hershey’s milk chocolate","neutral",39,13
+"1289","hershey’s milk chocolate","neutral",42,13
+"1290","hershey’s milk chocolate","joy",61,12
+"1291","hershey’s milk chocolate","joy",65,12
+"1292","hershey’s milk chocolate","despair",53,11
+"1293","hershey’s milk chocolate","despair",56,11
+"1294","hershey’s milk chocolate","joy",12,11
+"1295","hershey’s milk chocolate","joy",14,11
+"1296","hershey’s milk chocolate","joy",64,11
+"1297","hershey’s milk chocolate","neutral",33,11
+"1298","hershey’s milk chocolate","neutral",43,11
+"1299","hershey’s milk chocolate","neutral",45,11
+"1300","hershey’s milk chocolate","despair",54,10
+"1301","hershey’s milk chocolate","despair",58,10
+"1302","hershey’s milk chocolate","neutral",26,10
+"1303","hershey’s milk chocolate","despair",20,9
+"1304","hershey’s milk chocolate","joy",63,9
+"1305","hershey’s milk chocolate","neutral",49,9
+"1306","hershey’s milk chocolate","despair",60,8
+"1307","hershey’s milk chocolate","joy",15,8
+"1308","hershey’s milk chocolate","neutral",25,8
+"1309","hershey’s milk chocolate","despair",16,7
+"1310","hershey’s milk chocolate","despair",57,7
+"1311","hershey’s milk chocolate","joy",9,7
+"1312","hershey’s milk chocolate","joy",11,7
+"1313","hershey’s milk chocolate","joy",66,7
+"1314","hershey’s milk chocolate","joy",70,7
+"1315","hershey’s milk chocolate","neutral",20,7
+"1316","hershey’s milk chocolate","neutral",47,7
+"1317","hershey’s milk chocolate","neutral",13,6
+"1318","hershey’s milk chocolate","neutral",38,6
+"1319","hershey’s milk chocolate","neutral",46,6
+"1320","hershey’s milk chocolate","neutral",57,6
+"1321","hershey’s milk chocolate","neutral",58,6
+"1322","hershey’s milk chocolate","despair",59,5
+"1323","hershey’s milk chocolate","despair",61,5
+"1324","hershey’s milk chocolate","despair",62,5
+"1325","hershey’s milk chocolate","despair",64,5
+"1326","hershey’s milk chocolate","joy",10,5
+"1327","hershey’s milk chocolate","joy",68,5
+"1328","hershey’s milk chocolate","joy",71,5
+"1329","hershey’s milk chocolate","neutral",22,5
+"1330","hershey’s milk chocolate","neutral",41,5
+"1331","hershey’s milk chocolate","neutral",54,5
+"1332","hershey’s milk chocolate","neutral",55,5
+"1333","hershey’s milk chocolate","despair",17,4
+"1334","hershey’s milk chocolate","despair",19,4
+"1335","hershey’s milk chocolate","despair",65,4
+"1336","hershey’s milk chocolate","despair",66,4
+"1337","hershey’s milk chocolate","despair",69,4
+"1338","hershey’s milk chocolate","joy",69,4
+"1339","hershey’s milk chocolate","joy",72,4
+"1340","hershey’s milk chocolate","neutral",21,4
+"1341","hershey’s milk chocolate","neutral",50,4
+"1342","hershey’s milk chocolate","neutral",53,4
+"1343","hershey’s milk chocolate","neutral",56,4
+"1344","hershey’s milk chocolate","neutral",59,4
+"1345","hershey’s milk chocolate","despair",13,3
+"1346","hershey’s milk chocolate","despair",18,3
+"1347","hershey’s milk chocolate","despair",63,3
+"1348","hershey’s milk chocolate","joy",6,3
+"1349","hershey’s milk chocolate","joy",8,3
+"1350","hershey’s milk chocolate","joy",74,3
+"1351","hershey’s milk chocolate","neutral",17,3
+"1352","hershey’s milk chocolate","neutral",18,3
+"1353","hershey’s milk chocolate","neutral",23,3
+"1354","hershey’s milk chocolate","neutral",51,3
+"1355","hershey’s milk chocolate","neutral",52,3
+"1356","hershey’s milk chocolate","neutral",60,3
+"1357","hershey’s milk chocolate","neutral",67,3
+"1358","hershey’s milk chocolate","despair",9,2
+"1359","hershey’s milk chocolate","despair",14,2
+"1360","hershey’s milk chocolate","despair",15,2
+"1361","hershey’s milk chocolate","despair",67,2
+"1362","hershey’s milk chocolate","joy",75,2
+"1363","hershey’s milk chocolate","neutral",14,2
+"1364","hershey’s milk chocolate","neutral",19,2
+"1365","hershey’s milk chocolate","neutral",62,2
+"1366","hershey’s milk chocolate","neutral",66,2
+"1367","hershey’s milk chocolate","neutral",70,2
+"1368","hershey’s milk chocolate","despair",6,1
+"1369","hershey’s milk chocolate","despair",7,1
+"1370","hershey’s milk chocolate","despair",8,1
+"1371","hershey’s milk chocolate","despair",11,1
+"1372","hershey’s milk chocolate","despair",12,1
+"1373","hershey’s milk chocolate","despair",70,1
+"1374","hershey’s milk chocolate","despair",75,1
+"1375","hershey’s milk chocolate","despair",97,1
+"1376","hershey’s milk chocolate","joy",5,1
+"1377","hershey’s milk chocolate","joy",7,1
+"1378","hershey’s milk chocolate","joy",77,1
+"1379","hershey’s milk chocolate","joy",85,1
+"1380","hershey’s milk chocolate","joy",99,1
+"1381","hershey’s milk chocolate","neutral",16,1
+"1382","hershey’s milk chocolate","neutral",48,1
+"1383","hershey’s milk chocolate","neutral",61,1
+"1384","hershey’s milk chocolate","neutral",63,1
+"1385","hershey’s milk chocolate","neutral",64,1
+"1386","hershey’s milk chocolate","neutral",69,1
+"1387","hershey’s milk chocolate","neutral",72,1
+"1388","hershey’s milk chocolate","neutral",99,1
+"1389","kit kat","joy",35,208
+"1390","kit kat","joy",30,198
+"1391","kit kat","joy",32,198
+"1392","kit kat","joy",33,190
+"1393","kit kat","joy",34,188
+"1394","kit kat","joy",31,185
+"1395","kit kat","joy",45,173
+"1396","kit kat","joy",29,159
+"1397","kit kat","joy",27,154
+"1398","kit kat","joy",36,149
+"1399","kit kat","joy",40,144
+"1400","kit kat","joy",26,141
+"1401","kit kat","joy",37,140
+"1402","kit kat","joy",28,138
+"1403","kit kat","joy",38,137
+"1404","kit kat","joy",44,118
+"1405","kit kat","joy",42,114
+"1406","kit kat","joy",39,113
+"1407","kit kat","joy",43,110
+"1408","kit kat","joy",46,110
+"1409","kit kat","joy",41,108
+"1410","kit kat","joy",25,101
+"1411","kit kat","joy",24,93
+"1412","kit kat","joy",50,87
+"1413","kit kat","joy",47,76
+"1414","kit kat","joy",22,67
+"1415","kit kat","joy",23,67
+"1416","kit kat","joy",48,66
+"1417","kit kat","joy",52,56
+"1418","kit kat","joy",49,54
+"1419","kit kat","joy",51,53
+"1420","kit kat","joy",21,52
+"1421","kit kat","joy",53,49
+"1422","kit kat","joy",54,46
+"1423","kit kat","joy",55,46
+"1424","kit kat","joy",58,46
+"1425","kit kat","joy",19,39
+"1426","kit kat","joy",20,37
+"1427","kit kat","joy",57,37
+"1428","kit kat","joy",18,36
+"1429","kit kat","joy",56,29
+"1430","kit kat","joy",17,25
+"1431","kit kat","despair",31,23
+"1432","kit kat","despair",35,22
+"1433","kit kat","neutral",30,22
+"1434","kit kat","despair",27,20
+"1435","kit kat","joy",59,20
+"1436","kit kat","despair",28,19
+"1437","kit kat","despair",30,19
+"1438","kit kat","joy",13,19
+"1439","kit kat","despair",33,18
+"1440","kit kat","joy",62,18
+"1441","kit kat","despair",24,17
+"1442","kit kat","despair",52,16
+"1443","kit kat","joy",60,16
+"1444","kit kat","despair",32,15
+"1445","kit kat","despair",34,15
+"1446","kit kat","despair",37,15
+"1447","kit kat","joy",16,15
+"1448","kit kat","despair",29,14
+"1449","kit kat","joy",61,14
+"1450","kit kat","despair",25,13
+"1451","kit kat","despair",46,13
+"1452","kit kat","joy",14,13
+"1453","kit kat","joy",65,13
+"1454","kit kat","despair",38,12
+"1455","kit kat","despair",45,12
+"1456","kit kat","joy",64,12
+"1457","kit kat","joy",67,12
+"1458","kit kat","despair",26,11
+"1459","kit kat","joy",12,11
+"1460","kit kat","joy",66,11
+"1461","kit kat","neutral",32,11
+"1462","kit kat","neutral",34,11
+"1463","kit kat","neutral",35,11
+"1464","kit kat","despair",42,10
+"1465","kit kat","despair",51,10
+"1466","kit kat","joy",15,10
+"1467","kit kat","joy",63,10
+"1468","kit kat","neutral",31,10
+"1469","kit kat","neutral",36,10
+"1470","kit kat","despair",23,9
+"1471","kit kat","despair",43,9
+"1472","kit kat","despair",49,9
+"1473","kit kat","despair",50,9
+"1474","kit kat","neutral",28,9
+"1475","kit kat","neutral",33,9
+"1476","kit kat","neutral",38,9
+"1477","kit kat","neutral",39,9
+"1478","kit kat","neutral",40,9
+"1479","kit kat","neutral",44,9
+"1480","kit kat","despair",36,8
+"1481","kit kat","despair",40,8
+"1482","kit kat","despair",60,8
+"1483","kit kat","joy",9,8
+"1484","kit kat","joy",11,8
+"1485","kit kat","neutral",20,8
+"1486","kit kat","neutral",29,8
+"1487","kit kat","neutral",42,8
+"1488","kit kat","despair",21,7
+"1489","kit kat","despair",39,7
+"1490","kit kat","despair",44,7
+"1491","kit kat","joy",69,7
+"1492","kit kat","neutral",24,7
+"1493","kit kat","despair",22,6
+"1494","kit kat","despair",47,6
+"1495","kit kat","despair",48,6
+"1496","kit kat","despair",56,6
+"1497","kit kat","despair",57,6
+"1498","kit kat","joy",70,6
+"1499","kit kat","neutral",43,6
+"1500","kit kat","neutral",47,6
+"1501","kit kat","despair",41,5
+"1502","kit kat","despair",54,5
+"1503","kit kat","despair",62,5
+"1504","kit kat","joy",10,5
+"1505","kit kat","joy",68,5
+"1506","kit kat","joy",71,5
+"1507","kit kat","neutral",13,5
+"1508","kit kat","neutral",27,5
+"1509","kit kat","neutral",37,5
+"1510","kit kat","neutral",45,5
+"1511","kit kat","neutral",49,5
+"1512","kit kat","despair",16,4
+"1513","kit kat","joy",6,4
+"1514","kit kat","joy",8,4
+"1515","kit kat","joy",72,4
+"1516","kit kat","neutral",25,4
+"1517","kit kat","neutral",59,4
+"1518","kit kat","neutral",67,4
+"1519","kit kat","despair",19,3
+"1520","kit kat","despair",53,3
+"1521","kit kat","despair",59,3
+"1522","kit kat","despair",61,3
+"1523","kit kat","despair",63,3
+"1524","kit kat","despair",65,3
+"1525","kit kat","despair",67,3
+"1526","kit kat","joy",75,3
+"1527","kit kat","neutral",21,3
+"1528","kit kat","neutral",26,3
+"1529","kit kat","neutral",41,3
+"1530","kit kat","neutral",46,3
+"1531","kit kat","neutral",51,3
+"1532","kit kat","neutral",53,3
+"1533","kit kat","neutral",54,3
+"1534","kit kat","neutral",55,3
+"1535","kit kat","neutral",58,3
+"1536","kit kat","neutral",64,3
+"1537","kit kat","neutral",70,3
+"1538","kit kat","despair",17,2
+"1539","kit kat","despair",20,2
+"1540","kit kat","despair",55,2
+"1541","kit kat","despair",58,2
+"1542","kit kat","despair",64,2
+"1543","kit kat","despair",66,2
+"1544","kit kat","despair",74,2
+"1545","kit kat","joy",7,2
+"1546","kit kat","neutral",16,2
+"1547","kit kat","neutral",18,2
+"1548","kit kat","neutral",48,2
+"1549","kit kat","neutral",52,2
+"1550","kit kat","neutral",56,2
+"1551","kit kat","neutral",60,2
+"1552","kit kat","despair",9,1
+"1553","kit kat","despair",12,1
+"1554","kit kat","despair",13,1
+"1555","kit kat","despair",14,1
+"1556","kit kat","despair",18,1
+"1557","kit kat","despair",69,1
+"1558","kit kat","despair",70,1
+"1559","kit kat","despair",85,1
+"1560","kit kat","joy",5,1
+"1561","kit kat","joy",74,1
+"1562","kit kat","joy",77,1
+"1563","kit kat","joy",97,1
+"1564","kit kat","joy",99,1
+"1565","kit kat","neutral",14,1
+"1566","kit kat","neutral",22,1
+"1567","kit kat","neutral",23,1
+"1568","kit kat","neutral",50,1
+"1569","kit kat","neutral",57,1
+"1570","kit kat","neutral",61,1
+"1571","kit kat","neutral",62,1
+"1572","kit kat","neutral",69,1
+"1573","kit kat","neutral",72,1
+"1574","kit kat","neutral",99,1
+"1575","lollipops","despair",35,131
+"1576","lollipops","despair",45,111
+"1577","lollipops","joy",30,109
+"1578","lollipops","despair",33,107
+"1579","lollipops","despair",31,104
+"1580","lollipops","despair",32,104
+"1581","lollipops","despair",34,102
+"1582","lollipops","joy",32,100
+"1583","lollipops","joy",31,98
+"1584","lollipops","despair",30,94
+"1585","lollipops","joy",27,94
+"1586","lollipops","joy",29,90
+"1587","lollipops","joy",33,89
+"1588","lollipops","joy",35,87
+"1589","lollipops","joy",34,86
+"1590","lollipops","despair",36,83
+"1591","lollipops","despair",40,79
+"1592","lollipops","joy",26,79
+"1593","lollipops","despair",38,78
+"1594","lollipops","despair",37,76
+"1595","lollipops","despair",46,74
+"1596","lollipops","despair",28,73
+"1597","lollipops","joy",28,71
+"1598","lollipops","despair",27,70
+"1599","lollipops","despair",43,70
+"1600","lollipops","despair",29,69
+"1601","lollipops","joy",37,68
+"1602","lollipops","despair",50,67
+"1603","lollipops","despair",44,66
+"1604","lollipops","joy",38,66
+"1605","lollipops","joy",40,66
+"1606","lollipops","joy",45,66
+"1607","lollipops","despair",41,65
+"1608","lollipops","despair",26,64
+"1609","lollipops","joy",24,64
+"1610","lollipops","joy",36,63
+"1611","lollipops","despair",39,61
+"1612","lollipops","despair",42,60
+"1613","lollipops","joy",25,56
+"1614","lollipops","joy",42,54
+"1615","lollipops","joy",39,52
+"1616","lollipops","despair",52,51
+"1617","lollipops","joy",44,49
+"1618","lollipops","despair",25,47
+"1619","lollipops","despair",48,46
+"1620","lollipops","despair",47,44
+"1621","lollipops","joy",41,44
+"1622","lollipops","despair",51,43
+"1623","lollipops","joy",43,43
+"1624","lollipops","joy",46,43
+"1625","lollipops","despair",24,39
+"1626","lollipops","despair",23,38
+"1627","lollipops","despair",49,38
+"1628","lollipops","joy",22,37
+"1629","lollipops","neutral",30,36
+"1630","lollipops","joy",21,35
+"1631","lollipops","joy",23,35
+"1632","lollipops","despair",22,33
+"1633","lollipops","despair",57,32
+"1634","lollipops","despair",58,30
+"1635","lollipops","joy",47,28
+"1636","lollipops","joy",53,27
+"1637","lollipops","neutral",34,26
+"1638","lollipops","despair",55,25
+"1639","lollipops","joy",19,25
+"1640","lollipops","despair",54,24
+"1641","lollipops","joy",50,24
+"1642","lollipops","joy",48,23
+"1643","lollipops","joy",54,23
+"1644","lollipops","neutral",35,23
+"1645","lollipops","despair",56,22
+"1646","lollipops","joy",18,22
+"1647","lollipops","neutral",28,22
+"1648","lollipops","neutral",29,22
+"1649","lollipops","joy",20,21
+"1650","lollipops","neutral",33,21
+"1651","lollipops","neutral",36,21
+"1652","lollipops","despair",53,20
+"1653","lollipops","joy",49,20
+"1654","lollipops","neutral",32,20
+"1655","lollipops","despair",21,19
+"1656","lollipops","joy",51,19
+"1657","lollipops","joy",52,19
+"1658","lollipops","joy",55,19
+"1659","lollipops","neutral",44,19
+"1660","lollipops","neutral",42,18
+"1661","lollipops","despair",59,17
+"1662","lollipops","despair",62,16
+"1663","lollipops","joy",13,16
+"1664","lollipops","joy",17,16
+"1665","lollipops","neutral",31,16
+"1666","lollipops","neutral",37,16
+"1667","lollipops","neutral",39,16
+"1668","lollipops","neutral",40,16
+"1669","lollipops","neutral",47,16
+"1670","lollipops","despair",60,15
+"1671","lollipops","neutral",25,15
+"1672","lollipops","neutral",27,15
+"1673","lollipops","despair",20,14
+"1674","lollipops","joy",58,14
+"1675","lollipops","neutral",24,14
+"1676","lollipops","neutral",38,14
+"1677","lollipops","joy",16,13
+"1678","lollipops","neutral",45,13
+"1679","lollipops","despair",61,12
+"1680","lollipops","neutral",20,12
+"1681","lollipops","neutral",26,12
+"1682","lollipops","neutral",43,12
+"1683","lollipops","despair",18,11
+"1684","lollipops","despair",19,11
+"1685","lollipops","despair",66,11
+"1686","lollipops","despair",63,10
+"1687","lollipops","despair",67,10
+"1688","lollipops","neutral",49,10
+"1689","lollipops","despair",64,9
+"1690","lollipops","despair",65,9
+"1691","lollipops","joy",56,9
+"1692","lollipops","joy",60,9
+"1693","lollipops","neutral",46,9
+"1694","lollipops","despair",17,8
+"1695","lollipops","neutral",21,8
+"1696","lollipops","neutral",53,8
+"1697","lollipops","despair",12,7
+"1698","lollipops","despair",69,7
+"1699","lollipops","joy",9,7
+"1700","lollipops","joy",14,7
+"1701","lollipops","joy",57,7
+"1702","lollipops","joy",62,7
+"1703","lollipops","neutral",41,7
+"1704","lollipops","neutral",54,7
+"1705","lollipops","neutral",55,7
+"1706","lollipops","neutral",58,7
+"1707","lollipops","joy",11,6
+"1708","lollipops","joy",15,6
+"1709","lollipops","joy",59,6
+"1710","lollipops","joy",65,6
+"1711","lollipops","neutral",13,6
+"1712","lollipops","neutral",18,6
+"1713","lollipops","neutral",19,6
+"1714","lollipops","neutral",50,6
+"1715","lollipops","neutral",56,6
+"1716","lollipops","despair",14,5
+"1717","lollipops","despair",16,5
+"1718","lollipops","despair",70,5
+"1719","lollipops","joy",10,5
+"1720","lollipops","joy",12,5
+"1721","lollipops","joy",61,5
+"1722","lollipops","neutral",48,5
+"1723","lollipops","neutral",57,5
+"1724","lollipops","neutral",64,5
+"1725","lollipops","neutral",67,5
+"1726","lollipops","despair",71,4
+"1727","lollipops","joy",6,4
+"1728","lollipops","joy",8,4
+"1729","lollipops","joy",67,4
+"1730","lollipops","neutral",22,4
+"1731","lollipops","neutral",23,4
+"1732","lollipops","neutral",51,4
+"1733","lollipops","neutral",52,4
+"1734","lollipops","neutral",59,4
+"1735","lollipops","despair",13,3
+"1736","lollipops","despair",15,3
+"1737","lollipops","despair",72,3
+"1738","lollipops","despair",74,3
+"1739","lollipops","joy",64,3
+"1740","lollipops","joy",68,3
+"1741","lollipops","neutral",14,3
+"1742","lollipops","neutral",16,3
+"1743","lollipops","neutral",17,3
+"1744","lollipops","neutral",70,3
+"1745","lollipops","despair",9,2
+"1746","lollipops","despair",68,2
+"1747","lollipops","joy",7,2
+"1748","lollipops","joy",63,2
+"1749","lollipops","joy",70,2
+"1750","lollipops","neutral",60,2
+"1751","lollipops","neutral",66,2
+"1752","lollipops","despair",5,1
+"1753","lollipops","despair",11,1
+"1754","lollipops","despair",75,1
+"1755","lollipops","despair",77,1
+"1756","lollipops","despair",85,1
+"1757","lollipops","joy",69,1
+"1758","lollipops","joy",72,1
+"1759","lollipops","joy",75,1
+"1760","lollipops","joy",97,1
+"1761","lollipops","joy",99,1
+"1762","lollipops","neutral",11,1
+"1763","lollipops","neutral",15,1
+"1764","lollipops","neutral",61,1
+"1765","lollipops","neutral",62,1
+"1766","lollipops","neutral",63,1
+"1767","lollipops","neutral",65,1
+"1768","lollipops","neutral",69,1
+"1769","lollipops","neutral",71,1
+"1770","lollipops","neutral",72,1
+"1771","lollipops","neutral",75,1
+"1772","lollipops","neutral",99,1
+"1773","m&ms","joy",33,172
+"1774","m&ms","joy",35,169
+"1775","m&ms","joy",32,168
+"1776","m&ms","joy",34,164
+"1777","m&ms","joy",31,162
+"1778","m&ms","joy",30,158
+"1779","m&ms","joy",45,141
+"1780","m&ms","joy",29,131
+"1781","m&ms","joy",26,130
+"1782","m&ms","joy",27,126
+"1783","m&ms","joy",38,125
+"1784","m&ms","joy",40,124
+"1785","m&ms","joy",36,122
+"1786","m&ms","joy",28,119
+"1787","m&ms","joy",44,106
+"1788","m&ms","joy",37,105
+"1789","m&ms","joy",43,101
+"1790","m&ms","joy",39,99
+"1791","m&ms","joy",42,99
+"1792","m&ms","joy",46,98
+"1793","m&ms","joy",41,96
+"1794","m&ms","joy",25,88
+"1795","m&ms","joy",24,83
+"1796","m&ms","joy",50,80
+"1797","m&ms","joy",47,76
+"1798","m&ms","joy",48,64
+"1799","m&ms","joy",22,61
+"1800","m&ms","joy",52,58
+"1801","m&ms","joy",23,57
+"1802","m&ms","joy",49,55
+"1803","m&ms","despair",30,51
+"1804","m&ms","despair",32,51
+"1805","m&ms","despair",35,51
+"1806","m&ms","joy",21,50
+"1807","m&ms","despair",31,49
+"1808","m&ms","joy",51,49
+"1809","m&ms","joy",53,46
+"1810","m&ms","joy",54,46
+"1811","m&ms","despair",37,43
+"1812","m&ms","joy",58,43
+"1813","m&ms","despair",27,41
+"1814","m&ms","despair",33,40
+"1815","m&ms","despair",45,39
+"1816","m&ms","despair",29,38
+"1817","m&ms","joy",55,37
+"1818","m&ms","joy",57,35
+"1819","m&ms","despair",28,34
+"1820","m&ms","joy",20,34
+"1821","m&ms","joy",19,33
+"1822","m&ms","despair",34,31
+"1823","m&ms","joy",18,31
+"1824","m&ms","despair",36,30
+"1825","m&ms","neutral",30,30
+"1826","m&ms","joy",56,29
+"1827","m&ms","despair",42,25
+"1828","m&ms","despair",38,24
+"1829","m&ms","despair",46,24
+"1830","m&ms","joy",17,24
+"1831","m&ms","despair",25,22
+"1832","m&ms","despair",24,21
+"1833","m&ms","despair",26,21
+"1834","m&ms","joy",62,21
+"1835","m&ms","neutral",35,21
+"1836","m&ms","despair",40,19
+"1837","m&ms","joy",60,19
+"1838","m&ms","neutral",34,19
+"1839","m&ms","despair",39,18
+"1840","m&ms","joy",59,18
+"1841","m&ms","neutral",40,18
+"1842","m&ms","despair",44,17
+"1843","m&ms","joy",13,17
+"1844","m&ms","despair",23,16
+"1845","m&ms","despair",41,16
+"1846","m&ms","despair",43,16
+"1847","m&ms","joy",67,15
+"1848","m&ms","neutral",36,15
+"1849","m&ms","despair",50,14
+"1850","m&ms","despair",51,14
+"1851","m&ms","joy",64,14
+"1852","m&ms","despair",52,13
+"1853","m&ms","joy",16,13
+"1854","m&ms","neutral",24,13
+"1855","m&ms","neutral",28,13
+"1856","m&ms","despair",22,12
+"1857","m&ms","joy",61,12
+"1858","m&ms","joy",63,12
+"1859","m&ms","joy",65,12
+"1860","m&ms","neutral",27,12
+"1861","m&ms","neutral",29,12
+"1862","m&ms","neutral",37,12
+"1863","m&ms","neutral",39,12
+"1864","m&ms","joy",12,11
+"1865","m&ms","neutral",44,11
+"1866","m&ms","joy",14,10
+"1867","m&ms","neutral",45,10
+"1868","m&ms","despair",55,9
+"1869","m&ms","joy",66,9
+"1870","m&ms","neutral",38,9
+"1871","m&ms","despair",21,8
+"1872","m&ms","joy",9,8
+"1873","m&ms","joy",11,8
+"1874","m&ms","joy",15,8
+"1875","m&ms","neutral",25,8
+"1876","m&ms","neutral",42,8
+"1877","m&ms","neutral",43,8
+"1878","m&ms","despair",47,7
+"1879","m&ms","despair",48,7
+"1880","m&ms","joy",70,7
+"1881","m&ms","neutral",20,7
+"1882","m&ms","neutral",31,7
+"1883","m&ms","neutral",49,7
+"1884","m&ms","despair",20,6
+"1885","m&ms","despair",49,6
+"1886","m&ms","despair",53,6
+"1887","m&ms","despair",57,6
+"1888","m&ms","joy",69,6
+"1889","m&ms","despair",16,5
+"1890","m&ms","despair",18,5
+"1891","m&ms","despair",19,5
+"1892","m&ms","despair",54,5
+"1893","m&ms","despair",56,5
+"1894","m&ms","despair",59,5
+"1895","m&ms","despair",61,5
+"1896","m&ms","joy",10,5
+"1897","m&ms","joy",68,5
+"1898","m&ms","neutral",13,5
+"1899","m&ms","neutral",32,5
+"1900","m&ms","neutral",33,5
+"1901","m&ms","neutral",47,5
+"1902","m&ms","neutral",55,5
+"1903","m&ms","despair",58,4
+"1904","m&ms","despair",60,4
+"1905","m&ms","joy",6,4
+"1906","m&ms","joy",8,4
+"1907","m&ms","joy",72,4
+"1908","m&ms","neutral",19,4
+"1909","m&ms","neutral",21,4
+"1910","m&ms","neutral",23,4
+"1911","m&ms","neutral",26,4
+"1912","m&ms","neutral",41,4
+"1913","m&ms","neutral",46,4
+"1914","m&ms","neutral",58,4
+"1915","m&ms","neutral",59,4
+"1916","m&ms","despair",13,3
+"1917","m&ms","despair",14,3
+"1918","m&ms","despair",65,3
+"1919","m&ms","despair",66,3
+"1920","m&ms","despair",69,3
+"1921","m&ms","joy",71,3
+"1922","m&ms","joy",74,3
+"1923","m&ms","joy",75,3
+"1924","m&ms","neutral",16,3
+"1925","m&ms","neutral",18,3
+"1926","m&ms","neutral",48,3
+"1927","m&ms","neutral",50,3
+"1928","m&ms","neutral",51,3
+"1929","m&ms","neutral",52,3
+"1930","m&ms","neutral",53,3
+"1931","m&ms","neutral",54,3
+"1932","m&ms","neutral",56,3
+"1933","m&ms","neutral",57,3
+"1934","m&ms","neutral",60,3
+"1935","m&ms","neutral",64,3
+"1936","m&ms","neutral",67,3
+"1937","m&ms","neutral",70,3
+"1938","m&ms","despair",15,2
+"1939","m&ms","despair",17,2
+"1940","m&ms","despair",62,2
+"1941","m&ms","neutral",14,2
+"1942","m&ms","despair",7,1
+"1943","m&ms","despair",9,1
+"1944","m&ms","despair",63,1
+"1945","m&ms","despair",67,1
+"1946","m&ms","despair",71,1
+"1947","m&ms","joy",5,1
+"1948","m&ms","joy",7,1
+"1949","m&ms","joy",77,1
+"1950","m&ms","joy",85,1
+"1951","m&ms","joy",97,1
+"1952","m&ms","joy",99,1
+"1953","m&ms","neutral",12,1
+"1954","m&ms","neutral",17,1
+"1955","m&ms","neutral",22,1
+"1956","m&ms","neutral",61,1
+"1957","m&ms","neutral",62,1
+"1958","m&ms","neutral",65,1
+"1959","m&ms","neutral",66,1
+"1960","m&ms","neutral",71,1
+"1961","m&ms","neutral",72,1
+"1962","m&ms","neutral",99,1
+"1963","mars","joy",32,142
+"1964","mars","joy",31,141
+"1965","mars","joy",30,136
+"1966","mars","joy",35,129
+"1967","mars","joy",34,127
+"1968","mars","joy",33,121
+"1969","mars","joy",45,111
+"1970","mars","joy",36,108
+"1971","mars","joy",29,107
+"1972","mars","joy",38,104
+"1973","mars","joy",40,101
+"1974","mars","joy",27,98
+"1975","mars","joy",37,88
+"1976","mars","joy",43,87
+"1977","mars","despair",35,85
+"1978","mars","joy",26,85
+"1979","mars","joy",28,83
+"1980","mars","joy",44,81
+"1981","mars","joy",39,80
+"1982","mars","joy",42,78
+"1983","mars","joy",41,76
+"1984","mars","despair",33,72
+"1985","mars","despair",32,70
+"1986","mars","despair",45,70
+"1987","mars","joy",46,70
+"1988","mars","joy",25,68
+"1989","mars","despair",30,66
+"1990","mars","despair",31,60
+"1991","mars","joy",50,60
+"1992","mars","despair",27,59
+"1993","mars","joy",24,59
+"1994","mars","joy",48,59
+"1995","mars","despair",37,58
+"1996","mars","joy",47,57
+"1997","mars","despair",34,53
+"1998","mars","despair",28,52
+"1999","mars","despair",29,52
+"2000","mars","despair",26,50
+"2001","mars","despair",46,48
+"2002","mars","joy",52,48
+"2003","mars","joy",53,45
+"2004","mars","joy",49,44
+"2005","mars","joy",51,44
+"2006","mars","despair",40,43
+"2007","mars","despair",24,42
+"2008","mars","despair",38,42
+"2009","mars","joy",22,42
+"2010","mars","joy",54,42
+"2011","mars","despair",42,39
+"2012","mars","despair",44,38
+"2013","mars","joy",23,37
+"2014","mars","neutral",30,37
+"2015","mars","joy",55,36
+"2016","mars","joy",21,35
+"2017","mars","despair",41,34
+"2018","mars","despair",50,34
+"2019","mars","joy",58,34
+"2020","mars","neutral",34,34
+"2021","mars","despair",23,33
+"2022","mars","despair",25,31
+"2023","mars","despair",36,31
+"2024","mars","neutral",28,31
+"2025","mars","despair",39,30
+"2026","mars","joy",57,30
+"2027","mars","neutral",36,28
+"2028","mars","neutral",35,27
+"2029","mars","despair",22,25
+"2030","mars","despair",43,25
+"2031","mars","joy",19,25
+"2032","mars","joy",56,25
+"2033","mars","neutral",33,24
+"2034","mars","neutral",27,22
+"2035","mars","neutral",29,22
+"2036","mars","despair",52,21
+"2037","mars","despair",47,20
+"2038","mars","despair",49,20
+"2039","mars","joy",18,20
+"2040","mars","joy",20,20
+"2041","mars","joy",59,20
+"2042","mars","neutral",26,20
+"2043","mars","despair",51,19
+"2044","mars","joy",17,19
+"2045","mars","joy",62,19
+"2046","mars","neutral",25,19
+"2047","mars","neutral",39,19
+"2048","mars","despair",20,17
+"2049","mars","neutral",31,17
+"2050","mars","neutral",40,17
+"2051","mars","neutral",24,16
+"2052","mars","despair",18,15
+"2053","mars","joy",60,15
+"2054","mars","neutral",42,15
+"2055","mars","neutral",44,15
+"2056","mars","despair",21,14
+"2057","mars","despair",58,14
+"2058","mars","joy",13,14
+"2059","mars","joy",67,14
+"2060","mars","neutral",37,14
+"2061","mars","despair",19,13
+"2062","mars","joy",61,13
+"2063","mars","neutral",21,13
+"2064","mars","neutral",43,13
+"2065","mars","joy",65,12
+"2066","mars","neutral",32,12
+"2067","mars","neutral",38,12
+"2068","mars","despair",57,11
+"2069","mars","joy",12,11
+"2070","mars","neutral",47,11
+"2071","mars","despair",48,10
+"2072","mars","despair",60,10
+"2073","mars","joy",16,10
+"2074","mars","joy",63,10
+"2075","mars","joy",66,10
+"2076","mars","neutral",20,10
+"2077","mars","despair",55,9
+"2078","mars","despair",56,9
+"2079","mars","joy",14,9
+"2080","mars","neutral",45,9
+"2081","mars","despair",16,8
+"2082","mars","despair",54,8
+"2083","mars","joy",15,8
+"2084","mars","joy",64,8
+"2085","mars","joy",70,8
+"2086","mars","neutral",46,8
+"2087","mars","despair",17,7
+"2088","mars","neutral",22,7
+"2089","mars","neutral",23,7
+"2090","mars","despair",53,6
+"2091","mars","joy",69,6
+"2092","mars","neutral",13,6
+"2093","mars","neutral",41,6
+"2094","mars","neutral",55,6
+"2095","mars","despair",13,5
+"2096","mars","despair",62,5
+"2097","mars","joy",9,5
+"2098","mars","joy",10,5
+"2099","mars","joy",11,5
+"2100","mars","joy",68,5
+"2101","mars","neutral",48,5
+"2102","mars","neutral",52,5
+"2103","mars","neutral",64,5
+"2104","mars","despair",9,4
+"2105","mars","despair",14,4
+"2106","mars","despair",59,4
+"2107","mars","despair",61,4
+"2108","mars","despair",64,4
+"2109","mars","joy",6,4
+"2110","mars","joy",71,4
+"2111","mars","neutral",18,4
+"2112","mars","neutral",19,4
+"2113","mars","neutral",49,4
+"2114","mars","neutral",53,4
+"2115","mars","neutral",54,4
+"2116","mars","neutral",67,4
+"2117","mars","despair",11,3
+"2118","mars","despair",63,3
+"2119","mars","joy",72,3
+"2120","mars","joy",74,3
+"2121","mars","joy",75,3
+"2122","mars","neutral",8,3
+"2123","mars","neutral",16,3
+"2124","mars","neutral",50,3
+"2125","mars","neutral",51,3
+"2126","mars","neutral",56,3
+"2127","mars","neutral",57,3
+"2128","mars","neutral",58,3
+"2129","mars","neutral",59,3
+"2130","mars","despair",15,2
+"2131","mars","despair",65,2
+"2132","mars","despair",66,2
+"2133","mars","despair",69,2
+"2134","mars","joy",7,2
+"2135","mars","neutral",14,2
+"2136","mars","neutral",65,2
+"2137","mars","neutral",70,2
+"2138","mars","despair",5,1
+"2139","mars","despair",12,1
+"2140","mars","despair",67,1
+"2141","mars","despair",71,1
+"2142","mars","despair",72,1
+"2143","mars","despair",77,1
+"2144","mars","joy",8,1
+"2145","mars","joy",85,1
+"2146","mars","joy",97,1
+"2147","mars","joy",99,1
+"2148","mars","neutral",17,1
+"2149","mars","neutral",60,1
+"2150","mars","neutral",61,1
+"2151","mars","neutral",66,1
+"2152","mars","neutral",69,1
+"2153","mars","neutral",72,1
+"2154","mars","neutral",99,1
+"2155","maynards","despair",35,176
+"2156","maynards","despair",30,157
+"2157","maynards","despair",31,153
+"2158","maynards","despair",33,152
+"2159","maynards","despair",32,151
+"2160","maynards","despair",45,149
+"2161","maynards","despair",34,137
+"2162","maynards","despair",27,119
+"2163","maynards","despair",29,118
+"2164","maynards","despair",37,114
+"2165","maynards","despair",26,113
+"2166","maynards","despair",36,107
+"2167","maynards","despair",38,106
+"2168","maynards","despair",40,104
+"2169","maynards","despair",28,98
+"2170","maynards","despair",46,97
+"2171","maynards","despair",41,91
+"2172","maynards","despair",43,87
+"2173","maynards","despair",39,84
+"2174","maynards","despair",42,84
+"2175","maynards","despair",44,84
+"2176","maynards","despair",50,82
+"2177","maynards","despair",24,71
+"2178","maynards","despair",25,70
+"2179","maynards","despair",23,59
+"2180","maynards","despair",47,56
+"2181","maynards","despair",48,55
+"2182","maynards","neutral",34,55
+"2183","maynards","neutral",30,53
+"2184","maynards","despair",51,52
+"2185","maynards","despair",52,52
+"2186","maynards","despair",22,51
+"2187","maynards","neutral",35,51
+"2188","maynards","neutral",32,48
+"2189","maynards","despair",49,47
+"2190","maynards","neutral",28,44
+"2191","maynards","neutral",33,44
+"2192","maynards","despair",58,39
+"2193","maynards","despair",55,38
+"2194","maynards","neutral",27,38
+"2195","maynards","neutral",29,38
+"2196","maynards","neutral",44,38
+"2197","maynards","despair",54,37
+"2198","maynards","neutral",31,37
+"2199","maynards","neutral",36,37
+"2200","maynards","neutral",39,37
+"2201","maynards","despair",53,35
+"2202","maynards","neutral",37,35
+"2203","maynards","despair",21,34
+"2204","maynards","neutral",38,34
+"2205","maynards","neutral",40,34
+"2206","maynards","neutral",42,34
+"2207","maynards","despair",57,33
+"2208","maynards","neutral",25,33
+"2209","maynards","joy",30,29
+"2210","maynards","despair",20,28
+"2211","maynards","joy",31,28
+"2212","maynards","neutral",24,28
+"2213","maynards","neutral",43,28
+"2214","maynards","neutral",45,28
+"2215","maynards","neutral",26,27
+"2216","maynards","despair",56,25
+"2217","maynards","joy",29,25
+"2218","maynards","joy",32,25
+"2219","maynards","despair",19,24
+"2220","maynards","joy",28,24
+"2221","maynards","despair",60,23
+"2222","maynards","joy",36,23
+"2223","maynards","joy",40,23
+"2224","maynards","neutral",47,23
+"2225","maynards","despair",18,22
+"2226","maynards","joy",27,22
+"2227","maynards","joy",34,22
+"2228","maynards","despair",59,21
+"2229","maynards","despair",62,21
+"2230","maynards","joy",33,21
+"2231","maynards","neutral",41,19
+"2232","maynards","neutral",46,19
+"2233","maynards","despair",17,18
+"2234","maynards","joy",24,18
+"2235","maynards","joy",38,18
+"2236","maynards","neutral",21,17
+"2237","maynards","despair",16,16
+"2238","maynards","neutral",20,16
+"2239","maynards","neutral",22,16
+"2240","maynards","joy",25,15
+"2241","maynards","joy",26,15
+"2242","maynards","joy",35,14
+"2243","maynards","joy",42,14
+"2244","maynards","neutral",48,14
+"2245","maynards","despair",13,13
+"2246","maynards","despair",61,13
+"2247","maynards","joy",45,13
+"2248","maynards","neutral",49,13
+"2249","maynards","neutral",52,13
+"2250","maynards","despair",64,12
+"2251","maynards","despair",67,12
+"2252","maynards","joy",44,12
+"2253","maynards","neutral",53,12
+"2254","maynards","neutral",54,12
+"2255","maynards","joy",21,11
+"2256","maynards","joy",37,11
+"2257","maynards","neutral",18,11
+"2258","maynards","neutral",19,11
+"2259","maynards","neutral",56,11
+"2260","maynards","despair",65,10
+"2261","maynards","joy",43,10
+"2262","maynards","joy",46,10
+"2263","maynards","neutral",55,10
+"2264","maynards","neutral",58,10
+"2265","maynards","despair",12,9
+"2266","maynards","despair",63,9
+"2267","maynards","despair",66,9
+"2268","maynards","joy",23,9
+"2269","maynards","joy",47,9
+"2270","maynards","joy",52,9
+"2271","maynards","neutral",23,9
+"2272","maynards","neutral",50,9
+"2273","maynards","neutral",57,9
+"2274","maynards","despair",14,8
+"2275","maynards","joy",39,8
+"2276","maynards","joy",49,8
+"2277","maynards","joy",53,8
+"2278","maynards","neutral",13,8
+"2279","maynards","neutral",51,8
+"2280","maynards","despair",69,7
+"2281","maynards","joy",19,7
+"2282","maynards","joy",22,7
+"2283","maynards","neutral",67,7
+"2284","maynards","despair",9,6
+"2285","maynards","despair",15,6
+"2286","maynards","joy",18,6
+"2287","maynards","joy",41,6
+"2288","maynards","joy",50,6
+"2289","maynards","joy",51,6
+"2290","maynards","neutral",17,6
+"2291","maynards","neutral",59,6
+"2292","maynards","despair",70,5
+"2293","maynards","joy",48,5
+"2294","maynards","joy",54,5
+"2295","maynards","neutral",64,5
+"2296","maynards","neutral",65,5
+"2297","maynards","despair",10,4
+"2298","maynards","despair",11,4
+"2299","maynards","despair",68,4
+"2300","maynards","despair",72,4
+"2301","maynards","joy",13,4
+"2302","maynards","neutral",14,4
+"2303","maynards","neutral",16,4
+"2304","maynards","neutral",61,4
+"2305","maynards","neutral",70,4
+"2306","maynards","despair",74,3
+"2307","maynards","joy",14,3
+"2308","maynards","joy",17,3
+"2309","maynards","joy",20,3
+"2310","maynards","joy",55,3
+"2311","maynards","neutral",8,3
+"2312","maynards","neutral",11,3
+"2313","maynards","neutral",60,3
+"2314","maynards","neutral",66,3
+"2315","maynards","neutral",71,3
+"2316","maynards","despair",6,2
+"2317","maynards","despair",71,2
+"2318","maynards","despair",75,2
+"2319","maynards","joy",12,2
+"2320","maynards","joy",15,2
+"2321","maynards","joy",57,2
+"2322","maynards","joy",58,2
+"2323","maynards","joy",63,2
+"2324","maynards","neutral",6,2
+"2325","maynards","neutral",9,2
+"2326","maynards","neutral",15,2
+"2327","maynards","neutral",62,2
+"2328","maynards","neutral",63,2
+"2329","maynards","neutral",69,2
+"2330","maynards","despair",7,1
+"2331","maynards","despair",77,1
+"2332","maynards","despair",97,1
+"2333","maynards","despair",99,1
+"2334","maynards","joy",5,1
+"2335","maynards","joy",7,1
+"2336","maynards","joy",8,1
+"2337","maynards","joy",9,1
+"2338","maynards","joy",11,1
+"2339","maynards","joy",16,1
+"2340","maynards","joy",56,1
+"2341","maynards","joy",61,1
+"2342","maynards","joy",62,1
+"2343","maynards","joy",65,1
+"2344","maynards","joy",66,1
+"2345","maynards","joy",70,1
+"2346","maynards","joy",85,1
+"2347","maynards","neutral",10,1
+"2348","maynards","neutral",12,1
+"2349","maynards","neutral",68,1
+"2350","maynards","neutral",72,1
+"2351","maynards","neutral",75,1
+"2352","maynards","neutral",99,1
+"2353","milky way","joy",30,168
+"2354","milky way","joy",32,166
+"2355","milky way","joy",31,162
+"2356","milky way","joy",35,160
+"2357","milky way","joy",34,154
+"2358","milky way","joy",33,149
+"2359","milky way","joy",45,140
+"2360","milky way","joy",27,137
+"2361","milky way","joy",29,137
+"2362","milky way","joy",38,127
+"2363","milky way","joy",26,123
+"2364","milky way","joy",36,122
+"2365","milky way","joy",40,114
+"2366","milky way","joy",37,113
+"2367","milky way","joy",28,105
+"2368","milky way","joy",39,101
+"2369","milky way","joy",44,101
+"2370","milky way","joy",46,94
+"2371","milky way","joy",43,93
+"2372","milky way","joy",25,88
+"2373","milky way","joy",42,88
+"2374","milky way","joy",24,79
+"2375","milky way","joy",41,77
+"2376","milky way","joy",50,74
+"2377","milky way","joy",47,66
+"2378","milky way","joy",48,62
+"2379","milky way","despair",35,61
+"2380","milky way","joy",23,59
+"2381","milky way","joy",52,58
+"2382","milky way","joy",22,53
+"2383","milky way","despair",33,51
+"2384","milky way","joy",49,49
+"2385","milky way","despair",30,48
+"2386","milky way","despair",32,47
+"2387","milky way","joy",21,47
+"2388","milky way","despair",31,42
+"2389","milky way","despair",34,42
+"2390","milky way","joy",51,42
+"2391","milky way","joy",54,41
+"2392","milky way","despair",28,40
+"2393","milky way","despair",45,40
+"2394","milky way","despair",37,39
+"2395","milky way","joy",58,36
+"2396","milky way","despair",40,35
+"2397","milky way","joy",55,35
+"2398","milky way","joy",53,34
+"2399","milky way","despair",42,33
+"2400","milky way","despair",29,32
+"2401","milky way","despair",41,32
+"2402","milky way","despair",36,31
+"2403","milky way","joy",20,31
+"2404","milky way","despair",27,29
+"2405","milky way","joy",19,29
+"2406","milky way","joy",57,29
+"2407","milky way","joy",18,28
+"2408","milky way","despair",46,27
+"2409","milky way","despair",38,25
+"2410","milky way","despair",24,24
+"2411","milky way","joy",17,24
+"2412","milky way","neutral",30,23
+"2413","milky way","despair",44,22
+"2414","milky way","joy",56,22
+"2415","milky way","despair",51,21
+"2416","milky way","neutral",28,21
+"2417","milky way","despair",26,20
+"2418","milky way","despair",43,20
+"2419","milky way","neutral",35,20
+"2420","milky way","joy",59,19
+"2421","milky way","despair",25,18
+"2422","milky way","joy",62,18
+"2423","milky way","neutral",34,18
+"2424","milky way","despair",39,17
+"2425","milky way","despair",50,17
+"2426","milky way","despair",53,17
+"2427","milky way","neutral",33,17
+"2428","milky way","despair",22,16
+"2429","milky way","joy",13,16
+"2430","milky way","joy",60,16
+"2431","milky way","despair",47,15
+"2432","milky way","joy",61,15
+"2433","milky way","despair",23,14
+"2434","milky way","joy",64,14
+"2435","milky way","neutral",24,14
+"2436","milky way","neutral",31,14
+"2437","milky way","neutral",36,14
+"2438","milky way","joy",67,13
+"2439","milky way","neutral",27,13
+"2440","milky way","despair",52,12
+"2441","milky way","despair",57,12
+"2442","milky way","neutral",25,12
+"2443","milky way","neutral",26,12
+"2444","milky way","neutral",29,12
+"2445","milky way","neutral",40,12
+"2446","milky way","neutral",43,12
+"2447","milky way","despair",49,11
+"2448","milky way","joy",12,11
+"2449","milky way","joy",65,11
+"2450","milky way","neutral",32,11
+"2451","milky way","neutral",39,11
+"2452","milky way","neutral",42,11
+"2453","milky way","neutral",44,11
+"2454","milky way","despair",21,10
+"2455","milky way","despair",55,10
+"2456","milky way","joy",14,10
+"2457","milky way","joy",15,10
+"2458","milky way","joy",16,10
+"2459","milky way","joy",63,10
+"2460","milky way","neutral",20,10
+"2461","milky way","neutral",45,10
+"2462","milky way","despair",48,9
+"2463","milky way","despair",54,9
+"2464","milky way","despair",58,9
+"2465","milky way","despair",16,8
+"2466","milky way","despair",56,8
+"2467","milky way","despair",60,8
+"2468","milky way","joy",9,8
+"2469","milky way","joy",11,8
+"2470","milky way","neutral",37,8
+"2471","milky way","neutral",49,8
+"2472","milky way","despair",18,7
+"2473","milky way","despair",19,7
+"2474","milky way","joy",66,7
+"2475","milky way","joy",69,7
+"2476","milky way","joy",70,7
+"2477","milky way","neutral",41,7
+"2478","milky way","neutral",47,7
+"2479","milky way","neutral",56,7
+"2480","milky way","despair",20,6
+"2481","milky way","neutral",13,6
+"2482","milky way","neutral",19,6
+"2483","milky way","neutral",38,6
+"2484","milky way","neutral",50,6
+"2485","milky way","neutral",55,6
+"2486","milky way","neutral",58,6
+"2487","milky way","despair",62,5
+"2488","milky way","neutral",21,5
+"2489","milky way","neutral",22,5
+"2490","milky way","neutral",46,5
+"2491","milky way","despair",59,4
+"2492","milky way","despair",66,4
+"2493","milky way","joy",10,4
+"2494","milky way","joy",68,4
+"2495","milky way","joy",72,4
+"2496","milky way","neutral",18,4
+"2497","milky way","neutral",23,4
+"2498","milky way","neutral",52,4
+"2499","milky way","neutral",53,4
+"2500","milky way","neutral",54,4
+"2501","milky way","neutral",59,4
+"2502","milky way","neutral",67,4
+"2503","milky way","despair",13,3
+"2504","milky way","despair",17,3
+"2505","milky way","despair",63,3
+"2506","milky way","despair",65,3
+"2507","milky way","joy",6,3
+"2508","milky way","joy",71,3
+"2509","milky way","joy",74,3
+"2510","milky way","neutral",14,3
+"2511","milky way","neutral",16,3
+"2512","milky way","neutral",48,3
+"2513","milky way","neutral",51,3
+"2514","milky way","neutral",57,3
+"2515","milky way","neutral",64,3
+"2516","milky way","neutral",70,3
+"2517","milky way","despair",14,2
+"2518","milky way","despair",61,2
+"2519","milky way","despair",67,2
+"2520","milky way","despair",69,2
+"2521","milky way","joy",7,2
+"2522","milky way","joy",8,2
+"2523","milky way","joy",75,2
+"2524","milky way","neutral",8,2
+"2525","milky way","neutral",60,2
+"2526","milky way","neutral",65,2
+"2527","milky way","neutral",66,2
+"2528","milky way","despair",6,1
+"2529","milky way","despair",9,1
+"2530","milky way","despair",10,1
+"2531","milky way","despair",68,1
+"2532","milky way","despair",71,1
+"2533","milky way","despair",75,1
+"2534","milky way","joy",5,1
+"2535","milky way","joy",77,1
+"2536","milky way","joy",85,1
+"2537","milky way","joy",97,1
+"2538","milky way","joy",99,1
+"2539","milky way","neutral",12,1
+"2540","milky way","neutral",61,1
+"2541","milky way","neutral",62,1
+"2542","milky way","neutral",71,1
+"2543","milky way","neutral",72,1
+"2544","milky way","neutral",99,1
+"2545","nerds","joy",32,182
+"2546","nerds","joy",30,176
+"2547","nerds","joy",31,168
+"2548","nerds","joy",34,162
+"2549","nerds","joy",35,160
+"2550","nerds","joy",33,159
+"2551","nerds","joy",29,134
+"2552","nerds","joy",27,129
+"2553","nerds","joy",36,125
+"2554","nerds","joy",28,124
+"2555","nerds","joy",38,119
+"2556","nerds","joy",37,118
+"2557","nerds","joy",26,115
+"2558","nerds","joy",40,113
+"2559","nerds","joy",45,113
+"2560","nerds","joy",39,96
+"2561","nerds","joy",24,82
+"2562","nerds","joy",42,82
+"2563","nerds","joy",25,81
+"2564","nerds","joy",44,80
+"2565","nerds","joy",41,79
+"2566","nerds","joy",43,72
+"2567","nerds","despair",45,64
+"2568","nerds","despair",35,62
+"2569","nerds","joy",46,61
+"2570","nerds","despair",46,56
+"2571","nerds","despair",50,54
+"2572","nerds","joy",22,54
+"2573","nerds","despair",33,48
+"2574","nerds","joy",23,48
+"2575","nerds","despair",44,45
+"2576","nerds","despair",43,44
+"2577","nerds","joy",47,44
+"2578","nerds","joy",21,42
+"2579","nerds","despair",52,41
+"2580","nerds","despair",27,40
+"2581","nerds","despair",40,39
+"2582","nerds","despair",31,38
+"2583","nerds","despair",51,38
+"2584","nerds","joy",50,38
+"2585","nerds","despair",30,37
+"2586","nerds","despair",48,37
+"2587","nerds","despair",32,36
+"2588","nerds","despair",42,36
+"2589","nerds","despair",29,35
+"2590","nerds","despair",34,35
+"2591","nerds","joy",48,35
+"2592","nerds","despair",47,34
+"2593","nerds","despair",26,33
+"2594","nerds","despair",28,33
+"2595","nerds","despair",37,33
+"2596","nerds","despair",58,33
+"2597","nerds","joy",18,33
+"2598","nerds","joy",19,33
+"2599","nerds","despair",41,32
+"2600","nerds","despair",53,32
+"2601","nerds","despair",38,31
+"2602","nerds","despair",49,31
+"2603","nerds","despair",55,31
+"2604","nerds","joy",20,30
+"2605","nerds","despair",25,29
+"2606","nerds","despair",36,29
+"2607","nerds","joy",49,29
+"2608","nerds","joy",52,28
+"2609","nerds","despair",23,27
+"2610","nerds","despair",39,27
+"2611","nerds","despair",57,27
+"2612","nerds","joy",54,26
+"2613","nerds","neutral",30,26
+"2614","nerds","despair",24,24
+"2615","nerds","joy",51,24
+"2616","nerds","despair",54,22
+"2617","nerds","despair",56,22
+"2618","nerds","despair",59,21
+"2619","nerds","joy",53,20
+"2620","nerds","joy",17,19
+"2621","nerds","neutral",35,19
+"2622","nerds","despair",22,18
+"2623","nerds","despair",60,17
+"2624","nerds","joy",13,17
+"2625","nerds","neutral",34,17
+"2626","nerds","despair",21,15
+"2627","nerds","despair",62,14
+"2628","nerds","joy",16,14
+"2629","nerds","neutral",42,14
+"2630","nerds","despair",61,13
+"2631","nerds","despair",67,13
+"2632","nerds","joy",55,13
+"2633","nerds","neutral",36,13
+"2634","nerds","neutral",45,13
+"2635","nerds","neutral",29,12
+"2636","nerds","neutral",31,12
+"2637","nerds","despair",64,11
+"2638","nerds","joy",57,11
+"2639","nerds","neutral",24,11
+"2640","nerds","despair",65,10
+"2641","nerds","despair",66,10
+"2642","nerds","joy",58,10
+"2643","nerds","neutral",27,10
+"2644","nerds","neutral",33,10
+"2645","nerds","neutral",47,10
+"2646","nerds","despair",20,9
+"2647","nerds","joy",9,9
+"2648","nerds","joy",12,9
+"2649","nerds","joy",56,9
+"2650","nerds","neutral",28,9
+"2651","nerds","neutral",37,9
+"2652","nerds","neutral",40,9
+"2653","nerds","neutral",43,9
+"2654","nerds","neutral",44,9
+"2655","nerds","neutral",46,9
+"2656","nerds","despair",63,8
+"2657","nerds","despair",69,8
+"2658","nerds","joy",11,8
+"2659","nerds","joy",14,8
+"2660","nerds","joy",62,8
+"2661","nerds","neutral",20,8
+"2662","nerds","neutral",25,8
+"2663","nerds","neutral",38,8
+"2664","nerds","neutral",49,8
+"2665","nerds","neutral",58,8
+"2666","nerds","despair",17,7
+"2667","nerds","despair",19,7
+"2668","nerds","joy",15,7
+"2669","nerds","neutral",26,7
+"2670","nerds","neutral",55,7
+"2671","nerds","joy",60,6
+"2672","nerds","neutral",32,6
+"2673","nerds","neutral",39,6
+"2674","nerds","neutral",54,6
+"2675","nerds","neutral",56,6
+"2676","nerds","neutral",57,6
+"2677","nerds","despair",14,5
+"2678","nerds","despair",68,5
+"2679","nerds","despair",70,5
+"2680","nerds","joy",10,5
+"2681","nerds","neutral",13,5
+"2682","nerds","neutral",21,5
+"2683","nerds","neutral",41,5
+"2684","nerds","neutral",50,5
+"2685","nerds","neutral",52,5
+"2686","nerds","neutral",67,5
+"2687","nerds","despair",16,4
+"2688","nerds","despair",72,4
+"2689","nerds","joy",6,4
+"2690","nerds","joy",8,4
+"2691","nerds","joy",63,4
+"2692","nerds","neutral",51,4
+"2693","nerds","neutral",59,4
+"2694","nerds","neutral",64,4
+"2695","nerds","neutral",70,4
+"2696","nerds","despair",13,3
+"2697","nerds","despair",15,3
+"2698","nerds","despair",18,3
+"2699","nerds","despair",74,3
+"2700","nerds","joy",61,3
+"2701","nerds","joy",65,3
+"2702","nerds","neutral",16,3
+"2703","nerds","neutral",18,3
+"2704","nerds","neutral",53,3
+"2705","nerds","neutral",60,3
+"2706","nerds","neutral",65,3
+"2707","nerds","neutral",71,3
+"2708","nerds","despair",12,2
+"2709","nerds","despair",71,2
+"2710","nerds","despair",75,2
+"2711","nerds","joy",59,2
+"2712","nerds","joy",64,2
+"2713","nerds","neutral",14,2
+"2714","nerds","neutral",19,2
+"2715","nerds","neutral",22,2
+"2716","nerds","neutral",23,2
+"2717","nerds","neutral",48,2
+"2718","nerds","neutral",61,2
+"2719","nerds","neutral",62,2
+"2720","nerds","neutral",66,2
+"2721","nerds","despair",7,1
+"2722","nerds","despair",77,1
+"2723","nerds","despair",85,1
+"2724","nerds","joy",5,1
+"2725","nerds","joy",7,1
+"2726","nerds","joy",66,1
+"2727","nerds","joy",67,1
+"2728","nerds","joy",69,1
+"2729","nerds","joy",70,1
+"2730","nerds","joy",97,1
+"2731","nerds","joy",99,1
+"2732","nerds","neutral",12,1
+"2733","nerds","neutral",17,1
+"2734","nerds","neutral",63,1
+"2735","nerds","neutral",72,1
+"2736","nerds","neutral",75,1
+"2737","nerds","neutral",99,1
+"2738","nestle crunch","joy",30,169
+"2739","nestle crunch","joy",32,169
+"2740","nestle crunch","joy",35,169
+"2741","nestle crunch","joy",33,167
+"2742","nestle crunch","joy",34,167
+"2743","nestle crunch","joy",31,150
+"2744","nestle crunch","joy",29,137
+"2745","nestle crunch","joy",45,136
+"2746","nestle crunch","joy",27,135
+"2747","nestle crunch","joy",36,128
+"2748","nestle crunch","joy",38,125
+"2749","nestle crunch","joy",26,123
+"2750","nestle crunch","joy",40,123
+"2751","nestle crunch","joy",28,121
+"2752","nestle crunch","joy",37,117
+"2753","nestle crunch","joy",46,101
+"2754","nestle crunch","joy",43,99
+"2755","nestle crunch","joy",42,98
+"2756","nestle crunch","joy",44,97
+"2757","nestle crunch","joy",39,96
+"2758","nestle crunch","joy",41,92
+"2759","nestle crunch","joy",25,85
+"2760","nestle crunch","joy",24,80
+"2761","nestle crunch","joy",50,75
+"2762","nestle crunch","joy",47,67
+"2763","nestle crunch","despair",31,59
+"2764","nestle crunch","joy",22,59
+"2765","nestle crunch","joy",23,59
+"2766","nestle crunch","joy",52,58
+"2767","nestle crunch","joy",48,56
+"2768","nestle crunch","joy",49,53
+"2769","nestle crunch","despair",35,49
+"2770","nestle crunch","despair",30,48
+"2771","nestle crunch","joy",21,47
+"2772","nestle crunch","joy",51,45
+"2773","nestle crunch","joy",54,45
+"2774","nestle crunch","despair",32,44
+"2775","nestle crunch","despair",45,44
+"2776","nestle crunch","joy",53,44
+"2777","nestle crunch","joy",58,38
+"2778","nestle crunch","despair",27,35
+"2779","nestle crunch","despair",33,35
+"2780","nestle crunch","joy",55,34
+"2781","nestle crunch","joy",19,33
+"2782","nestle crunch","despair",37,32
+"2783","nestle crunch","joy",57,31
+"2784","nestle crunch","despair",28,30
+"2785","nestle crunch","despair",29,30
+"2786","nestle crunch","joy",18,30
+"2787","nestle crunch","joy",20,29
+"2788","nestle crunch","despair",34,27
+"2789","nestle crunch","despair",40,27
+"2790","nestle crunch","despair",36,25
+"2791","nestle crunch","despair",38,24
+"2792","nestle crunch","joy",56,24
+"2793","nestle crunch","despair",24,23
+"2794","nestle crunch","despair",26,23
+"2795","nestle crunch","despair",42,23
+"2796","nestle crunch","neutral",35,23
+"2797","nestle crunch","neutral",30,22
+"2798","nestle crunch","despair",25,21
+"2799","nestle crunch","despair",39,20
+"2800","nestle crunch","despair",44,20
+"2801","nestle crunch","joy",17,20
+"2802","nestle crunch","neutral",34,20
+"2803","nestle crunch","joy",59,19
+"2804","nestle crunch","joy",60,19
+"2805","nestle crunch","joy",62,19
+"2806","nestle crunch","despair",41,18
+"2807","nestle crunch","despair",46,18
+"2808","nestle crunch","despair",50,18
+"2809","nestle crunch","despair",23,17
+"2810","nestle crunch","despair",43,17
+"2811","nestle crunch","despair",48,17
+"2812","nestle crunch","despair",51,17
+"2813","nestle crunch","neutral",44,17
+"2814","nestle crunch","joy",65,15
+"2815","nestle crunch","neutral",28,15
+"2816","nestle crunch","neutral",33,15
+"2817","nestle crunch","joy",13,14
+"2818","nestle crunch","joy",67,14
+"2819","nestle crunch","neutral",24,14
+"2820","nestle crunch","neutral",29,14
+"2821","nestle crunch","neutral",36,14
+"2822","nestle crunch","despair",22,13
+"2823","nestle crunch","despair",47,13
+"2824","nestle crunch","despair",52,13
+"2825","nestle crunch","joy",61,13
+"2826","nestle crunch","neutral",39,13
+"2827","nestle crunch","despair",55,12
+"2828","nestle crunch","joy",64,12
+"2829","nestle crunch","neutral",25,12
+"2830","nestle crunch","joy",16,11
+"2831","nestle crunch","neutral",32,11
+"2832","nestle crunch","neutral",37,11
+"2833","nestle crunch","neutral",40,11
+"2834","nestle crunch","neutral",42,11
+"2835","nestle crunch","joy",63,10
+"2836","nestle crunch","neutral",20,10
+"2837","nestle crunch","neutral",45,10
+"2838","nestle crunch","despair",57,9
+"2839","nestle crunch","despair",58,9
+"2840","nestle crunch","joy",12,9
+"2841","nestle crunch","joy",14,9
+"2842","nestle crunch","joy",15,9
+"2843","nestle crunch","joy",66,9
+"2844","nestle crunch","neutral",26,9
+"2845","nestle crunch","neutral",27,9
+"2846","nestle crunch","neutral",31,9
+"2847","nestle crunch","neutral",38,9
+"2848","nestle crunch","neutral",43,9
+"2849","nestle crunch","despair",20,8
+"2850","nestle crunch","despair",49,8
+"2851","nestle crunch","despair",53,8
+"2852","nestle crunch","neutral",21,8
+"2853","nestle crunch","neutral",47,8
+"2854","nestle crunch","despair",21,7
+"2855","nestle crunch","despair",56,7
+"2856","nestle crunch","neutral",13,7
+"2857","nestle crunch","neutral",46,7
+"2858","nestle crunch","neutral",49,7
+"2859","nestle crunch","despair",16,6
+"2860","nestle crunch","joy",70,6
+"2861","nestle crunch","neutral",41,6
+"2862","nestle crunch","neutral",56,6
+"2863","nestle crunch","despair",17,5
+"2864","nestle crunch","despair",19,5
+"2865","nestle crunch","despair",54,5
+"2866","nestle crunch","despair",59,5
+"2867","nestle crunch","despair",62,5
+"2868","nestle crunch","despair",69,5
+"2869","nestle crunch","joy",9,5
+"2870","nestle crunch","joy",11,5
+"2871","nestle crunch","joy",68,5
+"2872","nestle crunch","neutral",18,5
+"2873","nestle crunch","neutral",55,5
+"2874","nestle crunch","despair",13,4
+"2875","nestle crunch","despair",14,4
+"2876","nestle crunch","despair",18,4
+"2877","nestle crunch","despair",60,4
+"2878","nestle crunch","despair",61,4
+"2879","nestle crunch","joy",6,4
+"2880","nestle crunch","joy",10,4
+"2881","nestle crunch","neutral",16,4
+"2882","nestle crunch","neutral",19,4
+"2883","nestle crunch","neutral",50,4
+"2884","nestle crunch","neutral",51,4
+"2885","nestle crunch","neutral",54,4
+"2886","nestle crunch","neutral",57,4
+"2887","nestle crunch","neutral",58,4
+"2888","nestle crunch","neutral",67,4
+"2889","nestle crunch","despair",9,3
+"2890","nestle crunch","despair",63,3
+"2891","nestle crunch","despair",66,3
+"2892","nestle crunch","despair",70,3
+"2893","nestle crunch","joy",8,3
+"2894","nestle crunch","joy",69,3
+"2895","nestle crunch","joy",71,3
+"2896","nestle crunch","joy",72,3
+"2897","nestle crunch","joy",74,3
+"2898","nestle crunch","joy",75,3
+"2899","nestle crunch","neutral",52,3
+"2900","nestle crunch","neutral",53,3
+"2901","nestle crunch","neutral",59,3
+"2902","nestle crunch","neutral",60,3
+"2903","nestle crunch","neutral",64,3
+"2904","nestle crunch","despair",12,2
+"2905","nestle crunch","despair",64,2
+"2906","nestle crunch","joy",7,2
+"2907","nestle crunch","neutral",11,2
+"2908","nestle crunch","neutral",14,2
+"2909","nestle crunch","neutral",17,2
+"2910","nestle crunch","neutral",22,2
+"2911","nestle crunch","neutral",71,2
+"2912","nestle crunch","despair",10,1
+"2913","nestle crunch","despair",11,1
+"2914","nestle crunch","despair",15,1
+"2915","nestle crunch","despair",65,1
+"2916","nestle crunch","despair",67,1
+"2917","nestle crunch","despair",72,1
+"2918","nestle crunch","joy",5,1
+"2919","nestle crunch","joy",77,1
+"2920","nestle crunch","joy",85,1
+"2921","nestle crunch","joy",97,1
+"2922","nestle crunch","joy",99,1
+"2923","nestle crunch","neutral",8,1
+"2924","nestle crunch","neutral",9,1
+"2925","nestle crunch","neutral",12,1
+"2926","nestle crunch","neutral",23,1
+"2927","nestle crunch","neutral",48,1
+"2928","nestle crunch","neutral",61,1
+"2929","nestle crunch","neutral",66,1
+"2930","nestle crunch","neutral",69,1
+"2931","nestle crunch","neutral",70,1
+"2932","nestle crunch","neutral",72,1
+"2933","nestle crunch","neutral",99,1
+"2934","reese’s peanut butter cups","joy",35,215
+"2935","reese’s peanut butter cups","joy",30,207
+"2936","reese’s peanut butter cups","joy",32,198
+"2937","reese’s peanut butter cups","joy",31,196
+"2938","reese’s peanut butter cups","joy",33,196
+"2939","reese’s peanut butter cups","joy",34,194
+"2940","reese’s peanut butter cups","joy",45,172
+"2941","reese’s peanut butter cups","joy",29,168
+"2942","reese’s peanut butter cups","joy",27,151
+"2943","reese’s peanut butter cups","joy",36,146
+"2944","reese’s peanut butter cups","joy",28,145
+"2945","reese’s peanut butter cups","joy",40,144
+"2946","reese’s peanut butter cups","joy",26,143
+"2947","reese’s peanut butter cups","joy",38,143
+"2948","reese’s peanut butter cups","joy",37,142
+"2949","reese’s peanut butter cups","joy",44,118
+"2950","reese’s peanut butter cups","joy",39,117
+"2951","reese’s peanut butter cups","joy",42,112
+"2952","reese’s peanut butter cups","joy",43,112
+"2953","reese’s peanut butter cups","joy",46,106
+"2954","reese’s peanut butter cups","joy",25,102
+"2955","reese’s peanut butter cups","joy",41,101
+"2956","reese’s peanut butter cups","joy",24,97
+"2957","reese’s peanut butter cups","joy",50,77
+"2958","reese’s peanut butter cups","joy",47,76
+"2959","reese’s peanut butter cups","joy",48,68
+"2960","reese’s peanut butter cups","joy",23,67
+"2961","reese’s peanut butter cups","joy",22,60
+"2962","reese’s peanut butter cups","joy",49,59
+"2963","reese’s peanut butter cups","joy",52,59
+"2964","reese’s peanut butter cups","joy",51,52
+"2965","reese’s peanut butter cups","joy",21,50
+"2966","reese’s peanut butter cups","joy",53,46
+"2967","reese’s peanut butter cups","joy",54,46
+"2968","reese’s peanut butter cups","joy",58,45
+"2969","reese’s peanut butter cups","joy",55,44
+"2970","reese’s peanut butter cups","joy",57,38
+"2971","reese’s peanut butter cups","joy",19,34
+"2972","reese’s peanut butter cups","joy",20,33
+"2973","reese’s peanut butter cups","joy",56,31
+"2974","reese’s peanut butter cups","joy",18,30
+"2975","reese’s peanut butter cups","despair",32,23
+"2976","reese’s peanut butter cups","joy",17,23
+"2977","reese’s peanut butter cups","joy",60,23
+"2978","reese’s peanut butter cups","despair",27,22
+"2979","reese’s peanut butter cups","joy",62,22
+"2980","reese’s peanut butter cups","joy",13,19
+"2981","reese’s peanut butter cups","joy",59,19
+"2982","reese’s peanut butter cups","despair",30,18
+"2983","reese’s peanut butter cups","despair",50,18
+"2984","reese’s peanut butter cups","despair",31,17
+"2985","reese’s peanut butter cups","despair",33,15
+"2986","reese’s peanut butter cups","despair",46,15
+"2987","reese’s peanut butter cups","joy",67,15
+"2988","reese’s peanut butter cups","despair",24,14
+"2989","reese’s peanut butter cups","despair",35,14
+"2990","reese’s peanut butter cups","despair",42,14
+"2991","reese’s peanut butter cups","neutral",30,14
+"2992","reese’s peanut butter cups","despair",28,12
+"2993","reese’s peanut butter cups","despair",36,12
+"2994","reese’s peanut butter cups","despair",37,12
+"2995","reese’s peanut butter cups","despair",41,12
+"2996","reese’s peanut butter cups","despair",51,12
+"2997","reese’s peanut butter cups","despair",52,12
+"2998","reese’s peanut butter cups","joy",16,12
+"2999","reese’s peanut butter cups","joy",61,12
+"3000","reese’s peanut butter cups","joy",64,12
+"3001","reese’s peanut butter cups","joy",65,12
+"3002","reese’s peanut butter cups","neutral",35,12
+"3003","reese’s peanut butter cups","despair",25,11
+"3004","reese’s peanut butter cups","despair",38,11
+"3005","reese’s peanut butter cups","despair",45,11
+"3006","reese’s peanut butter cups","joy",63,11
+"3007","reese’s peanut butter cups","despair",22,10
+"3008","reese’s peanut butter cups","despair",34,10
+"3009","reese’s peanut butter cups","despair",40,10
+"3010","reese’s peanut butter cups","neutral",34,10
+"3011","reese’s peanut butter cups","despair",23,9
+"3012","reese’s peanut butter cups","despair",53,9
+"3013","reese’s peanut butter cups","joy",12,9
+"3014","reese’s peanut butter cups","joy",14,9
+"3015","reese’s peanut butter cups","joy",15,9
+"3016","reese’s peanut butter cups","neutral",28,9
+"3017","reese’s peanut butter cups","neutral",36,9
+"3018","reese’s peanut butter cups","neutral",44,9
+"3019","reese’s peanut butter cups","despair",26,8
+"3020","reese’s peanut butter cups","despair",47,8
+"3021","reese’s peanut butter cups","joy",11,8
+"3022","reese’s peanut butter cups","joy",69,8
+"3023","reese’s peanut butter cups","joy",70,8
+"3024","reese’s peanut butter cups","despair",19,7
+"3025","reese’s peanut butter cups","despair",20,7
+"3026","reese’s peanut butter cups","despair",21,7
+"3027","reese’s peanut butter cups","despair",44,7
+"3028","reese’s peanut butter cups","joy",9,7
+"3029","reese’s peanut butter cups","joy",66,7
+"3030","reese’s peanut butter cups","neutral",20,7
+"3031","reese’s peanut butter cups","neutral",29,7
+"3032","reese’s peanut butter cups","neutral",39,7
+"3033","reese’s peanut butter cups","neutral",40,7
+"3034","reese’s peanut butter cups","neutral",43,7
+"3035","reese’s peanut butter cups","neutral",45,7
+"3036","reese’s peanut butter cups","despair",16,6
+"3037","reese’s peanut butter cups","despair",29,6
+"3038","reese’s peanut butter cups","despair",43,6
+"3039","reese’s peanut butter cups","neutral",24,6
+"3040","reese’s peanut butter cups","neutral",27,6
+"3041","reese’s peanut butter cups","neutral",33,6
+"3042","reese’s peanut butter cups","neutral",37,6
+"3043","reese’s peanut butter cups","neutral",42,6
+"3044","reese’s peanut butter cups","despair",14,5
+"3045","reese’s peanut butter cups","despair",18,5
+"3046","reese’s peanut butter cups","despair",39,5
+"3047","reese’s peanut butter cups","despair",48,5
+"3048","reese’s peanut butter cups","despair",49,5
+"3049","reese’s peanut butter cups","despair",54,5
+"3050","reese’s peanut butter cups","despair",59,5
+"3051","reese’s peanut butter cups","despair",61,5
+"3052","reese’s peanut butter cups","despair",66,5
+"3053","reese’s peanut butter cups","joy",10,5
+"3054","reese’s peanut butter cups","neutral",13,5
+"3055","reese’s peanut butter cups","neutral",21,5
+"3056","reese’s peanut butter cups","neutral",25,5
+"3057","reese’s peanut butter cups","neutral",31,5
+"3058","reese’s peanut butter cups","neutral",46,5
+"3059","reese’s peanut butter cups","despair",17,4
+"3060","reese’s peanut butter cups","despair",56,4
+"3061","reese’s peanut butter cups","despair",57,4
+"3062","reese’s peanut butter cups","despair",64,4
+"3063","reese’s peanut butter cups","despair",65,4
+"3064","reese’s peanut butter cups","joy",6,4
+"3065","reese’s peanut butter cups","joy",68,4
+"3066","reese’s peanut butter cups","neutral",18,4
+"3067","reese’s peanut butter cups","neutral",22,4
+"3068","reese’s peanut butter cups","neutral",26,4
+"3069","reese’s peanut butter cups","neutral",38,4
+"3070","reese’s peanut butter cups","neutral",47,4
+"3071","reese’s peanut butter cups","neutral",49,4
+"3072","reese’s peanut butter cups","neutral",55,4
+"3073","reese’s peanut butter cups","despair",55,3
+"3074","reese’s peanut butter cups","despair",58,3
+"3075","reese’s peanut butter cups","despair",67,3
+"3076","reese’s peanut butter cups","joy",8,3
+"3077","reese’s peanut butter cups","joy",71,3
+"3078","reese’s peanut butter cups","joy",72,3
+"3079","reese’s peanut butter cups","joy",74,3
+"3080","reese’s peanut butter cups","neutral",16,3
+"3081","reese’s peanut butter cups","neutral",32,3
+"3082","reese’s peanut butter cups","neutral",41,3
+"3083","reese’s peanut butter cups","neutral",52,3
+"3084","reese’s peanut butter cups","neutral",54,3
+"3085","reese’s peanut butter cups","neutral",58,3
+"3086","reese’s peanut butter cups","neutral",59,3
+"3087","reese’s peanut butter cups","despair",9,2
+"3088","reese’s peanut butter cups","despair",12,2
+"3089","reese’s peanut butter cups","despair",60,2
+"3090","reese’s peanut butter cups","despair",62,2
+"3091","reese’s peanut butter cups","despair",63,2
+"3092","reese’s peanut butter cups","neutral",50,2
+"3093","reese’s peanut butter cups","neutral",51,2
+"3094","reese’s peanut butter cups","neutral",56,2
+"3095","reese’s peanut butter cups","neutral",57,2
+"3096","reese’s peanut butter cups","despair",7,1
+"3097","reese’s peanut butter cups","despair",8,1
+"3098","reese’s peanut butter cups","despair",13,1
+"3099","reese’s peanut butter cups","despair",15,1
+"3100","reese’s peanut butter cups","despair",68,1
+"3101","reese’s peanut butter cups","despair",69,1
+"3102","reese’s peanut butter cups","despair",70,1
+"3103","reese’s peanut butter cups","despair",71,1
+"3104","reese’s peanut butter cups","despair",72,1
+"3105","reese’s peanut butter cups","despair",75,1
+"3106","reese’s peanut butter cups","joy",5,1
+"3107","reese’s peanut butter cups","joy",7,1
+"3108","reese’s peanut butter cups","joy",75,1
+"3109","reese’s peanut butter cups","joy",77,1
+"3110","reese’s peanut butter cups","joy",85,1
+"3111","reese’s peanut butter cups","joy",97,1
+"3112","reese’s peanut butter cups","joy",99,1
+"3113","reese’s peanut butter cups","neutral",12,1
+"3114","reese’s peanut butter cups","neutral",14,1
+"3115","reese’s peanut butter cups","neutral",19,1
+"3116","reese’s peanut butter cups","neutral",23,1
+"3117","reese’s peanut butter cups","neutral",48,1
+"3118","reese’s peanut butter cups","neutral",60,1
+"3119","reese’s peanut butter cups","neutral",61,1
+"3120","reese’s peanut butter cups","neutral",64,1
+"3121","reese’s peanut butter cups","neutral",66,1
+"3122","reese’s peanut butter cups","neutral",67,1
+"3123","reese’s peanut butter cups","neutral",70,1
+"3124","reese’s peanut butter cups","neutral",71,1
+"3125","reese’s peanut butter cups","neutral",72,1
+"3126","reese’s peanut butter cups","neutral",75,1
+"3127","reese’s peanut butter cups","neutral",99,1
+"3128","skittles","joy",32,180
+"3129","skittles","joy",30,174
+"3130","skittles","joy",33,164
+"3131","skittles","joy",31,162
+"3132","skittles","joy",34,161
+"3133","skittles","joy",35,154
+"3134","skittles","joy",27,146
+"3135","skittles","joy",29,132
+"3136","skittles","joy",45,127
+"3137","skittles","joy",28,123
+"3138","skittles","joy",26,118
+"3139","skittles","joy",36,115
+"3140","skittles","joy",37,110
+"3141","skittles","joy",38,107
+"3142","skittles","joy",40,103
+"3143","skittles","joy",42,87
+"3144","skittles","joy",25,86
+"3145","skittles","joy",43,82
+"3146","skittles","joy",24,81
+"3147","skittles","joy",39,81
+"3148","skittles","joy",44,78
+"3149","skittles","joy",41,77
+"3150","skittles","joy",46,74
+"3151","skittles","despair",35,64
+"3152","skittles","joy",23,60
+"3153","skittles","joy",22,57
+"3154","skittles","joy",47,56
+"3155","skittles","joy",50,51
+"3156","skittles","despair",45,50
+"3157","skittles","despair",31,46
+"3158","skittles","despair",38,46
+"3159","skittles","despair",30,45
+"3160","skittles","despair",46,44
+"3161","skittles","joy",52,43
+"3162","skittles","despair",44,42
+"3163","skittles","despair",50,42
+"3164","skittles","joy",21,42
+"3165","skittles","despair",40,41
+"3166","skittles","despair",33,40
+"3167","skittles","despair",37,40
+"3168","skittles","joy",48,38
+"3169","skittles","joy",51,38
+"3170","skittles","despair",39,37
+"3171","skittles","despair",36,36
+"3172","skittles","joy",49,36
+"3173","skittles","despair",32,35
+"3174","skittles","despair",34,35
+"3175","skittles","despair",41,34
+"3176","skittles","joy",19,34
+"3177","skittles","despair",26,33
+"3178","skittles","despair",29,33
+"3179","skittles","despair",43,33
+"3180","skittles","despair",48,33
+"3181","skittles","joy",18,32
+"3182","skittles","joy",54,32
+"3183","skittles","despair",42,31
+"3184","skittles","despair",28,30
+"3185","skittles","joy",53,30
+"3186","skittles","joy",20,29
+"3187","skittles","despair",27,26
+"3188","skittles","despair",52,26
+"3189","skittles","despair",58,24
+"3190","skittles","despair",47,23
+"3191","skittles","despair",49,23
+"3192","skittles","despair",51,23
+"3193","skittles","despair",53,23
+"3194","skittles","despair",55,23
+"3195","skittles","neutral",35,23
+"3196","skittles","despair",24,22
+"3197","skittles","despair",25,22
+"3198","skittles","joy",17,22
+"3199","skittles","joy",55,22
+"3200","skittles","joy",58,21
+"3201","skittles","joy",57,20
+"3202","skittles","neutral",30,20
+"3203","skittles","despair",57,18
+"3204","skittles","neutral",34,18
+"3205","skittles","despair",23,17
+"3206","skittles","despair",54,17
+"3207","skittles","joy",13,17
+"3208","skittles","neutral",40,17
+"3209","skittles","joy",56,16
+"3210","skittles","neutral",29,16
+"3211","skittles","neutral",36,16
+"3212","skittles","despair",56,15
+"3213","skittles","despair",22,14
+"3214","skittles","despair",62,14
+"3215","skittles","neutral",24,14
+"3216","skittles","neutral",42,14
+"3217","skittles","neutral",44,14
+"3218","skittles","despair",59,13
+"3219","skittles","despair",60,13
+"3220","skittles","despair",65,13
+"3221","skittles","joy",16,13
+"3222","skittles","neutral",28,13
+"3223","skittles","neutral",33,13
+"3224","skittles","neutral",45,13
+"3225","skittles","despair",21,12
+"3226","skittles","despair",20,11
+"3227","skittles","joy",14,11
+"3228","skittles","joy",60,11
+"3229","skittles","neutral",39,11
+"3230","skittles","despair",61,10
+"3231","skittles","despair",66,10
+"3232","skittles","joy",12,10
+"3233","skittles","joy",59,10
+"3234","skittles","joy",62,10
+"3235","skittles","neutral",25,10
+"3236","skittles","neutral",31,10
+"3237","skittles","neutral",37,10
+"3238","skittles","neutral",43,10
+"3239","skittles","despair",67,9
+"3240","skittles","joy",15,9
+"3241","skittles","neutral",32,9
+"3242","skittles","neutral",47,9
+"3243","skittles","neutral",49,9
+"3244","skittles","joy",11,8
+"3245","skittles","neutral",21,8
+"3246","skittles","neutral",46,8
+"3247","skittles","despair",63,7
+"3248","skittles","despair",69,7
+"3249","skittles","joy",9,7
+"3250","skittles","joy",61,7
+"3251","skittles","neutral",20,7
+"3252","skittles","neutral",27,7
+"3253","skittles","despair",64,6
+"3254","skittles","neutral",55,6
+"3255","skittles","neutral",56,6
+"3256","skittles","neutral",57,6
+"3257","skittles","neutral",58,6
+"3258","skittles","neutral",64,6
+"3259","skittles","despair",16,5
+"3260","skittles","despair",18,5
+"3261","skittles","despair",19,5
+"3262","skittles","joy",10,5
+"3263","skittles","joy",63,5
+"3264","skittles","joy",64,5
+"3265","skittles","joy",67,5
+"3266","skittles","neutral",13,5
+"3267","skittles","neutral",38,5
+"3268","skittles","neutral",41,5
+"3269","skittles","neutral",51,5
+"3270","skittles","neutral",52,5
+"3271","skittles","neutral",54,5
+"3272","skittles","neutral",67,5
+"3273","skittles","despair",70,4
+"3274","skittles","despair",72,4
+"3275","skittles","joy",6,4
+"3276","skittles","joy",8,4
+"3277","skittles","neutral",26,4
+"3278","skittles","neutral",50,4
+"3279","skittles","neutral",59,4
+"3280","skittles","despair",13,3
+"3281","skittles","despair",17,3
+"3282","skittles","despair",68,3
+"3283","skittles","despair",74,3
+"3284","skittles","joy",65,3
+"3285","skittles","joy",70,3
+"3286","skittles","neutral",14,3
+"3287","skittles","neutral",16,3
+"3288","skittles","neutral",19,3
+"3289","skittles","neutral",22,3
+"3290","skittles","neutral",48,3
+"3291","skittles","neutral",70,3
+"3292","skittles","despair",71,2
+"3293","skittles","despair",75,2
+"3294","skittles","joy",68,2
+"3295","skittles","neutral",9,2
+"3296","skittles","neutral",12,2
+"3297","skittles","neutral",17,2
+"3298","skittles","neutral",18,2
+"3299","skittles","neutral",53,2
+"3300","skittles","neutral",60,2
+"3301","skittles","neutral",66,2
+"3302","skittles","neutral",71,2
+"3303","skittles","despair",7,1
+"3304","skittles","despair",14,1
+"3305","skittles","joy",5,1
+"3306","skittles","joy",7,1
+"3307","skittles","joy",66,1
+"3308","skittles","joy",69,1
+"3309","skittles","joy",71,1
+"3310","skittles","joy",77,1
+"3311","skittles","joy",85,1
+"3312","skittles","joy",97,1
+"3313","skittles","joy",99,1
+"3314","skittles","neutral",15,1
+"3315","skittles","neutral",61,1
+"3316","skittles","neutral",63,1
+"3317","skittles","neutral",69,1
+"3318","skittles","neutral",72,1
+"3319","skittles","neutral",75,1
+"3320","skittles","neutral",99,1
+"3321","snickers","joy",35,204
+"3322","snickers","joy",30,191
+"3323","snickers","joy",32,189
+"3324","snickers","joy",33,186
+"3325","snickers","joy",31,185
+"3326","snickers","joy",34,182
+"3327","snickers","joy",45,165
+"3328","snickers","joy",29,154
+"3329","snickers","joy",27,152
+"3330","snickers","joy",38,145
+"3331","snickers","joy",37,144
+"3332","snickers","joy",36,141
+"3333","snickers","joy",28,140
+"3334","snickers","joy",26,134
+"3335","snickers","joy",40,130
+"3336","snickers","joy",39,110
+"3337","snickers","joy",42,108
+"3338","snickers","joy",44,108
+"3339","snickers","joy",43,107
+"3340","snickers","joy",41,104
+"3341","snickers","joy",46,103
+"3342","snickers","joy",25,94
+"3343","snickers","joy",24,92
+"3344","snickers","joy",50,82
+"3345","snickers","joy",47,69
+"3346","snickers","joy",23,65
+"3347","snickers","joy",52,60
+"3348","snickers","joy",49,58
+"3349","snickers","joy",48,57
+"3350","snickers","joy",22,56
+"3351","snickers","joy",51,56
+"3352","snickers","joy",21,49
+"3353","snickers","joy",53,48
+"3354","snickers","joy",58,43
+"3355","snickers","joy",55,42
+"3356","snickers","joy",54,40
+"3357","snickers","joy",57,39
+"3358","snickers","despair",30,35
+"3359","snickers","joy",19,33
+"3360","snickers","joy",20,30
+"3361","snickers","joy",56,29
+"3362","snickers","despair",32,27
+"3363","snickers","joy",18,26
+"3364","snickers","despair",31,25
+"3365","snickers","joy",17,24
+"3366","snickers","despair",33,23
+"3367","snickers","despair",35,23
+"3368","snickers","joy",60,22
+"3369","snickers","joy",59,21
+"3370","snickers","despair",45,20
+"3371","snickers","despair",46,20
+"3372","snickers","joy",62,20
+"3373","snickers","despair",26,19
+"3374","snickers","despair",27,19
+"3375","snickers","despair",28,19
+"3376","snickers","despair",34,19
+"3377","snickers","despair",40,18
+"3378","snickers","despair",22,17
+"3379","snickers","despair",24,17
+"3380","snickers","despair",29,17
+"3381","snickers","despair",36,17
+"3382","snickers","despair",44,17
+"3383","snickers","joy",13,17
+"3384","snickers","joy",61,17
+"3385","snickers","despair",25,15
+"3386","snickers","despair",42,15
+"3387","snickers","despair",48,15
+"3388","snickers","joy",67,15
+"3389","snickers","despair",47,14
+"3390","snickers","neutral",35,14
+"3391","snickers","despair",50,13
+"3392","snickers","joy",16,13
+"3393","snickers","joy",65,13
+"3394","snickers","neutral",30,13
+"3395","snickers","neutral",34,13
+"3396","snickers","neutral",40,13
+"3397","snickers","despair",52,12
+"3398","snickers","despair",20,11
+"3399","snickers","despair",23,11
+"3400","snickers","joy",12,11
+"3401","snickers","neutral",39,11
+"3402","snickers","despair",21,10
+"3403","snickers","despair",37,10
+"3404","snickers","despair",43,10
+"3405","snickers","despair",54,10
+"3406","snickers","joy",14,10
+"3407","snickers","joy",63,10
+"3408","snickers","neutral",29,10
+"3409","snickers","despair",38,9
+"3410","snickers","despair",41,9
+"3411","snickers","joy",15,9
+"3412","snickers","joy",66,9
+"3413","snickers","neutral",25,9
+"3414","snickers","neutral",36,9
+"3415","snickers","neutral",42,9
+"3416","snickers","neutral",44,9
+"3417","snickers","despair",18,8
+"3418","snickers","despair",39,8
+"3419","snickers","despair",49,8
+"3420","snickers","despair",51,8
+"3421","snickers","joy",9,8
+"3422","snickers","joy",64,8
+"3423","snickers","joy",70,8
+"3424","snickers","neutral",24,8
+"3425","snickers","neutral",27,8
+"3426","snickers","neutral",31,8
+"3427","snickers","neutral",32,8
+"3428","snickers","neutral",33,8
+"3429","snickers","neutral",43,8
+"3430","snickers","despair",19,7
+"3431","snickers","joy",69,7
+"3432","snickers","neutral",28,7
+"3433","snickers","despair",16,6
+"3434","snickers","joy",11,6
+"3435","snickers","neutral",20,6
+"3436","snickers","neutral",37,6
+"3437","snickers","despair",55,5
+"3438","snickers","despair",56,5
+"3439","snickers","despair",58,5
+"3440","snickers","joy",68,5
+"3441","snickers","neutral",18,5
+"3442","snickers","neutral",45,5
+"3443","snickers","neutral",47,5
+"3444","snickers","neutral",64,5
+"3445","snickers","despair",13,4
+"3446","snickers","despair",53,4
+"3447","snickers","despair",59,4
+"3448","snickers","despair",64,4
+"3449","snickers","joy",6,4
+"3450","snickers","joy",10,4
+"3451","snickers","joy",71,4
+"3452","snickers","neutral",13,4
+"3453","snickers","neutral",38,4
+"3454","snickers","neutral",54,4
+"3455","snickers","neutral",55,4
+"3456","snickers","despair",17,3
+"3457","snickers","despair",57,3
+"3458","snickers","despair",60,3
+"3459","snickers","despair",62,3
+"3460","snickers","despair",63,3
+"3461","snickers","joy",72,3
+"3462","snickers","joy",75,3
+"3463","snickers","neutral",14,3
+"3464","snickers","neutral",21,3
+"3465","snickers","neutral",41,3
+"3466","snickers","neutral",46,3
+"3467","snickers","neutral",53,3
+"3468","snickers","neutral",56,3
+"3469","snickers","neutral",58,3
+"3470","snickers","neutral",67,3
+"3471","snickers","despair",14,2
+"3472","snickers","despair",65,2
+"3473","snickers","despair",66,2
+"3474","snickers","despair",69,2
+"3475","snickers","despair",74,2
+"3476","snickers","joy",8,2
+"3477","snickers","neutral",16,2
+"3478","snickers","neutral",19,2
+"3479","snickers","neutral",26,2
+"3480","snickers","neutral",48,2
+"3481","snickers","neutral",49,2
+"3482","snickers","neutral",50,2
+"3483","snickers","neutral",51,2
+"3484","snickers","neutral",52,2
+"3485","snickers","neutral",57,2
+"3486","snickers","neutral",59,2
+"3487","snickers","neutral",66,2
+"3488","snickers","despair",8,1
+"3489","snickers","despair",9,1
+"3490","snickers","despair",10,1
+"3491","snickers","despair",11,1
+"3492","snickers","despair",12,1
+"3493","snickers","despair",15,1
+"3494","snickers","despair",67,1
+"3495","snickers","despair",70,1
+"3496","snickers","despair",72,1
+"3497","snickers","despair",97,1
+"3498","snickers","joy",5,1
+"3499","snickers","joy",7,1
+"3500","snickers","joy",74,1
+"3501","snickers","joy",77,1
+"3502","snickers","joy",85,1
+"3503","snickers","joy",99,1
+"3504","snickers","neutral",7,1
+"3505","snickers","neutral",8,1
+"3506","snickers","neutral",11,1
+"3507","snickers","neutral",22,1
+"3508","snickers","neutral",23,1
+"3509","snickers","neutral",60,1
+"3510","snickers","neutral",61,1
+"3511","snickers","neutral",62,1
+"3512","snickers","neutral",65,1
+"3513","snickers","neutral",70,1
+"3514","snickers","neutral",71,1
+"3515","snickers","neutral",72,1
+"3516","snickers","neutral",99,1
+"3517","starburst","joy",32,183
+"3518","starburst","joy",30,175
+"3519","starburst","joy",31,164
+"3520","starburst","joy",33,161
+"3521","starburst","joy",35,156
+"3522","starburst","joy",34,150
+"3523","starburst","joy",29,140
+"3524","starburst","joy",27,139
+"3525","starburst","joy",28,127
+"3526","starburst","joy",36,115
+"3527","starburst","joy",26,110
+"3528","starburst","joy",38,110
+"3529","starburst","joy",37,107
+"3530","starburst","joy",45,107
+"3531","starburst","joy",40,101
+"3532","starburst","joy",25,94
+"3533","starburst","joy",24,81
+"3534","starburst","joy",39,77
+"3535","starburst","joy",43,77
+"3536","starburst","joy",44,76
+"3537","starburst","joy",41,74
+"3538","starburst","joy",42,74
+"3539","starburst","despair",45,72
+"3540","starburst","despair",35,64
+"3541","starburst","joy",46,64
+"3542","starburst","joy",23,59
+"3543","starburst","joy",22,55
+"3544","starburst","despair",46,54
+"3545","starburst","joy",50,53
+"3546","starburst","joy",47,49
+"3547","starburst","joy",21,48
+"3548","starburst","despair",31,47
+"3549","starburst","despair",40,44
+"3550","starburst","despair",44,44
+"3551","starburst","despair",33,43
+"3552","starburst","despair",34,43
+"3553","starburst","joy",48,43
+"3554","starburst","despair",38,41
+"3555","starburst","despair",42,41
+"3556","starburst","despair",50,41
+"3557","starburst","despair",37,40
+"3558","starburst","despair",26,39
+"3559","starburst","despair",30,39
+"3560","starburst","joy",52,39
+"3561","starburst","despair",39,38
+"3562","starburst","despair",43,38
+"3563","starburst","joy",51,38
+"3564","starburst","despair",41,36
+"3565","starburst","despair",32,35
+"3566","starburst","joy",49,35
+"3567","starburst","joy",53,35
+"3568","starburst","despair",36,32
+"3569","starburst","joy",18,32
+"3570","starburst","joy",19,32
+"3571","starburst","joy",20,31
+"3572","starburst","despair",27,30
+"3573","starburst","despair",48,30
+"3574","starburst","joy",54,30
+"3575","starburst","despair",28,29
+"3576","starburst","despair",52,29
+"3577","starburst","despair",47,28
+"3578","starburst","despair",58,28
+"3579","starburst","despair",29,27
+"3580","starburst","joy",55,27
+"3581","starburst","despair",51,25
+"3582","starburst","neutral",30,25
+"3583","starburst","despair",49,24
+"3584","starburst","joy",57,22
+"3585","starburst","despair",24,21
+"3586","starburst","joy",17,21
+"3587","starburst","neutral",34,21
+"3588","starburst","neutral",35,21
+"3589","starburst","neutral",36,20
+"3590","starburst","despair",53,18
+"3591","starburst","despair",54,18
+"3592","starburst","despair",55,18
+"3593","starburst","joy",58,18
+"3594","starburst","despair",56,17
+"3595","starburst","joy",13,17
+"3596","starburst","neutral",42,17
+"3597","starburst","despair",57,16
+"3598","starburst","neutral",40,16
+"3599","starburst","despair",22,15
+"3600","starburst","joy",56,15
+"3601","starburst","neutral",24,15
+"3602","starburst","despair",25,14
+"3603","starburst","despair",59,14
+"3604","starburst","joy",16,14
+"3605","starburst","neutral",29,14
+"3606","starburst","neutral",39,14
+"3607","starburst","neutral",44,14
+"3608","starburst","despair",60,13
+"3609","starburst","neutral",33,13
+"3610","starburst","neutral",37,13
+"3611","starburst","despair",62,12
+"3612","starburst","despair",23,11
+"3613","starburst","despair",61,11
+"3614","starburst","despair",65,11
+"3615","starburst","joy",12,11
+"3616","starburst","joy",60,11
+"3617","starburst","neutral",45,11
+"3618","starburst","neutral",47,11
+"3619","starburst","joy",62,10
+"3620","starburst","neutral",25,10
+"3621","starburst","neutral",27,10
+"3622","starburst","neutral",28,10
+"3623","starburst","neutral",43,10
+"3624","starburst","despair",66,9
+"3625","starburst","joy",9,9
+"3626","starburst","neutral",20,9
+"3627","starburst","neutral",49,9
+"3628","starburst","despair",21,8
+"3629","starburst","joy",11,8
+"3630","starburst","joy",59,8
+"3631","starburst","joy",64,8
+"3632","starburst","neutral",46,8
+"3633","starburst","despair",20,7
+"3634","starburst","despair",67,7
+"3635","starburst","joy",15,7
+"3636","starburst","joy",67,7
+"3637","starburst","neutral",23,7
+"3638","starburst","neutral",31,7
+"3639","starburst","neutral",38,7
+"3640","starburst","despair",14,6
+"3641","starburst","despair",63,6
+"3642","starburst","despair",70,6
+"3643","starburst","joy",14,6
+"3644","starburst","joy",61,6
+"3645","starburst","joy",63,6
+"3646","starburst","neutral",21,6
+"3647","starburst","neutral",26,6
+"3648","starburst","neutral",32,6
+"3649","starburst","neutral",41,6
+"3650","starburst","neutral",52,6
+"3651","starburst","neutral",54,6
+"3652","starburst","neutral",55,6
+"3653","starburst","neutral",57,6
+"3654","starburst","despair",19,5
+"3655","starburst","despair",69,5
+"3656","starburst","joy",10,5
+"3657","starburst","joy",65,5
+"3658","starburst","neutral",13,5
+"3659","starburst","neutral",19,5
+"3660","starburst","neutral",56,5
+"3661","starburst","neutral",58,5
+"3662","starburst","neutral",59,5
+"3663","starburst","neutral",64,5
+"3664","starburst","neutral",67,5
+"3665","starburst","despair",16,4
+"3666","starburst","despair",18,4
+"3667","starburst","despair",64,4
+"3668","starburst","despair",71,4
+"3669","starburst","despair",72,4
+"3670","starburst","joy",8,4
+"3671","starburst","neutral",22,4
+"3672","starburst","despair",13,3
+"3673","starburst","despair",17,3
+"3674","starburst","despair",74,3
+"3675","starburst","joy",69,3
+"3676","starburst","neutral",14,3
+"3677","starburst","neutral",16,3
+"3678","starburst","neutral",17,3
+"3679","starburst","neutral",18,3
+"3680","starburst","neutral",50,3
+"3681","starburst","neutral",51,3
+"3682","starburst","neutral",66,3
+"3683","starburst","neutral",70,3
+"3684","starburst","despair",15,2
+"3685","starburst","despair",68,2
+"3686","starburst","despair",75,2
+"3687","starburst","joy",6,2
+"3688","starburst","joy",68,2
+"3689","starburst","neutral",6,2
+"3690","starburst","neutral",53,2
+"3691","starburst","neutral",60,2
+"3692","starburst","neutral",62,2
+"3693","starburst","despair",7,1
+"3694","starburst","joy",5,1
+"3695","starburst","joy",7,1
+"3696","starburst","joy",66,1
+"3697","starburst","joy",70,1
+"3698","starburst","joy",77,1
+"3699","starburst","joy",85,1
+"3700","starburst","joy",97,1
+"3701","starburst","joy",99,1
+"3702","starburst","neutral",12,1
+"3703","starburst","neutral",15,1
+"3704","starburst","neutral",48,1
+"3705","starburst","neutral",61,1
+"3706","starburst","neutral",63,1
+"3707","starburst","neutral",68,1
+"3708","starburst","neutral",69,1
+"3709","starburst","neutral",71,1
+"3710","starburst","neutral",72,1
+"3711","starburst","neutral",75,1
+"3712","starburst","neutral",99,1
+"3713","twix","joy",35,203
+"3714","twix","joy",31,194
+"3715","twix","joy",30,193
+"3716","twix","joy",32,186
+"3717","twix","joy",33,186
+"3718","twix","joy",34,179
+"3719","twix","joy",29,163
+"3720","twix","joy",45,158
+"3721","twix","joy",27,154
+"3722","twix","joy",36,149
+"3723","twix","joy",38,149
+"3724","twix","joy",37,143
+"3725","twix","joy",26,140
+"3726","twix","joy",28,139
+"3727","twix","joy",40,131
+"3728","twix","joy",44,113
+"3729","twix","joy",43,112
+"3730","twix","joy",42,111
+"3731","twix","joy",39,108
+"3732","twix","joy",46,106
+"3733","twix","joy",25,104
+"3734","twix","joy",41,103
+"3735","twix","joy",24,98
+"3736","twix","joy",50,76
+"3737","twix","joy",47,73
+"3738","twix","joy",23,64
+"3739","twix","joy",48,63
+"3740","twix","joy",22,61
+"3741","twix","joy",49,56
+"3742","twix","joy",52,56
+"3743","twix","joy",51,50
+"3744","twix","joy",21,46
+"3745","twix","joy",53,43
+"3746","twix","joy",55,42
+"3747","twix","joy",54,41
+"3748","twix","joy",58,37
+"3749","twix","joy",18,34
+"3750","twix","joy",19,33
+"3751","twix","despair",32,32
+"3752","twix","joy",20,32
+"3753","twix","joy",57,30
+"3754","twix","joy",17,26
+"3755","twix","despair",30,25
+"3756","twix","despair",45,24
+"3757","twix","joy",56,24
+"3758","twix","neutral",35,22
+"3759","twix","neutral",30,21
+"3760","twix","despair",33,20
+"3761","twix","despair",34,20
+"3762","twix","despair",50,20
+"3763","twix","despair",31,19
+"3764","twix","despair",27,16
+"3765","twix","despair",28,16
+"3766","twix","despair",35,16
+"3767","twix","despair",40,16
+"3768","twix","despair",46,16
+"3769","twix","joy",62,16
+"3770","twix","joy",13,15
+"3771","twix","neutral",34,15
+"3772","twix","despair",52,14
+"3773","twix","joy",59,14
+"3774","twix","neutral",40,14
+"3775","twix","joy",60,13
+"3776","twix","despair",44,12
+"3777","twix","despair",51,12
+"3778","twix","despair",21,11
+"3779","twix","despair",42,11
+"3780","twix","despair",60,11
+"3781","twix","joy",12,11
+"3782","twix","joy",14,11
+"3783","twix","joy",16,11
+"3784","twix","joy",61,11
+"3785","twix","neutral",24,11
+"3786","twix","neutral",28,11
+"3787","twix","neutral",33,11
+"3788","twix","neutral",39,11
+"3789","twix","despair",25,10
+"3790","twix","despair",37,10
+"3791","twix","despair",39,10
+"3792","twix","despair",54,10
+"3793","twix","despair",57,10
+"3794","twix","despair",58,10
+"3795","twix","joy",65,10
+"3796","twix","joy",67,10
+"3797","twix","neutral",42,10
+"3798","twix","despair",22,9
+"3799","twix","despair",23,9
+"3800","twix","despair",26,9
+"3801","twix","despair",29,9
+"3802","twix","despair",36,9
+"3803","twix","despair",41,9
+"3804","twix","despair",48,9
+"3805","twix","despair",56,9
+"3806","twix","joy",15,9
+"3807","twix","joy",66,9
+"3808","twix","neutral",20,9
+"3809","twix","neutral",27,9
+"3810","twix","neutral",29,9
+"3811","twix","neutral",36,9
+"3812","twix","neutral",44,9
+"3813","twix","despair",24,8
+"3814","twix","despair",49,8
+"3815","twix","despair",53,8
+"3816","twix","despair",59,8
+"3817","twix","joy",9,8
+"3818","twix","joy",11,8
+"3819","twix","joy",63,8
+"3820","twix","neutral",45,8
+"3821","twix","neutral",47,8
+"3822","twix","despair",16,7
+"3823","twix","despair",38,7
+"3824","twix","despair",43,7
+"3825","twix","despair",47,7
+"3826","twix","despair",64,7
+"3827","twix","neutral",37,7
+"3828","twix","despair",20,6
+"3829","twix","despair",61,6
+"3830","twix","despair",62,6
+"3831","twix","joy",69,6
+"3832","twix","joy",70,6
+"3833","twix","neutral",19,6
+"3834","twix","neutral",26,6
+"3835","twix","neutral",32,6
+"3836","twix","neutral",43,6
+"3837","twix","despair",13,5
+"3838","twix","despair",55,5
+"3839","twix","despair",63,5
+"3840","twix","joy",10,5
+"3841","twix","joy",64,5
+"3842","twix","neutral",13,5
+"3843","twix","neutral",18,5
+"3844","twix","neutral",21,5
+"3845","twix","neutral",31,5
+"3846","twix","neutral",59,5
+"3847","twix","neutral",64,5
+"3848","twix","neutral",67,5
+"3849","twix","despair",65,4
+"3850","twix","despair",67,4
+"3851","twix","joy",6,4
+"3852","twix","joy",8,4
+"3853","twix","joy",72,4
+"3854","twix","neutral",22,4
+"3855","twix","neutral",23,4
+"3856","twix","neutral",25,4
+"3857","twix","neutral",41,4
+"3858","twix","neutral",46,4
+"3859","twix","neutral",49,4
+"3860","twix","neutral",51,4
+"3861","twix","neutral",52,4
+"3862","twix","neutral",53,4
+"3863","twix","neutral",55,4
+"3864","twix","neutral",56,4
+"3865","twix","neutral",57,4
+"3866","twix","neutral",58,4
+"3867","twix","despair",14,3
+"3868","twix","despair",19,3
+"3869","twix","despair",66,3
+"3870","twix","joy",68,3
+"3871","twix","neutral",16,3
+"3872","twix","neutral",54,3
+"3873","twix","neutral",70,3
+"3874","twix","despair",68,2
+"3875","twix","despair",69,2
+"3876","twix","joy",7,2
+"3877","twix","joy",71,2
+"3878","twix","joy",74,2
+"3879","twix","joy",75,2
+"3880","twix","neutral",38,2
+"3881","twix","neutral",48,2
+"3882","twix","neutral",60,2
+"3883","twix","neutral",62,2
+"3884","twix","neutral",65,2
+"3885","twix","neutral",71,2
+"3886","twix","despair",9,1
+"3887","twix","despair",15,1
+"3888","twix","despair",17,1
+"3889","twix","despair",70,1
+"3890","twix","despair",71,1
+"3891","twix","despair",74,1
+"3892","twix","joy",5,1
+"3893","twix","joy",77,1
+"3894","twix","joy",85,1
+"3895","twix","joy",97,1
+"3896","twix","joy",99,1
+"3897","twix","neutral",12,1
+"3898","twix","neutral",14,1
+"3899","twix","neutral",50,1
+"3900","twix","neutral",61,1
+"3901","twix","neutral",66,1
+"3902","twix","neutral",69,1
+"3903","twix","neutral",72,1
+"3904","twix","neutral",75,1
+"3905","twix","neutral",99,1

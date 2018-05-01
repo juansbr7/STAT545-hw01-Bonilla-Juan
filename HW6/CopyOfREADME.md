@@ -6,19 +6,9 @@
 * part 1-----> https://github.com/juansbr7/STAT547Bonilla_Juan/blob/master/HW6.Rmd
 * part 2-----> https://github.com/juansbr7/STAT547Bonilla_Juan/blob/master/HW6-2.md
 
-**Homework 7:**
-* https://github.com/juansbr7/STAT547Bonilla_Juan/tree/master/HW7
 
-**Homework 8:**
-* FIRST_APP ---> https://github.com/juansbr7/STAT547Bonilla_Juan/tree/master/FIRST_APP
-* SECOND_APP---> https://juansbr7.shinyapps.io/PRapp/
+Comments about the code in part 1 are commented inside the code chuncks. I could not generate a .md file so I'll include the html and Rmd version.
 
-**Homework 9:**
-* FACTORS ---> https://github.com/juansbr7/foofactors
-I worked with Jenny's foofactor repo, I forked it and that's why it is not inside my STAT547 repo.
-
-**Homework10:**
-* API data-->
 **Resources:**
 
 I couldn't have done the exercises without:
