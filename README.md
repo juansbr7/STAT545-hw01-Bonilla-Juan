@@ -1,12 +1,5 @@
 
 ### JUAN SEBASTIAN BONILLA
-
-### MLIS STUDENT
-
-![Juan](https://github.com/juansbr7/STAT545Bonilla-Juan/blob/master/45-AAA.jpg)
-
-
-
 ### DATA ANALYST
 
 ![Juan](https://github.com/juansbr7/STAT545Bonilla-Juan/blob/master/45-AAA.jpg)
