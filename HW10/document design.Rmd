@@ -1,14 +1,10 @@
 ---
-title: "LIBR539J Assignment 2: Data Management and Curation"
+title: "Data Management and Curation"
 author: "Juan Bonilla"
 date: '2018-03-01'
 output: pdf_document
 ---
 
-
-*Dataset hosted at:*
-
-https://demo.ckan.org/dataset/7ae55b5b-ae43-4ea0-89dc-4601d566b016/resource/f18c23d1-0207-4ac3-805a-ce679cc6992c/download/bird-sightings-in-america.csv
 
 
 **SELECTING, PROCESSING AND CLEANING OF THE DATASET**
@@ -19,20 +15,14 @@ Using data collected from two different sources and different methods for data w
 
 The motivation for this project aligns with the goals of ebirds.org which seeks to keep track of bird species, find more birds, explore latest sightings and contributing data to science and conservation. Throughout this exercise, I will do different calculations such as population density per country and the total number of bird sightings per species and per country. The results of these operations will be visualized using the ggplot library available in R and the spatial data will be visualized using google fusion tables and its embedded map options.  
 
-** Spacial data visualizations at:**
-*Tip: use the filter "common name" in the map to see the species across North and South America.*
-https://fusiontables.google.com/DataSource?docid=1_NQunLWq9CQNITnWXXhdn3c5c9LUxfzP5y_a0fqw#rows:id=1
-
-
 ### Resources: 
 
- * R MArkdown for document design
+ * R Markdown for document design
  * R Studio for programming.
    * R libraries for visualization (ggplot, RColorBrewer, formattable, knitr)
    * R libraries for data wrangling (tidyverse, dplyr, xml2, httr, rvest, curl)
    * R libraries for data collection (geonames, rebird)
- * Google fusion tables for merging data tables and spacial data visualization.
- * Ckan for hosting the dataset
+
 
 ### STEP 1 Collecting and cleaning data:
 
@@ -255,13 +245,6 @@ ggplot(both, aes(x= density, y= allsights))+
   geom_text(label= both$countryName)+ 
   labs(x= "Population Density per sqrkm", y= "number of sightings")+ 
   scale_x_continuous(breaks = seq(0, 60, by = 5))
-```
-
-```{r}
-library(psych)
-```
-```{r}
-describe(both)
 ```
 
 
