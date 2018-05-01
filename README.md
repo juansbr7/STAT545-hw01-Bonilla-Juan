@@ -2,7 +2,7 @@ JUAN SEBASTIAN BONILLA
 
 MLIS STUDENT
 
-![Juan](https://github.com/juansbr7/STAT545Bonilla-Juan/blob/master/HW1/45-AAA.jpg)
+![Juan](https://github.com/juansbr7/STAT545Bonilla-Juan/blob/master/45-AAA.jpg)
 
 About Juan:
 
