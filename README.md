@@ -13,9 +13,10 @@ Education:
 
 I am from Bogota,Colombia. I have been living in Canada for more than 8 years.
 
-4 years in Ottawa.
-1 year in Calgary.
-3+ years in Vancouver.
+1. 4 years in Ottawa.
+2. 1 year in Calgary.
+3. 3+ years in Vancouver.
+
 When I am not working, I like to hike and meditate. I am ofently reflecting about happiness, goals in life, travels and dreams. I love drawing, daydreaming (which I think it is the richest source of new ideas) and programming. In my studies, I learned to do data analysis using Python and R and enjoy learning new libraries, functions and creating new projects.
 
 In the future, I see myself working with a team of knowledgable people doing research and learning something new everyday.
