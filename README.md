@@ -18,6 +18,16 @@ When I am not working, I like to hike and meditate. I am ofently reflecting abou
 In the future, I see myself working with a team of knowledgable people doing research and learning something new everyday.
 
 * See some of my projects at ![Juan](http://juan-sebastian-bonilla.strikingly.com )
+
+
+### THIS REPO:
+
+This repo has diffrent folder with projects that I made to practice 
++ Data mining
++ Data cleaning 
++ Visualization
++ Document Design
+
 **Resources:**
 
 * Datacamp's course on cleaning data.
