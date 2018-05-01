@@ -133,8 +133,7 @@ gapminder %>%
   mutate(l_ex=ifelse(lifeExp<= mean(lifeExp), "low", "high")) %>% 
   ggplot(aes( pop, year, color=lifeExp)) +
     facet_grid(l_ex ~ continent) +
-    geom_point(alpha= 0.5)+ 
-  geom_smooth(method="loess", span=1)
+    geom_point(alpha= 0.5)
 ```
 
 ![](HW3_files/figure-markdown_github-ascii_identifiers/figure3.4-1.png)
@@ -207,16 +206,5 @@ ggplot( aes(year , gdpPercap)) +
 
 ![](HW3_files/figure-markdown_github-ascii_identifiers/figure3.6-1.png)
 
-Reflection
-----------
 
-1\_ I need to refresh my knowledge in statistics in order to understand what linear regression, or any regression, means and what it indicates. So far, I have made advance in the aesthetics part (colors, shapes, different types of graphs). I liked the peer reviews because i could see the progress of other people and learn from the way they read data and interpret the results; i still need to work more on that.
-
-2\_ It is really fun to explore this dataset, it tells lots of stories. I found a little trouble plotting all the countries at the same time because it is a lots of datapoints and the graphs and labels overlap too much. I find that low alphatransparency helps us seeing the overlaps which is important.
-
-3\_ I tried to write most of the code using piping but sometimes I used the simple nested functions just to try everything.
-
-4\_ I learned the hard way that &lt;- and = can not be used interchangably to define variables, as I learned in my first R course. They throw different results when used in nested functions.
-
-## jump to Homework 4 --> ![Juan](https://github.com/juansbr7/STAT545Bonilla-Juan/blob/master/HW4/HW4.md)
 
