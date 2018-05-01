@@ -1,10 +1,10 @@
-JUAN SEBASTIAN BONILLA
+###JUAN SEBASTIAN BONILLA
 
-MLIS STUDENT
+### DATA ANALYST
 
 ![Juan](https://github.com/juansbr7/STAT545Bonilla-Juan/blob/master/45-AAA.jpg)
 
-About Juan:
+###About Juan:
 
 Education:* Completed a Master of Library and Information Studies at the University of British Columbia (graduating in May 2018).Graduated in 2013 with an Honours Bachelor of Arts with specialization in Ethics and a minor in Philosophy from Saint Paul University and University of Ottawa. Awarded with the Emerging Leaders in the Americas Program (ELAP) scholarship in 2010 and a bursary to study German language in Munich by Goethe Institut in 2013. The Person:
 
