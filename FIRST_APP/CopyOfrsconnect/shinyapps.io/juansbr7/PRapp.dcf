@@ -1,0 +1,12 @@
+name: PRapp
+title: PRapp
+username:
+account: juansbr7
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 239575
+bundleId: 1107105
+url: https://juansbr7.shinyapps.io/PRapp/
+when: 1512073037.516
+asMultiple: FALSE
+asStatic: FALSE

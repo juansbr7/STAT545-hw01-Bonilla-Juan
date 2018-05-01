@@ -1,0 +1,1681 @@
+COUNTRY,YEAR,ICLASS,NUMBER,LATITUD,LONGITUD
+Australia,2013,Family,205,-25.274398,133.775136
+Australia,2006,Family,165,-25.274398,133.775136
+Australia,2007,Family,190,-25.274398,133.775136
+Australia,2008,Family,183,-25.274398,133.775136
+Australia,2009,Family,131,-25.274398,133.775136
+Australia,2010,Family,122,-25.274398,133.775136
+Australia,2011,Family,138,-25.274398,133.775136
+Australia,2012,Family,166,-25.274398,133.775136
+Australia,2013,Refugee,0,-25.274398,133.775136
+Australia,2006,Refugee,0,-25.274398,133.775136
+Australia,2007,Refugee,0,-25.274398,133.775136
+Australia,2008,Refugee,0,-25.274398,133.775136
+Australia,2009,Refugee,0,-25.274398,133.775136
+Australia,2010,Refugee,0,-25.274398,133.775136
+Australia,2011,Refugee,0,-25.274398,133.775136
+Australia,2012,Refugee,0,-25.274398,133.775136
+Australia,2013,Skilled.Worker,109,-25.274398,133.775136
+Australia,2006,Skilled.Worker,104,-25.274398,133.775136
+Australia,2007,Skilled.Worker,139,-25.274398,133.775136
+Australia,2008,Skilled.Worker,123,-25.274398,133.775136
+Australia,2009,Skilled.Worker,141,-25.274398,133.775136
+Australia,2010,Skilled.Worker,186,-25.274398,133.775136
+Australia,2011,Skilled.Worker,97,-25.274398,133.775136
+Australia,2012,Skilled.Worker,47,-25.274398,133.775136
+Australia,2013,Canadian.Experience,48,-25.274398,133.775136
+Australia,2006,Canadian.Experience,0,-25.274398,133.775136
+Australia,2007,Canadian.Experience,0,-25.274398,133.775136
+Australia,2008,Canadian.Experience,0,-25.274398,133.775136
+Australia,2009,Canadian.Experience,0,-25.274398,133.775136
+Australia,2010,Canadian.Experience,0,-25.274398,133.775136
+Australia,2011,Canadian.Experience,37,-25.274398,133.775136
+Australia,2012,Canadian.Experience,69,-25.274398,133.775136
+Australia,2013,Prov..Terr..Nominee,180,-25.274398,133.775136
+Australia,2006,Prov..Terr..Nominee,63,-25.274398,133.775136
+Australia,2007,Prov..Terr..Nominee,98,-25.274398,133.775136
+Australia,2008,Prov..Terr..Nominee,69,-25.274398,133.775136
+Australia,2009,Prov..Terr..Nominee,68,-25.274398,133.775136
+Australia,2010,Prov..Terr..Nominee,65,-25.274398,133.775136
+Australia,2011,Prov..Terr..Nominee,57,-25.274398,133.775136
+Australia,2012,Prov..Terr..Nominee,107,-25.274398,133.775136
+Australia,2013,Live.In.Caregiver,0,-25.274398,133.775136
+Australia,2006,Live.In.Caregiver,0,-25.274398,133.775136
+Australia,2007,Live.In.Caregiver,0,-25.274398,133.775136
+Australia,2008,Live.In.Caregiver,0,-25.274398,133.775136
+Australia,2009,Live.In.Caregiver,0,-25.274398,133.775136
+Australia,2010,Live.In.Caregiver,0,-25.274398,133.775136
+Australia,2011,Live.In.Caregiver,0,-25.274398,133.775136
+Australia,2012,Live.In.Caregiver,0,-25.274398,133.775136
+Australia,2013,Entrepreneur,0,-25.274398,133.775136
+Australia,2006,Entrepreneur,0,-25.274398,133.775136
+Australia,2007,Entrepreneur,0,-25.274398,133.775136
+Australia,2008,Entrepreneur,0,-25.274398,133.775136
+Australia,2009,Entrepreneur,0,-25.274398,133.775136
+Australia,2010,Entrepreneur,0,-25.274398,133.775136
+Australia,2011,Entrepreneur,0,-25.274398,133.775136
+Australia,2012,Entrepreneur,0,-25.274398,133.775136
+Australia,2013,Investor,0,-25.274398,133.775136
+Australia,2006,Investor,0,-25.274398,133.775136
+Australia,2007,Investor,0,-25.274398,133.775136
+Australia,2008,Investor,0,-25.274398,133.775136
+Australia,2009,Investor,0,-25.274398,133.775136
+Australia,2010,Investor,0,-25.274398,133.775136
+Australia,2011,Investor,0,-25.274398,133.775136
+Australia,2012,Investor,0,-25.274398,133.775136
+Australia,2013,Self.Employed,0,-25.274398,133.775136
+Australia,2006,Self.Employed,0,-25.274398,133.775136
+Australia,2007,Self.Employed,0,-25.274398,133.775136
+Australia,2008,Self.Employed,0,-25.274398,133.775136
+Australia,2009,Self.Employed,0,-25.274398,133.775136
+Australia,2010,Self.Employed,0,-25.274398,133.775136
+Australia,2011,Self.Employed,0,-25.274398,133.775136
+Australia,2012,Self.Employed,0,-25.274398,133.775136
+Australia,2013,Other.Classes,0,-25.274398,133.775136
+Australia,2006,Other.Classes,16,-25.274398,133.775136
+Australia,2007,Other.Classes,17,-25.274398,133.775136
+Australia,2008,Other.Classes,17,-25.274398,133.775136
+Australia,2009,Other.Classes,34,-25.274398,133.775136
+Australia,2010,Other.Classes,0,-25.274398,133.775136
+Australia,2011,Other.Classes,0,-25.274398,133.775136
+Australia,2012,Other.Classes,0,-25.274398,133.775136
+Brazil,2009,Family,73,-14.235004,-51.92528
+Brazil,2010,Family,72,-14.235004,-51.92528
+Brazil,2009,Refugee,0,-14.235004,-51.92528
+Brazil,2010,Refugee,5,-14.235004,-51.92528
+Brazil,2009,Skilled.Worker,147,-14.235004,-51.92528
+Brazil,2010,Skilled.Worker,182,-14.235004,-51.92528
+Brazil,2009,Canadian.Experience,0,-14.235004,-51.92528
+Brazil,2010,Canadian.Experience,0,-14.235004,-51.92528
+Brazil,2009,Prov..Terr..Nominee,17,-14.235004,-51.92528
+Brazil,2010,Prov..Terr..Nominee,41,-14.235004,-51.92528
+Brazil,2009,Live.In.Caregiver,6,-14.235004,-51.92528
+Brazil,2010,Live.In.Caregiver,0,-14.235004,-51.92528
+Brazil,2009,Entrepreneur,0,-14.235004,-51.92528
+Brazil,2010,Entrepreneur,0,-14.235004,-51.92528
+Brazil,2009,Investor,0,-14.235004,-51.92528
+Brazil,2010,Investor,0,-14.235004,-51.92528
+Brazil,2009,Self.Employed,0,-14.235004,-51.92528
+Brazil,2010,Self.Employed,0,-14.235004,-51.92528
+Brazil,2009,Other.Classes,17,-14.235004,-51.92528
+Brazil,2010,Other.Classes,7,-14.235004,-51.92528
+China,2013,Family,4016,35.86166,104.195397
+China,2006,Family,2412,35.86166,104.195397
+China,2007,Family,2387,35.86166,104.195397
+China,2008,Family,1957,35.86166,104.195397
+China,2009,Family,2269,35.86166,104.195397
+China,2010,Family,1770,35.86166,104.195397
+China,2011,Family,1883,35.86166,104.195397
+China,2012,Family,2888,35.86166,104.195397
+China,2013,Refugee,62,35.86166,104.195397
+China,2006,Refugee,147,35.86166,104.195397
+China,2007,Refugee,90,35.86166,104.195397
+China,2008,Refugee,43,35.86166,104.195397
+China,2009,Refugee,59,35.86166,104.195397
+China,2010,Refugee,36,35.86166,104.195397
+China,2011,Refugee,80,35.86166,104.195397
+China,2012,Refugee,92,35.86166,104.195397
+China,2013,Skilled.Worker,1333,35.86166,104.195397
+China,2006,Skilled.Worker,4795,35.86166,104.195397
+China,2007,Skilled.Worker,2872,35.86166,104.195397
+China,2008,Skilled.Worker,3235,35.86166,104.195397
+China,2009,Skilled.Worker,1702,35.86166,104.195397
+China,2010,Skilled.Worker,2707,35.86166,104.195397
+China,2011,Skilled.Worker,1992,35.86166,104.195397
+China,2012,Skilled.Worker,2074,35.86166,104.195397
+China,2013,Canadian.Experience,211,35.86166,104.195397
+China,2006,Canadian.Experience,0,35.86166,104.195397
+China,2007,Canadian.Experience,0,35.86166,104.195397
+China,2008,Canadian.Experience,0,35.86166,104.195397
+China,2009,Canadian.Experience,0,35.86166,104.195397
+China,2010,Canadian.Experience,0,35.86166,104.195397
+China,2011,Canadian.Experience,327,35.86166,104.195397
+China,2012,Canadian.Experience,356,35.86166,104.195397
+China,2013,Prov..Terr..Nominee,840,35.86166,104.195397
+China,2006,Prov..Terr..Nominee,229,35.86166,104.195397
+China,2007,Prov..Terr..Nominee,369,35.86166,104.195397
+China,2008,Prov..Terr..Nominee,654,35.86166,104.195397
+China,2009,Prov..Terr..Nominee,872,35.86166,104.195397
+China,2010,Prov..Terr..Nominee,795,35.86166,104.195397
+China,2011,Prov..Terr..Nominee,488,35.86166,104.195397
+China,2012,Prov..Terr..Nominee,738,35.86166,104.195397
+China,2013,Live.In.Caregiver,69,35.86166,104.195397
+China,2006,Live.In.Caregiver,8,35.86166,104.195397
+China,2007,Live.In.Caregiver,6,35.86166,104.195397
+China,2008,Live.In.Caregiver,32,35.86166,104.195397
+China,2009,Live.In.Caregiver,73,35.86166,104.195397
+China,2010,Live.In.Caregiver,104,35.86166,104.195397
+China,2011,Live.In.Caregiver,97,35.86166,104.195397
+China,2012,Live.In.Caregiver,44,35.86166,104.195397
+China,2013,Entrepreneur,26,35.86166,104.195397
+China,2006,Entrepreneur,259,35.86166,104.195397
+China,2007,Entrepreneur,222,35.86166,104.195397
+China,2008,Entrepreneur,120,35.86166,104.195397
+China,2009,Entrepreneur,101,35.86166,104.195397
+China,2010,Entrepreneur,39,35.86166,104.195397
+China,2011,Entrepreneur,52,35.86166,104.195397
+China,2012,Entrepreneur,25,35.86166,104.195397
+China,2013,Investor,1970,35.86166,104.195397
+China,2006,Investor,2894,35.86166,104.195397
+China,2007,Investor,2162,35.86166,104.195397
+China,2008,Investor,3712,35.86166,104.195397
+China,2009,Investor,3977,35.86166,104.195397
+China,2010,Investor,3779,35.86166,104.195397
+China,2011,Investor,2438,35.86166,104.195397
+China,2012,Investor,1997,35.86166,104.195397
+China,2013,Self.Employed,13,35.86166,104.195397
+China,2006,Self.Employed,76,35.86166,104.195397
+China,2007,Self.Employed,32,35.86166,104.195397
+China,2008,Self.Employed,24,35.86166,104.195397
+China,2009,Self.Employed,9,35.86166,104.195397
+China,2010,Self.Employed,18,35.86166,104.195397
+China,2011,Self.Employed,21,35.86166,104.195397
+China,2012,Self.Employed,16,35.86166,104.195397
+China,2013,Other.Classes,58,35.86166,104.195397
+China,2006,Other.Classes,110,35.86166,104.195397
+China,2007,Other.Classes,119,35.86166,104.195397
+China,2008,Other.Classes,137,35.86166,104.195397
+China,2009,Other.Classes,313,35.86166,104.195397
+China,2010,Other.Classes,69,35.86166,104.195397
+China,2011,Other.Classes,108,35.86166,104.195397
+China,2012,Other.Classes,74,35.86166,104.195397
+England,2013,Family,399,55.378051,-3.435973
+England,2006,Family,341,55.378051,-3.435973
+England,2007,Family,417,55.378051,-3.435973
+England,2008,Family,448,55.378051,-3.435973
+England,2009,Family,449,55.378051,-3.435973
+England,2010,Family,387,55.378051,-3.435973
+England,2011,Family,356,55.378051,-3.435973
+England,2012,Family,346,55.378051,-3.435973
+England,2013,Refugee,0,55.378051,-3.435973
+England,2006,Refugee,0,55.378051,-3.435973
+England,2007,Refugee,0,55.378051,-3.435973
+England,2008,Refugee,0,55.378051,-3.435973
+England,2009,Refugee,0,55.378051,-3.435973
+England,2010,Refugee,0,55.378051,-3.435973
+England,2011,Refugee,0,55.378051,-3.435973
+England,2012,Refugee,0,55.378051,-3.435973
+England,2013,Skilled.Worker,242,55.378051,-3.435973
+England,2006,Skilled.Worker,818,55.378051,-3.435973
+England,2007,Skilled.Worker,959,55.378051,-3.435973
+England,2008,Skilled.Worker,1026,55.378051,-3.435973
+England,2009,Skilled.Worker,992,55.378051,-3.435973
+England,2010,Skilled.Worker,1190,55.378051,-3.435973
+England,2011,Skilled.Worker,457,55.378051,-3.435973
+England,2012,Skilled.Worker,296,55.378051,-3.435973
+England,2013,Canadian.Experience,67,55.378051,-3.435973
+England,2006,Canadian.Experience,0,55.378051,-3.435973
+England,2007,Canadian.Experience,0,55.378051,-3.435973
+England,2008,Canadian.Experience,0,55.378051,-3.435973
+England,2009,Canadian.Experience,0,55.378051,-3.435973
+England,2010,Canadian.Experience,0,55.378051,-3.435973
+England,2011,Canadian.Experience,108,55.378051,-3.435973
+England,2012,Canadian.Experience,133,55.378051,-3.435973
+England,2013,Prov..Terr..Nominee,532,55.378051,-3.435973
+England,2006,Prov..Terr..Nominee,326,55.378051,-3.435973
+England,2007,Prov..Terr..Nominee,539,55.378051,-3.435973
+England,2008,Prov..Terr..Nominee,694,55.378051,-3.435973
+England,2009,Prov..Terr..Nominee,875,55.378051,-3.435973
+England,2010,Prov..Terr..Nominee,639,55.378051,-3.435973
+England,2011,Prov..Terr..Nominee,483,55.378051,-3.435973
+England,2012,Prov..Terr..Nominee,568,55.378051,-3.435973
+England,2013,Live.In.Caregiver,0,55.378051,-3.435973
+England,2006,Live.In.Caregiver,0,55.378051,-3.435973
+England,2007,Live.In.Caregiver,0,55.378051,-3.435973
+England,2008,Live.In.Caregiver,0,55.378051,-3.435973
+England,2009,Live.In.Caregiver,0,55.378051,-3.435973
+England,2010,Live.In.Caregiver,5,55.378051,-3.435973
+England,2011,Live.In.Caregiver,0,55.378051,-3.435973
+England,2012,Live.In.Caregiver,0,55.378051,-3.435973
+England,2013,Entrepreneur,0,55.378051,-3.435973
+England,2006,Entrepreneur,12,55.378051,-3.435973
+England,2007,Entrepreneur,22,55.378051,-3.435973
+England,2008,Entrepreneur,28,55.378051,-3.435973
+England,2009,Entrepreneur,0,55.378051,-3.435973
+England,2010,Entrepreneur,18,55.378051,-3.435973
+England,2011,Entrepreneur,0,55.378051,-3.435973
+England,2012,Entrepreneur,0,55.378051,-3.435973
+England,2013,Investor,0,55.378051,-3.435973
+England,2006,Investor,37,55.378051,-3.435973
+England,2007,Investor,45,55.378051,-3.435973
+England,2008,Investor,43,55.378051,-3.435973
+England,2009,Investor,68,55.378051,-3.435973
+England,2010,Investor,20,55.378051,-3.435973
+England,2011,Investor,8,55.378051,-3.435973
+England,2012,Investor,0,55.378051,-3.435973
+England,2013,Self.Employed,0,55.378051,-3.435973
+England,2006,Self.Employed,11,55.378051,-3.435973
+England,2007,Self.Employed,7,55.378051,-3.435973
+England,2008,Self.Employed,9,55.378051,-3.435973
+England,2009,Self.Employed,14,55.378051,-3.435973
+England,2010,Self.Employed,8,55.378051,-3.435973
+England,2011,Self.Employed,0,55.378051,-3.435973
+England,2012,Self.Employed,0,55.378051,-3.435973
+England,2013,Other.Classes,16,55.378051,-3.435973
+England,2006,Other.Classes,35,55.378051,-3.435973
+England,2007,Other.Classes,54,55.378051,-3.435973
+England,2008,Other.Classes,66,55.378051,-3.435973
+England,2009,Other.Classes,85,55.378051,-3.435973
+England,2010,Other.Classes,46,55.378051,-3.435973
+England,2011,Other.Classes,48,55.378051,-3.435973
+England,2012,Other.Classes,34,55.378051,-3.435973
+Germany,2013,Family,78,51.165691,10.451526
+Germany,2006,Family,117,51.165691,10.451526
+Germany,2007,Family,65,51.165691,10.451526
+Germany,2008,Family,114,51.165691,10.451526
+Germany,2009,Family,110,51.165691,10.451526
+Germany,2010,Family,90,51.165691,10.451526
+Germany,2011,Family,90,51.165691,10.451526
+Germany,2012,Family,100,51.165691,10.451526
+Germany,2013,Refugee,0,51.165691,10.451526
+Germany,2006,Refugee,0,51.165691,10.451526
+Germany,2007,Refugee,7,51.165691,10.451526
+Germany,2008,Refugee,0,51.165691,10.451526
+Germany,2009,Refugee,0,51.165691,10.451526
+Germany,2010,Refugee,0,51.165691,10.451526
+Germany,2011,Refugee,0,51.165691,10.451526
+Germany,2012,Refugee,6,51.165691,10.451526
+Germany,2013,Skilled.Worker,26,51.165691,10.451526
+Germany,2006,Skilled.Worker,134,51.165691,10.451526
+Germany,2007,Skilled.Worker,90,51.165691,10.451526
+Germany,2008,Skilled.Worker,126,51.165691,10.451526
+Germany,2009,Skilled.Worker,133,51.165691,10.451526
+Germany,2010,Skilled.Worker,221,51.165691,10.451526
+Germany,2011,Skilled.Worker,153,51.165691,10.451526
+Germany,2012,Skilled.Worker,97,51.165691,10.451526
+Germany,2013,Canadian.Experience,21,51.165691,10.451526
+Germany,2006,Canadian.Experience,0,51.165691,10.451526
+Germany,2007,Canadian.Experience,0,51.165691,10.451526
+Germany,2008,Canadian.Experience,0,51.165691,10.451526
+Germany,2009,Canadian.Experience,0,51.165691,10.451526
+Germany,2010,Canadian.Experience,0,51.165691,10.451526
+Germany,2011,Canadian.Experience,24,51.165691,10.451526
+Germany,2012,Canadian.Experience,42,51.165691,10.451526
+Germany,2013,Prov..Terr..Nominee,140,51.165691,10.451526
+Germany,2006,Prov..Terr..Nominee,53,51.165691,10.451526
+Germany,2007,Prov..Terr..Nominee,74,51.165691,10.451526
+Germany,2008,Prov..Terr..Nominee,262,51.165691,10.451526
+Germany,2009,Prov..Terr..Nominee,303,51.165691,10.451526
+Germany,2010,Prov..Terr..Nominee,168,51.165691,10.451526
+Germany,2011,Prov..Terr..Nominee,94,51.165691,10.451526
+Germany,2012,Prov..Terr..Nominee,122,51.165691,10.451526
+Germany,2013,Live.In.Caregiver,0,51.165691,10.451526
+Germany,2006,Live.In.Caregiver,0,51.165691,10.451526
+Germany,2007,Live.In.Caregiver,0,51.165691,10.451526
+Germany,2008,Live.In.Caregiver,0,51.165691,10.451526
+Germany,2009,Live.In.Caregiver,0,51.165691,10.451526
+Germany,2010,Live.In.Caregiver,6,51.165691,10.451526
+Germany,2011,Live.In.Caregiver,0,51.165691,10.451526
+Germany,2012,Live.In.Caregiver,0,51.165691,10.451526
+Germany,2013,Entrepreneur,0,51.165691,10.451526
+Germany,2006,Entrepreneur,22,51.165691,10.451526
+Germany,2007,Entrepreneur,0,51.165691,10.451526
+Germany,2008,Entrepreneur,8,51.165691,10.451526
+Germany,2009,Entrepreneur,24,51.165691,10.451526
+Germany,2010,Entrepreneur,11,51.165691,10.451526
+Germany,2011,Entrepreneur,7,51.165691,10.451526
+Germany,2012,Entrepreneur,0,51.165691,10.451526
+Germany,2013,Investor,0,51.165691,10.451526
+Germany,2006,Investor,0,51.165691,10.451526
+Germany,2007,Investor,5,51.165691,10.451526
+Germany,2008,Investor,0,51.165691,10.451526
+Germany,2009,Investor,17,51.165691,10.451526
+Germany,2010,Investor,0,51.165691,10.451526
+Germany,2011,Investor,0,51.165691,10.451526
+Germany,2012,Investor,0,51.165691,10.451526
+Germany,2013,Self.Employed,0,51.165691,10.451526
+Germany,2006,Self.Employed,6,51.165691,10.451526
+Germany,2007,Self.Employed,0,51.165691,10.451526
+Germany,2008,Self.Employed,0,51.165691,10.451526
+Germany,2009,Self.Employed,18,51.165691,10.451526
+Germany,2010,Self.Employed,5,51.165691,10.451526
+Germany,2011,Self.Employed,6,51.165691,10.451526
+Germany,2012,Self.Employed,8,51.165691,10.451526
+Germany,2013,Other.Classes,9,51.165691,10.451526
+Germany,2006,Other.Classes,15,51.165691,10.451526
+Germany,2007,Other.Classes,19,51.165691,10.451526
+Germany,2008,Other.Classes,22,51.165691,10.451526
+Germany,2009,Other.Classes,23,51.165691,10.451526
+Germany,2010,Other.Classes,12,51.165691,10.451526
+Germany,2011,Other.Classes,15,51.165691,10.451526
+Germany,2012,Other.Classes,10,51.165691,10.451526
+Hong Kong,2013,Family,223,22.396428,114.109497
+Hong Kong,2006,Family,77,22.396428,114.109497
+Hong Kong,2007,Family,90,22.396428,114.109497
+Hong Kong,2008,Family,171,22.396428,114.109497
+Hong Kong,2011,Family,123,22.396428,114.109497
+Hong Kong,2012,Family,165,22.396428,114.109497
+Hong Kong,2013,Refugee,0,22.396428,114.109497
+Hong Kong,2006,Refugee,0,22.396428,114.109497
+Hong Kong,2007,Refugee,0,22.396428,114.109497
+Hong Kong,2008,Refugee,0,22.396428,114.109497
+Hong Kong,2011,Refugee,0,22.396428,114.109497
+Hong Kong,2012,Refugee,0,22.396428,114.109497
+Hong Kong,2013,Skilled.Worker,33,22.396428,114.109497
+Hong Kong,2006,Skilled.Worker,251,22.396428,114.109497
+Hong Kong,2007,Skilled.Worker,108,22.396428,114.109497
+Hong Kong,2008,Skilled.Worker,239,22.396428,114.109497
+Hong Kong,2011,Skilled.Worker,58,22.396428,114.109497
+Hong Kong,2012,Skilled.Worker,46,22.396428,114.109497
+Hong Kong,2013,Canadian.Experience,18,22.396428,114.109497
+Hong Kong,2006,Canadian.Experience,0,22.396428,114.109497
+Hong Kong,2007,Canadian.Experience,0,22.396428,114.109497
+Hong Kong,2008,Canadian.Experience,0,22.396428,114.109497
+Hong Kong,2011,Canadian.Experience,0,22.396428,114.109497
+Hong Kong,2012,Canadian.Experience,38,22.396428,114.109497
+Hong Kong,2013,Prov..Terr..Nominee,55,22.396428,114.109497
+Hong Kong,2006,Prov..Terr..Nominee,5,22.396428,114.109497
+Hong Kong,2007,Prov..Terr..Nominee,8,22.396428,114.109497
+Hong Kong,2008,Prov..Terr..Nominee,10,22.396428,114.109497
+Hong Kong,2011,Prov..Terr..Nominee,17,22.396428,114.109497
+Hong Kong,2012,Prov..Terr..Nominee,24,22.396428,114.109497
+Hong Kong,2013,Live.In.Caregiver,0,22.396428,114.109497
+Hong Kong,2006,Live.In.Caregiver,0,22.396428,114.109497
+Hong Kong,2007,Live.In.Caregiver,0,22.396428,114.109497
+Hong Kong,2008,Live.In.Caregiver,0,22.396428,114.109497
+Hong Kong,2011,Live.In.Caregiver,0,22.396428,114.109497
+Hong Kong,2012,Live.In.Caregiver,0,22.396428,114.109497
+Hong Kong,2013,Entrepreneur,0,22.396428,114.109497
+Hong Kong,2006,Entrepreneur,25,22.396428,114.109497
+Hong Kong,2007,Entrepreneur,30,22.396428,114.109497
+Hong Kong,2008,Entrepreneur,10,22.396428,114.109497
+Hong Kong,2011,Entrepreneur,0,22.396428,114.109497
+Hong Kong,2012,Entrepreneur,8,22.396428,114.109497
+Hong Kong,2013,Investor,14,22.396428,114.109497
+Hong Kong,2006,Investor,49,22.396428,114.109497
+Hong Kong,2007,Investor,52,22.396428,114.109497
+Hong Kong,2008,Investor,90,22.396428,114.109497
+Hong Kong,2011,Investor,38,22.396428,114.109497
+Hong Kong,2012,Investor,21,22.396428,114.109497
+Hong Kong,2013,Self.Employed,0,22.396428,114.109497
+Hong Kong,2006,Self.Employed,0,22.396428,114.109497
+Hong Kong,2007,Self.Employed,0,22.396428,114.109497
+Hong Kong,2008,Self.Employed,0,22.396428,114.109497
+Hong Kong,2011,Self.Employed,0,22.396428,114.109497
+Hong Kong,2012,Self.Employed,0,22.396428,114.109497
+Hong Kong,2013,Other.Classes,24,22.396428,114.109497
+Hong Kong,2006,Other.Classes,15,22.396428,114.109497
+Hong Kong,2007,Other.Classes,16,22.396428,114.109497
+Hong Kong,2008,Other.Classes,23,22.396428,114.109497
+Hong Kong,2011,Other.Classes,27,22.396428,114.109497
+Hong Kong,2012,Other.Classes,13,22.396428,114.109497
+India,2013,Family,3496,20.593684,78.96288
+India,2006,Family,4201,20.593684,78.96288
+India,2007,Family,3645,20.593684,78.96288
+India,2008,Family,3785,20.593684,78.96288
+India,2009,Family,3848,20.593684,78.96288
+India,2010,Family,3105,20.593684,78.96288
+India,2011,Family,2616,20.593684,78.96288
+India,2012,Family,2997,20.593684,78.96288
+India,2013,Refugee,32,20.593684,78.96288
+India,2006,Refugee,59,20.593684,78.96288
+India,2007,Refugee,71,20.593684,78.96288
+India,2008,Refugee,21,20.593684,78.96288
+India,2009,Refugee,20,20.593684,78.96288
+India,2010,Refugee,27,20.593684,78.96288
+India,2011,Refugee,28,20.593684,78.96288
+India,2012,Refugee,0,20.593684,78.96288
+India,2013,Skilled.Worker,1342,20.593684,78.96288
+India,2006,Skilled.Worker,1494,20.593684,78.96288
+India,2007,Skilled.Worker,1143,20.593684,78.96288
+India,2008,Skilled.Worker,1105,20.593684,78.96288
+India,2009,Skilled.Worker,1618,20.593684,78.96288
+India,2010,Skilled.Worker,2288,20.593684,78.96288
+India,2011,Skilled.Worker,1299,20.593684,78.96288
+India,2012,Skilled.Worker,1513,20.593684,78.96288
+India,2013,Canadian.Experience,71,20.593684,78.96288
+India,2006,Canadian.Experience,0,20.593684,78.96288
+India,2007,Canadian.Experience,0,20.593684,78.96288
+India,2008,Canadian.Experience,0,20.593684,78.96288
+India,2009,Canadian.Experience,0,20.593684,78.96288
+India,2010,Canadian.Experience,0,20.593684,78.96288
+India,2011,Canadian.Experience,48,20.593684,78.96288
+India,2012,Canadian.Experience,76,20.593684,78.96288
+India,2013,Prov..Terr..Nominee,949,20.593684,78.96288
+India,2006,Prov..Terr..Nominee,56,20.593684,78.96288
+India,2007,Prov..Terr..Nominee,67,20.593684,78.96288
+India,2008,Prov..Terr..Nominee,132,20.593684,78.96288
+India,2009,Prov..Terr..Nominee,256,20.593684,78.96288
+India,2010,Prov..Terr..Nominee,275,20.593684,78.96288
+India,2011,Prov..Terr..Nominee,314,20.593684,78.96288
+India,2012,Prov..Terr..Nominee,574,20.593684,78.96288
+India,2013,Live.In.Caregiver,30,20.593684,78.96288
+India,2006,Live.In.Caregiver,37,20.593684,78.96288
+India,2007,Live.In.Caregiver,166,20.593684,78.96288
+India,2008,Live.In.Caregiver,290,20.593684,78.96288
+India,2009,Live.In.Caregiver,151,20.593684,78.96288
+India,2010,Live.In.Caregiver,62,20.593684,78.96288
+India,2011,Live.In.Caregiver,27,20.593684,78.96288
+India,2012,Live.In.Caregiver,20,20.593684,78.96288
+India,2013,Entrepreneur,0,20.593684,78.96288
+India,2006,Entrepreneur,37,20.593684,78.96288
+India,2007,Entrepreneur,25,20.593684,78.96288
+India,2008,Entrepreneur,33,20.593684,78.96288
+India,2009,Entrepreneur,16,20.593684,78.96288
+India,2010,Entrepreneur,18,20.593684,78.96288
+India,2011,Entrepreneur,0,20.593684,78.96288
+India,2012,Entrepreneur,14,20.593684,78.96288
+India,2013,Investor,0,20.593684,78.96288
+India,2006,Investor,9,20.593684,78.96288
+India,2007,Investor,0,20.593684,78.96288
+India,2008,Investor,6,20.593684,78.96288
+India,2009,Investor,42,20.593684,78.96288
+India,2010,Investor,27,20.593684,78.96288
+India,2011,Investor,29,20.593684,78.96288
+India,2012,Investor,71,20.593684,78.96288
+India,2013,Self.Employed,0,20.593684,78.96288
+India,2006,Self.Employed,0,20.593684,78.96288
+India,2007,Self.Employed,0,20.593684,78.96288
+India,2008,Self.Employed,13,20.593684,78.96288
+India,2009,Self.Employed,42,20.593684,78.96288
+India,2010,Self.Employed,0,20.593684,78.96288
+India,2011,Self.Employed,0,20.593684,78.96288
+India,2012,Self.Employed,0,20.593684,78.96288
+India,2013,Other.Classes,49,20.593684,78.96288
+India,2006,Other.Classes,70,20.593684,78.96288
+India,2007,Other.Classes,58,20.593684,78.96288
+India,2008,Other.Classes,99,20.593684,78.96288
+India,2009,Other.Classes,85,20.593684,78.96288
+India,2010,Other.Classes,48,20.593684,78.96288
+India,2011,Other.Classes,43,20.593684,78.96288
+India,2012,Other.Classes,43,20.593684,78.96288
+Iran,2013,Family,496,32.427908,53.688046
+Iran,2006,Family,252,32.427908,53.688046
+Iran,2007,Family,315,32.427908,53.688046
+Iran,2008,Family,271,32.427908,53.688046
+Iran,2009,Family,443,32.427908,53.688046
+Iran,2010,Family,239,32.427908,53.688046
+Iran,2011,Family,163,32.427908,53.688046
+Iran,2012,Family,191,32.427908,53.688046
+Iran,2013,Refugee,35,32.427908,53.688046
+Iran,2006,Refugee,176,32.427908,53.688046
+Iran,2007,Refugee,142,32.427908,53.688046
+Iran,2008,Refugee,138,32.427908,53.688046
+Iran,2009,Refugee,85,32.427908,53.688046
+Iran,2010,Refugee,129,32.427908,53.688046
+Iran,2011,Refugee,192,32.427908,53.688046
+Iran,2012,Refugee,42,32.427908,53.688046
+Iran,2013,Skilled.Worker,1037,32.427908,53.688046
+Iran,2006,Skilled.Worker,930,32.427908,53.688046
+Iran,2007,Skilled.Worker,537,32.427908,53.688046
+Iran,2008,Skilled.Worker,469,32.427908,53.688046
+Iran,2009,Skilled.Worker,411,32.427908,53.688046
+Iran,2010,Skilled.Worker,770,32.427908,53.688046
+Iran,2011,Skilled.Worker,581,32.427908,53.688046
+Iran,2012,Skilled.Worker,740,32.427908,53.688046
+Iran,2013,Canadian.Experience,0,32.427908,53.688046
+Iran,2006,Canadian.Experience,0,32.427908,53.688046
+Iran,2007,Canadian.Experience,0,32.427908,53.688046
+Iran,2008,Canadian.Experience,0,32.427908,53.688046
+Iran,2009,Canadian.Experience,0,32.427908,53.688046
+Iran,2010,Canadian.Experience,0,32.427908,53.688046
+Iran,2011,Canadian.Experience,11,32.427908,53.688046
+Iran,2012,Canadian.Experience,36,32.427908,53.688046
+Iran,2013,Prov..Terr..Nominee,107,32.427908,53.688046
+Iran,2006,Prov..Terr..Nominee,16,32.427908,53.688046
+Iran,2007,Prov..Terr..Nominee,38,32.427908,53.688046
+Iran,2008,Prov..Terr..Nominee,31,32.427908,53.688046
+Iran,2009,Prov..Terr..Nominee,29,32.427908,53.688046
+Iran,2010,Prov..Terr..Nominee,59,32.427908,53.688046
+Iran,2011,Prov..Terr..Nominee,86,32.427908,53.688046
+Iran,2012,Prov..Terr..Nominee,44,32.427908,53.688046
+Iran,2013,Live.In.Caregiver,0,32.427908,53.688046
+Iran,2006,Live.In.Caregiver,0,32.427908,53.688046
+Iran,2007,Live.In.Caregiver,0,32.427908,53.688046
+Iran,2008,Live.In.Caregiver,0,32.427908,53.688046
+Iran,2009,Live.In.Caregiver,0,32.427908,53.688046
+Iran,2010,Live.In.Caregiver,0,32.427908,53.688046
+Iran,2011,Live.In.Caregiver,0,32.427908,53.688046
+Iran,2012,Live.In.Caregiver,0,32.427908,53.688046
+Iran,2013,Entrepreneur,0,32.427908,53.688046
+Iran,2006,Entrepreneur,156,32.427908,53.688046
+Iran,2007,Entrepreneur,96,32.427908,53.688046
+Iran,2008,Entrepreneur,73,32.427908,53.688046
+Iran,2009,Entrepreneur,65,32.427908,53.688046
+Iran,2010,Entrepreneur,25,32.427908,53.688046
+Iran,2011,Entrepreneur,11,32.427908,53.688046
+Iran,2012,Entrepreneur,0,32.427908,53.688046
+Iran,2013,Investor,21,32.427908,53.688046
+Iran,2006,Investor,111,32.427908,53.688046
+Iran,2007,Investor,117,32.427908,53.688046
+Iran,2008,Investor,249,32.427908,53.688046
+Iran,2009,Investor,167,32.427908,53.688046
+Iran,2010,Investor,113,32.427908,53.688046
+Iran,2011,Investor,95,32.427908,53.688046
+Iran,2012,Investor,16,32.427908,53.688046
+Iran,2013,Self.Employed,0,32.427908,53.688046
+Iran,2006,Self.Employed,25,32.427908,53.688046
+Iran,2007,Self.Employed,0,32.427908,53.688046
+Iran,2008,Self.Employed,0,32.427908,53.688046
+Iran,2009,Self.Employed,13,32.427908,53.688046
+Iran,2010,Self.Employed,8,32.427908,53.688046
+Iran,2011,Self.Employed,0,32.427908,53.688046
+Iran,2012,Self.Employed,0,32.427908,53.688046
+Iran,2013,Other.Classes,0,32.427908,53.688046
+Iran,2006,Other.Classes,35,32.427908,53.688046
+Iran,2007,Other.Classes,38,32.427908,53.688046
+Iran,2008,Other.Classes,42,32.427908,53.688046
+Iran,2009,Other.Classes,18,32.427908,53.688046
+Iran,2010,Other.Classes,16,32.427908,53.688046
+Iran,2011,Other.Classes,27,32.427908,53.688046
+Iran,2012,Other.Classes,10,32.427908,53.688046
+Iraq,2009,Family,38,33.223191,43.679291
+Iraq,2010,Family,14,33.223191,43.679291
+Iraq,2011,Family,0,33.223191,43.679291
+Iraq,2009,Refugee,423,33.223191,43.679291
+Iraq,2010,Refugee,476,33.223191,43.679291
+Iraq,2011,Refugee,348,33.223191,43.679291
+Iraq,2009,Skilled.Worker,0,33.223191,43.679291
+Iraq,2010,Skilled.Worker,13,33.223191,43.679291
+Iraq,2011,Skilled.Worker,21,33.223191,43.679291
+Iraq,2009,Canadian.Experience,0,33.223191,43.679291
+Iraq,2010,Canadian.Experience,0,33.223191,43.679291
+Iraq,2011,Canadian.Experience,0,33.223191,43.679291
+Iraq,2009,Prov..Terr..Nominee,0,33.223191,43.679291
+Iraq,2010,Prov..Terr..Nominee,0,33.223191,43.679291
+Iraq,2011,Prov..Terr..Nominee,6,33.223191,43.679291
+Iraq,2009,Live.In.Caregiver,0,33.223191,43.679291
+Iraq,2010,Live.In.Caregiver,0,33.223191,43.679291
+Iraq,2011,Live.In.Caregiver,0,33.223191,43.679291
+Iraq,2009,Entrepreneur,0,33.223191,43.679291
+Iraq,2010,Entrepreneur,0,33.223191,43.679291
+Iraq,2011,Entrepreneur,0,33.223191,43.679291
+Iraq,2009,Investor,0,33.223191,43.679291
+Iraq,2010,Investor,0,33.223191,43.679291
+Iraq,2011,Investor,7,33.223191,43.679291
+Iraq,2009,Self.Employed,0,33.223191,43.679291
+Iraq,2010,Self.Employed,0,33.223191,43.679291
+Iraq,2011,Self.Employed,0,33.223191,43.679291
+Iraq,2009,Other.Classes,0,33.223191,43.679291
+Iraq,2010,Other.Classes,0,33.223191,43.679291
+Iraq,2011,Other.Classes,0,33.223191,43.679291
+Ireland,2013,Family,44,53.41291,-8.24389
+Ireland,2012,Family,37,53.41291,-8.24389
+Ireland,2013,Refugee,0,53.41291,-8.24389
+Ireland,2012,Refugee,0,53.41291,-8.24389
+Ireland,2013,Skilled.Worker,42,53.41291,-8.24389
+Ireland,2012,Skilled.Worker,44,53.41291,-8.24389
+Ireland,2013,Canadian.Experience,0,53.41291,-8.24389
+Ireland,2012,Canadian.Experience,9,53.41291,-8.24389
+Ireland,2013,Prov..Terr..Nominee,237,53.41291,-8.24389
+Ireland,2012,Prov..Terr..Nominee,153,53.41291,-8.24389
+Ireland,2013,Live.In.Caregiver,0,53.41291,-8.24389
+Ireland,2012,Live.In.Caregiver,0,53.41291,-8.24389
+Ireland,2013,Entrepreneur,0,53.41291,-8.24389
+Ireland,2012,Entrepreneur,0,53.41291,-8.24389
+Ireland,2013,Investor,0,53.41291,-8.24389
+Ireland,2012,Investor,0,53.41291,-8.24389
+Ireland,2013,Self.Employed,0,53.41291,-8.24389
+Ireland,2012,Self.Employed,0,53.41291,-8.24389
+Ireland,2013,Other.Classes,0,53.41291,-8.24389
+Ireland,2012,Other.Classes,7,53.41291,-8.24389
+Japan,2013,Family,205,36.204824,138.252924
+Japan,2006,Family,304,36.204824,138.252924
+Japan,2007,Family,335,36.204824,138.252924
+Japan,2008,Family,351,36.204824,138.252924
+Japan,2009,Family,273,36.204824,138.252924
+Japan,2010,Family,249,36.204824,138.252924
+Japan,2011,Family,289,36.204824,138.252924
+Japan,2012,Family,245,36.204824,138.252924
+Japan,2013,Refugee,0,36.204824,138.252924
+Japan,2006,Refugee,0,36.204824,138.252924
+Japan,2007,Refugee,0,36.204824,138.252924
+Japan,2008,Refugee,0,36.204824,138.252924
+Japan,2009,Refugee,0,36.204824,138.252924
+Japan,2010,Refugee,0,36.204824,138.252924
+Japan,2011,Refugee,0,36.204824,138.252924
+Japan,2012,Refugee,0,36.204824,138.252924
+Japan,2013,Skilled.Worker,33,36.204824,138.252924
+Japan,2006,Skilled.Worker,135,36.204824,138.252924
+Japan,2007,Skilled.Worker,130,36.204824,138.252924
+Japan,2008,Skilled.Worker,129,36.204824,138.252924
+Japan,2009,Skilled.Worker,95,36.204824,138.252924
+Japan,2010,Skilled.Worker,95,36.204824,138.252924
+Japan,2011,Skilled.Worker,132,36.204824,138.252924
+Japan,2012,Skilled.Worker,108,36.204824,138.252924
+Japan,2013,Canadian.Experience,32,36.204824,138.252924
+Japan,2006,Canadian.Experience,0,36.204824,138.252924
+Japan,2007,Canadian.Experience,0,36.204824,138.252924
+Japan,2008,Canadian.Experience,0,36.204824,138.252924
+Japan,2009,Canadian.Experience,0,36.204824,138.252924
+Japan,2010,Canadian.Experience,0,36.204824,138.252924
+Japan,2011,Canadian.Experience,23,36.204824,138.252924
+Japan,2012,Canadian.Experience,51,36.204824,138.252924
+Japan,2013,Prov..Terr..Nominee,173,36.204824,138.252924
+Japan,2006,Prov..Terr..Nominee,73,36.204824,138.252924
+Japan,2007,Prov..Terr..Nominee,74,36.204824,138.252924
+Japan,2008,Prov..Terr..Nominee,56,36.204824,138.252924
+Japan,2009,Prov..Terr..Nominee,146,36.204824,138.252924
+Japan,2010,Prov..Terr..Nominee,145,36.204824,138.252924
+Japan,2011,Prov..Terr..Nominee,132,36.204824,138.252924
+Japan,2012,Prov..Terr..Nominee,203,36.204824,138.252924
+Japan,2013,Live.In.Caregiver,0,36.204824,138.252924
+Japan,2006,Live.In.Caregiver,0,36.204824,138.252924
+Japan,2007,Live.In.Caregiver,0,36.204824,138.252924
+Japan,2008,Live.In.Caregiver,8,36.204824,138.252924
+Japan,2009,Live.In.Caregiver,0,36.204824,138.252924
+Japan,2010,Live.In.Caregiver,6,36.204824,138.252924
+Japan,2011,Live.In.Caregiver,13,36.204824,138.252924
+Japan,2012,Live.In.Caregiver,0,36.204824,138.252924
+Japan,2013,Entrepreneur,0,36.204824,138.252924
+Japan,2006,Entrepreneur,0,36.204824,138.252924
+Japan,2007,Entrepreneur,6,36.204824,138.252924
+Japan,2008,Entrepreneur,0,36.204824,138.252924
+Japan,2009,Entrepreneur,0,36.204824,138.252924
+Japan,2010,Entrepreneur,0,36.204824,138.252924
+Japan,2011,Entrepreneur,0,36.204824,138.252924
+Japan,2012,Entrepreneur,0,36.204824,138.252924
+Japan,2013,Investor,0,36.204824,138.252924
+Japan,2006,Investor,23,36.204824,138.252924
+Japan,2007,Investor,8,36.204824,138.252924
+Japan,2008,Investor,23,36.204824,138.252924
+Japan,2009,Investor,15,36.204824,138.252924
+Japan,2010,Investor,25,36.204824,138.252924
+Japan,2011,Investor,62,36.204824,138.252924
+Japan,2012,Investor,0,36.204824,138.252924
+Japan,2013,Self.Employed,0,36.204824,138.252924
+Japan,2006,Self.Employed,0,36.204824,138.252924
+Japan,2007,Self.Employed,0,36.204824,138.252924
+Japan,2008,Self.Employed,0,36.204824,138.252924
+Japan,2009,Self.Employed,0,36.204824,138.252924
+Japan,2010,Self.Employed,0,36.204824,138.252924
+Japan,2011,Self.Employed,0,36.204824,138.252924
+Japan,2012,Self.Employed,0,36.204824,138.252924
+Japan,2013,Other.Classes,17,36.204824,138.252924
+Japan,2006,Other.Classes,29,36.204824,138.252924
+Japan,2007,Other.Classes,33,36.204824,138.252924
+Japan,2008,Other.Classes,34,36.204824,138.252924
+Japan,2009,Other.Classes,42,36.204824,138.252924
+Japan,2010,Other.Classes,14,36.204824,138.252924
+Japan,2011,Other.Classes,15,36.204824,138.252924
+Japan,2012,Other.Classes,9,36.204824,138.252924
+Korea,2013,Family,229,35.907757,127.766922
+Korea,2010,Family,257,35.907757,127.766922
+Korea,2011,Family,228,35.907757,127.766922
+Korea,2012,Family,318,35.907757,127.766922
+Korea,2013,Refugee,0,35.907757,127.766922
+Korea,2010,Refugee,0,35.907757,127.766922
+Korea,2011,Refugee,9,35.907757,127.766922
+Korea,2012,Refugee,0,35.907757,127.766922
+Korea,2013,Skilled.Worker,363,35.907757,127.766922
+Korea,2010,Skilled.Worker,971,35.907757,127.766922
+Korea,2011,Skilled.Worker,671,35.907757,127.766922
+Korea,2012,Skilled.Worker,714,35.907757,127.766922
+Korea,2013,Canadian.Experience,80,35.907757,127.766922
+Korea,2010,Canadian.Experience,0,35.907757,127.766922
+Korea,2011,Canadian.Experience,60,35.907757,127.766922
+Korea,2012,Canadian.Experience,131,35.907757,127.766922
+Korea,2013,Prov..Terr..Nominee,807,35.907757,127.766922
+Korea,2010,Prov..Terr..Nominee,412,35.907757,127.766922
+Korea,2011,Prov..Terr..Nominee,441,35.907757,127.766922
+Korea,2012,Prov..Terr..Nominee,639,35.907757,127.766922
+Korea,2013,Live.In.Caregiver,0,35.907757,127.766922
+Korea,2010,Live.In.Caregiver,10,35.907757,127.766922
+Korea,2011,Live.In.Caregiver,5,35.907757,127.766922
+Korea,2012,Live.In.Caregiver,0,35.907757,127.766922
+Korea,2013,Entrepreneur,17,35.907757,127.766922
+Korea,2010,Entrepreneur,20,35.907757,127.766922
+Korea,2011,Entrepreneur,24,35.907757,127.766922
+Korea,2012,Entrepreneur,0,35.907757,127.766922
+Korea,2013,Investor,39,35.907757,127.766922
+Korea,2010,Investor,457,35.907757,127.766922
+Korea,2011,Investor,297,35.907757,127.766922
+Korea,2012,Investor,267,35.907757,127.766922
+Korea,2013,Self.Employed,15,35.907757,127.766922
+Korea,2010,Self.Employed,0,35.907757,127.766922
+Korea,2011,Self.Employed,8,35.907757,127.766922
+Korea,2012,Self.Employed,0,35.907757,127.766922
+Korea,2013,Other.Classes,19,35.907757,127.766922
+Korea,2010,Other.Classes,29,35.907757,127.766922
+Korea,2011,Other.Classes,46,35.907757,127.766922
+Korea,2012,Other.Classes,30,35.907757,127.766922
+Korea,2006,Family,241,35.907757,127.766922
+Korea,2007,Family,292,35.907757,127.766922
+Korea,2008,Family,273,35.907757,127.766922
+Korea,2009,Family,259,35.907757,127.766922
+Korea,2006,Refugee,0,35.907757,127.766922
+Korea,2007,Refugee,18,35.907757,127.766922
+Korea,2008,Refugee,0,35.907757,127.766922
+Korea,2009,Refugee,0,35.907757,127.766922
+Korea,2006,Skilled.Worker,1135,35.907757,127.766922
+Korea,2007,Skilled.Worker,1221,35.907757,127.766922
+Korea,2008,Skilled.Worker,1604,35.907757,127.766922
+Korea,2009,Skilled.Worker,1154,35.907757,127.766922
+Korea,2006,Canadian.Experience,0,35.907757,127.766922
+Korea,2007,Canadian.Experience,0,35.907757,127.766922
+Korea,2008,Canadian.Experience,0,35.907757,127.766922
+Korea,2009,Canadian.Experience,0,35.907757,127.766922
+Korea,2006,Prov..Terr..Nominee,235,35.907757,127.766922
+Korea,2007,Prov..Terr..Nominee,203,35.907757,127.766922
+Korea,2008,Prov..Terr..Nominee,244,35.907757,127.766922
+Korea,2009,Prov..Terr..Nominee,281,35.907757,127.766922
+Korea,2006,Live.In.Caregiver,0,35.907757,127.766922
+Korea,2007,Live.In.Caregiver,0,35.907757,127.766922
+Korea,2008,Live.In.Caregiver,10,35.907757,127.766922
+Korea,2009,Live.In.Caregiver,6,35.907757,127.766922
+Korea,2006,Entrepreneur,163,35.907757,127.766922
+Korea,2007,Entrepreneur,55,35.907757,127.766922
+Korea,2008,Entrepreneur,83,35.907757,127.766922
+Korea,2009,Entrepreneur,14,35.907757,127.766922
+Korea,2006,Investor,463,35.907757,127.766922
+Korea,2007,Investor,523,35.907757,127.766922
+Korea,2008,Investor,608,35.907757,127.766922
+Korea,2009,Investor,320,35.907757,127.766922
+Korea,2006,Self.Employed,38,35.907757,127.766922
+Korea,2007,Self.Employed,13,35.907757,127.766922
+Korea,2008,Self.Employed,12,35.907757,127.766922
+Korea,2009,Self.Employed,0,35.907757,127.766922
+Korea,2006,Other.Classes,44,35.907757,127.766922
+Korea,2007,Other.Classes,62,35.907757,127.766922
+Korea,2008,Other.Classes,66,35.907757,127.766922
+Korea,2009,Other.Classes,88,35.907757,127.766922
+Mexico,2013,Family,192,23.634501,-102.552784
+Mexico,2006,Family,169,23.634501,-102.552784
+Mexico,2007,Family,150,23.634501,-102.552784
+Mexico,2008,Family,168,23.634501,-102.552784
+Mexico,2009,Family,153,23.634501,-102.552784
+Mexico,2010,Family,228,23.634501,-102.552784
+Mexico,2011,Family,211,23.634501,-102.552784
+Mexico,2012,Family,198,23.634501,-102.552784
+Mexico,2013,Refugee,35,23.634501,-102.552784
+Mexico,2006,Refugee,52,23.634501,-102.552784
+Mexico,2007,Refugee,51,23.634501,-102.552784
+Mexico,2008,Refugee,56,23.634501,-102.552784
+Mexico,2009,Refugee,21,23.634501,-102.552784
+Mexico,2010,Refugee,26,23.634501,-102.552784
+Mexico,2011,Refugee,54,23.634501,-102.552784
+Mexico,2012,Refugee,0,23.634501,-102.552784
+Mexico,2013,Skilled.Worker,37,23.634501,-102.552784
+Mexico,2006,Skilled.Worker,116,23.634501,-102.552784
+Mexico,2007,Skilled.Worker,135,23.634501,-102.552784
+Mexico,2008,Skilled.Worker,142,23.634501,-102.552784
+Mexico,2009,Skilled.Worker,136,23.634501,-102.552784
+Mexico,2010,Skilled.Worker,261,23.634501,-102.552784
+Mexico,2011,Skilled.Worker,100,23.634501,-102.552784
+Mexico,2012,Skilled.Worker,139,23.634501,-102.552784
+Mexico,2013,Canadian.Experience,19,23.634501,-102.552784
+Mexico,2006,Canadian.Experience,0,23.634501,-102.552784
+Mexico,2007,Canadian.Experience,0,23.634501,-102.552784
+Mexico,2008,Canadian.Experience,0,23.634501,-102.552784
+Mexico,2009,Canadian.Experience,0,23.634501,-102.552784
+Mexico,2010,Canadian.Experience,0,23.634501,-102.552784
+Mexico,2011,Canadian.Experience,28,23.634501,-102.552784
+Mexico,2012,Canadian.Experience,52,23.634501,-102.552784
+Mexico,2013,Prov..Terr..Nominee,172,23.634501,-102.552784
+Mexico,2006,Prov..Terr..Nominee,11,23.634501,-102.552784
+Mexico,2007,Prov..Terr..Nominee,23,23.634501,-102.552784
+Mexico,2008,Prov..Terr..Nominee,22,23.634501,-102.552784
+Mexico,2009,Prov..Terr..Nominee,65,23.634501,-102.552784
+Mexico,2010,Prov..Terr..Nominee,135,23.634501,-102.552784
+Mexico,2011,Prov..Terr..Nominee,148,23.634501,-102.552784
+Mexico,2012,Prov..Terr..Nominee,188,23.634501,-102.552784
+Mexico,2013,Live.In.Caregiver,9,23.634501,-102.552784
+Mexico,2006,Live.In.Caregiver,0,23.634501,-102.552784
+Mexico,2007,Live.In.Caregiver,7,23.634501,-102.552784
+Mexico,2008,Live.In.Caregiver,5,23.634501,-102.552784
+Mexico,2009,Live.In.Caregiver,7,23.634501,-102.552784
+Mexico,2010,Live.In.Caregiver,12,23.634501,-102.552784
+Mexico,2011,Live.In.Caregiver,0,23.634501,-102.552784
+Mexico,2012,Live.In.Caregiver,0,23.634501,-102.552784
+Mexico,2013,Entrepreneur,0,23.634501,-102.552784
+Mexico,2006,Entrepreneur,12,23.634501,-102.552784
+Mexico,2007,Entrepreneur,7,23.634501,-102.552784
+Mexico,2008,Entrepreneur,5,23.634501,-102.552784
+Mexico,2009,Entrepreneur,0,23.634501,-102.552784
+Mexico,2010,Entrepreneur,0,23.634501,-102.552784
+Mexico,2011,Entrepreneur,0,23.634501,-102.552784
+Mexico,2012,Entrepreneur,10,23.634501,-102.552784
+Mexico,2013,Investor,8,23.634501,-102.552784
+Mexico,2006,Investor,13,23.634501,-102.552784
+Mexico,2007,Investor,5,23.634501,-102.552784
+Mexico,2008,Investor,9,23.634501,-102.552784
+Mexico,2009,Investor,5,23.634501,-102.552784
+Mexico,2010,Investor,14,23.634501,-102.552784
+Mexico,2011,Investor,17,23.634501,-102.552784
+Mexico,2012,Investor,21,23.634501,-102.552784
+Mexico,2013,Self.Employed,0,23.634501,-102.552784
+Mexico,2006,Self.Employed,5,23.634501,-102.552784
+Mexico,2007,Self.Employed,0,23.634501,-102.552784
+Mexico,2008,Self.Employed,0,23.634501,-102.552784
+Mexico,2009,Self.Employed,0,23.634501,-102.552784
+Mexico,2010,Self.Employed,0,23.634501,-102.552784
+Mexico,2011,Self.Employed,0,23.634501,-102.552784
+Mexico,2012,Self.Employed,0,23.634501,-102.552784
+Mexico,2013,Other.Classes,66,23.634501,-102.552784
+Mexico,2006,Other.Classes,38,23.634501,-102.552784
+Mexico,2007,Other.Classes,46,23.634501,-102.552784
+Mexico,2008,Other.Classes,66,23.634501,-102.552784
+Mexico,2009,Other.Classes,88,23.634501,-102.552784
+Mexico,2010,Other.Classes,82,23.634501,-102.552784
+Mexico,2011,Other.Classes,85,23.634501,-102.552784
+Mexico,2012,Other.Classes,82,23.634501,-102.552784
+Other,2013,Family,1984,0,0
+Other,2008,Family,2016,0,0
+Other,2009,Family,1906,0,0
+Other,2010,Family,1952,0,0
+Other,2011,Family,1796,0,0
+Other,2012,Family,1698,0,0
+Other,2013,Refugee,787,0,0
+Other,2008,Refugee,1127,0,0
+Other,2009,Refugee,873,0,0
+Other,2010,Refugee,887,0,0
+Other,2011,Refugee,803,0,0
+Other,2012,Refugee,920,0,0
+Other,2013,Skilled.Worker,1318,0,0
+Other,2008,Skilled.Worker,2935,0,0
+Other,2009,Skilled.Worker,2633,0,0
+Other,2010,Skilled.Worker,3103,0,0
+Other,2011,Skilled.Worker,1950,0,0
+Other,2012,Skilled.Worker,1535,0,0
+Other,2013,Canadian.Experience,184,0,0
+Other,2008,Canadian.Experience,0,0,0
+Other,2009,Canadian.Experience,0,0,0
+Other,2010,Canadian.Experience,0,0,0
+Other,2011,Canadian.Experience,179,0,0
+Other,2012,Canadian.Experience,273,0,0
+Other,2013,Prov..Terr..Nominee,1378,0,0
+Other,2008,Prov..Terr..Nominee,637,0,0
+Other,2009,Prov..Terr..Nominee,801,0,0
+Other,2010,Prov..Terr..Nominee,767,0,0
+Other,2011,Prov..Terr..Nominee,792,0,0
+Other,2012,Prov..Terr..Nominee,1021,0,0
+Other,2013,Live.In.Caregiver,75,0,0
+Other,2008,Live.In.Caregiver,95,0,0
+Other,2009,Live.In.Caregiver,103,0,0
+Other,2010,Live.In.Caregiver,142,0,0
+Other,2011,Live.In.Caregiver,139,0,0
+Other,2012,Live.In.Caregiver,66,0,0
+Other,2013,Entrepreneur,18,0,0
+Other,2008,Entrepreneur,44,0,0
+Other,2009,Entrepreneur,43,0,0
+Other,2010,Entrepreneur,55,0,0
+Other,2011,Entrepreneur,19,0,0
+Other,2012,Entrepreneur,28,0,0
+Other,2013,Investor,73,0,0
+Other,2008,Investor,53,0,0
+Other,2009,Investor,133,0,0
+Other,2010,Investor,176,0,0
+Other,2011,Investor,116,0,0
+Other,2012,Investor,58,0,0
+Other,2013,Self.Employed,23,0,0
+Other,2008,Self.Employed,13,0,0
+Other,2009,Self.Employed,6,0,0
+Other,2010,Self.Employed,10,0,0
+Other,2011,Self.Employed,11,0,0
+Other,2012,Self.Employed,16,0,0
+Other,2013,Other.Classes,212,0,0
+Other,2008,Other.Classes,335,0,0
+Other,2009,Other.Classes,436,0,0
+Other,2010,Other.Classes,341,0,0
+Other,2011,Other.Classes,260,0,0
+Other,2012,Other.Classes,310,0,0
+Other,2006,Family,1877,0,0
+Other,2007,Family,1843,0,0
+Other,2006,Refugee,1181,0,0
+Other,2007,Refugee,997,0,0
+Other,2006,Skilled.Worker,2444,0,0
+Other,2007,Skilled.Worker,2586,0,0
+Other,2006,Canadian.Experience,0,0,0
+Other,2007,Canadian.Experience,0,0,0
+Other,2006,Prov..Terr..Nominee,351,0,0
+Other,2007,Prov..Terr..Nominee,384,0,0
+Other,2006,Live.In.Caregiver,70,0,0
+Other,2007,Live.In.Caregiver,59,0,0
+Other,2006,Entrepreneur,81,0,0
+Other,2007,Entrepreneur,35,0,0
+Other,2006,Investor,118,0,0
+Other,2007,Investor,97,0,0
+Other,2006,Self.Employed,23,0,0
+Other,2007,Self.Employed,18,0,0
+Other,2006,Other.Classes,332,0,0
+Other,2007,Other.Classes,304,0,0
+Pakistan,2013,Family,105,30.375321,69.345116
+Pakistan,2006,Family,202,30.375321,69.345116
+Pakistan,2007,Family,139,30.375321,69.345116
+Pakistan,2008,Family,170,30.375321,69.345116
+Pakistan,2009,Family,124,30.375321,69.345116
+Pakistan,2010,Family,87,30.375321,69.345116
+Pakistan,2011,Family,113,30.375321,69.345116
+Pakistan,2012,Family,138,30.375321,69.345116
+Pakistan,2013,Refugee,41,30.375321,69.345116
+Pakistan,2006,Refugee,69,30.375321,69.345116
+Pakistan,2007,Refugee,59,30.375321,69.345116
+Pakistan,2008,Refugee,22,30.375321,69.345116
+Pakistan,2009,Refugee,33,30.375321,69.345116
+Pakistan,2010,Refugee,22,30.375321,69.345116
+Pakistan,2011,Refugee,47,30.375321,69.345116
+Pakistan,2012,Refugee,39,30.375321,69.345116
+Pakistan,2013,Skilled.Worker,302,30.375321,69.345116
+Pakistan,2006,Skilled.Worker,272,30.375321,69.345116
+Pakistan,2007,Skilled.Worker,189,30.375321,69.345116
+Pakistan,2008,Skilled.Worker,152,30.375321,69.345116
+Pakistan,2009,Skilled.Worker,114,30.375321,69.345116
+Pakistan,2010,Skilled.Worker,130,30.375321,69.345116
+Pakistan,2011,Skilled.Worker,101,30.375321,69.345116
+Pakistan,2012,Skilled.Worker,261,30.375321,69.345116
+Pakistan,2013,Canadian.Experience,0,30.375321,69.345116
+Pakistan,2006,Canadian.Experience,0,30.375321,69.345116
+Pakistan,2007,Canadian.Experience,0,30.375321,69.345116
+Pakistan,2008,Canadian.Experience,0,30.375321,69.345116
+Pakistan,2009,Canadian.Experience,0,30.375321,69.345116
+Pakistan,2010,Canadian.Experience,0,30.375321,69.345116
+Pakistan,2011,Canadian.Experience,0,30.375321,69.345116
+Pakistan,2012,Canadian.Experience,0,30.375321,69.345116
+Pakistan,2013,Prov..Terr..Nominee,14,30.375321,69.345116
+Pakistan,2006,Prov..Terr..Nominee,10,30.375321,69.345116
+Pakistan,2007,Prov..Terr..Nominee,0,30.375321,69.345116
+Pakistan,2008,Prov..Terr..Nominee,8,30.375321,69.345116
+Pakistan,2009,Prov..Terr..Nominee,8,30.375321,69.345116
+Pakistan,2010,Prov..Terr..Nominee,11,30.375321,69.345116
+Pakistan,2011,Prov..Terr..Nominee,0,30.375321,69.345116
+Pakistan,2012,Prov..Terr..Nominee,10,30.375321,69.345116
+Pakistan,2013,Live.In.Caregiver,0,30.375321,69.345116
+Pakistan,2006,Live.In.Caregiver,0,30.375321,69.345116
+Pakistan,2007,Live.In.Caregiver,0,30.375321,69.345116
+Pakistan,2008,Live.In.Caregiver,0,30.375321,69.345116
+Pakistan,2009,Live.In.Caregiver,0,30.375321,69.345116
+Pakistan,2010,Live.In.Caregiver,0,30.375321,69.345116
+Pakistan,2011,Live.In.Caregiver,0,30.375321,69.345116
+Pakistan,2012,Live.In.Caregiver,0,30.375321,69.345116
+Pakistan,2013,Entrepreneur,0,30.375321,69.345116
+Pakistan,2006,Entrepreneur,5,30.375321,69.345116
+Pakistan,2007,Entrepreneur,6,30.375321,69.345116
+Pakistan,2008,Entrepreneur,0,30.375321,69.345116
+Pakistan,2009,Entrepreneur,0,30.375321,69.345116
+Pakistan,2010,Entrepreneur,0,30.375321,69.345116
+Pakistan,2011,Entrepreneur,0,30.375321,69.345116
+Pakistan,2012,Entrepreneur,0,30.375321,69.345116
+Pakistan,2013,Investor,33,30.375321,69.345116
+Pakistan,2006,Investor,0,30.375321,69.345116
+Pakistan,2007,Investor,5,30.375321,69.345116
+Pakistan,2008,Investor,0,30.375321,69.345116
+Pakistan,2009,Investor,5,30.375321,69.345116
+Pakistan,2010,Investor,0,30.375321,69.345116
+Pakistan,2011,Investor,0,30.375321,69.345116
+Pakistan,2012,Investor,0,30.375321,69.345116
+Pakistan,2013,Self.Employed,0,30.375321,69.345116
+Pakistan,2006,Self.Employed,0,30.375321,69.345116
+Pakistan,2007,Self.Employed,0,30.375321,69.345116
+Pakistan,2008,Self.Employed,7,30.375321,69.345116
+Pakistan,2009,Self.Employed,0,30.375321,69.345116
+Pakistan,2010,Self.Employed,0,30.375321,69.345116
+Pakistan,2011,Self.Employed,0,30.375321,69.345116
+Pakistan,2012,Self.Employed,0,30.375321,69.345116
+Pakistan,2013,Other.Classes,0,30.375321,69.345116
+Pakistan,2006,Other.Classes,12,30.375321,69.345116
+Pakistan,2007,Other.Classes,17,30.375321,69.345116
+Pakistan,2008,Other.Classes,18,30.375321,69.345116
+Pakistan,2009,Other.Classes,20,30.375321,69.345116
+Pakistan,2010,Other.Classes,0,30.375321,69.345116
+Pakistan,2011,Other.Classes,12,30.375321,69.345116
+Pakistan,2012,Other.Classes,0,30.375321,69.345116
+Philippines,2013,Family,907,12.879721,121.774017
+Philippines,2006,Family,1021,12.879721,121.774017
+Philippines,2007,Family,937,12.879721,121.774017
+Philippines,2008,Family,813,12.879721,121.774017
+Philippines,2009,Family,842,12.879721,121.774017
+Philippines,2010,Family,916,12.879721,121.774017
+Philippines,2011,Family,874,12.879721,121.774017
+Philippines,2012,Family,1049,12.879721,121.774017
+Philippines,2013,Refugee,14,12.879721,121.774017
+Philippines,2006,Refugee,8,12.879721,121.774017
+Philippines,2007,Refugee,0,12.879721,121.774017
+Philippines,2008,Refugee,13,12.879721,121.774017
+Philippines,2009,Refugee,6,12.879721,121.774017
+Philippines,2010,Refugee,0,12.879721,121.774017
+Philippines,2011,Refugee,0,12.879721,121.774017
+Philippines,2012,Refugee,8,12.879721,121.774017
+Philippines,2013,Skilled.Worker,636,12.879721,121.774017
+Philippines,2006,Skilled.Worker,1139,12.879721,121.774017
+Philippines,2007,Skilled.Worker,1585,12.879721,121.774017
+Philippines,2008,Skilled.Worker,1800,12.879721,121.774017
+Philippines,2009,Skilled.Worker,1064,12.879721,121.774017
+Philippines,2010,Skilled.Worker,2333,12.879721,121.774017
+Philippines,2011,Skilled.Worker,1482,12.879721,121.774017
+Philippines,2012,Skilled.Worker,1344,12.879721,121.774017
+Philippines,2013,Canadian.Experience,27,12.879721,121.774017
+Philippines,2006,Canadian.Experience,0,12.879721,121.774017
+Philippines,2007,Canadian.Experience,0,12.879721,121.774017
+Philippines,2008,Canadian.Experience,0,12.879721,121.774017
+Philippines,2009,Canadian.Experience,0,12.879721,121.774017
+Philippines,2010,Canadian.Experience,0,12.879721,121.774017
+Philippines,2011,Canadian.Experience,27,12.879721,121.774017
+Philippines,2012,Canadian.Experience,59,12.879721,121.774017
+Philippines,2013,Prov..Terr..Nominee,804,12.879721,121.774017
+Philippines,2006,Prov..Terr..Nominee,47,12.879721,121.774017
+Philippines,2007,Prov..Terr..Nominee,95,12.879721,121.774017
+Philippines,2008,Prov..Terr..Nominee,174,12.879721,121.774017
+Philippines,2009,Prov..Terr..Nominee,323,12.879721,121.774017
+Philippines,2010,Prov..Terr..Nominee,878,12.879721,121.774017
+Philippines,2011,Prov..Terr..Nominee,842,12.879721,121.774017
+Philippines,2012,Prov..Terr..Nominee,895,12.879721,121.774017
+Philippines,2013,Live.In.Caregiver,1230,12.879721,121.774017
+Philippines,2006,Live.In.Caregiver,1387,12.879721,121.774017
+Philippines,2007,Live.In.Caregiver,1259,12.879721,121.774017
+Philippines,2008,Live.In.Caregiver,2057,12.879721,121.774017
+Philippines,2009,Live.In.Caregiver,2267,12.879721,121.774017
+Philippines,2010,Live.In.Caregiver,2460,12.879721,121.774017
+Philippines,2011,Live.In.Caregiver,2120,12.879721,121.774017
+Philippines,2012,Live.In.Caregiver,1625,12.879721,121.774017
+Philippines,2013,Entrepreneur,5,12.879721,121.774017
+Philippines,2006,Entrepreneur,6,12.879721,121.774017
+Philippines,2007,Entrepreneur,0,12.879721,121.774017
+Philippines,2008,Entrepreneur,8,12.879721,121.774017
+Philippines,2009,Entrepreneur,0,12.879721,121.774017
+Philippines,2010,Entrepreneur,0,12.879721,121.774017
+Philippines,2011,Entrepreneur,11,12.879721,121.774017
+Philippines,2012,Entrepreneur,0,12.879721,121.774017
+Philippines,2013,Investor,38,12.879721,121.774017
+Philippines,2006,Investor,72,12.879721,121.774017
+Philippines,2007,Investor,19,12.879721,121.774017
+Philippines,2008,Investor,35,12.879721,121.774017
+Philippines,2009,Investor,64,12.879721,121.774017
+Philippines,2010,Investor,40,12.879721,121.774017
+Philippines,2011,Investor,57,12.879721,121.774017
+Philippines,2012,Investor,16,12.879721,121.774017
+Philippines,2013,Self.Employed,0,12.879721,121.774017
+Philippines,2006,Self.Employed,0,12.879721,121.774017
+Philippines,2007,Self.Employed,0,12.879721,121.774017
+Philippines,2008,Self.Employed,0,12.879721,121.774017
+Philippines,2009,Self.Employed,0,12.879721,121.774017
+Philippines,2010,Self.Employed,0,12.879721,121.774017
+Philippines,2011,Self.Employed,0,12.879721,121.774017
+Philippines,2012,Self.Employed,0,12.879721,121.774017
+Philippines,2013,Other.Classes,160,12.879721,121.774017
+Philippines,2006,Other.Classes,54,12.879721,121.774017
+Philippines,2007,Other.Classes,50,12.879721,121.774017
+Philippines,2008,Other.Classes,96,12.879721,121.774017
+Philippines,2009,Other.Classes,57,12.879721,121.774017
+Philippines,2010,Other.Classes,31,12.879721,121.774017
+Philippines,2011,Other.Classes,42,12.879721,121.774017
+Philippines,2012,Other.Classes,34,12.879721,121.774017
+Romania,2006,Family,65,45.943161,24.96676
+Romania,2007,Family,53,45.943161,24.96676
+Romania,2008,Family,97,45.943161,24.96676
+Romania,2006,Refugee,0,45.943161,24.96676
+Romania,2007,Refugee,0,45.943161,24.96676
+Romania,2008,Refugee,0,45.943161,24.96676
+Romania,2006,Skilled.Worker,336,45.943161,24.96676
+Romania,2007,Skilled.Worker,296,45.943161,24.96676
+Romania,2008,Skilled.Worker,195,45.943161,24.96676
+Romania,2006,Canadian.Experience,0,45.943161,24.96676
+Romania,2007,Canadian.Experience,0,45.943161,24.96676
+Romania,2008,Canadian.Experience,0,45.943161,24.96676
+Romania,2006,Prov..Terr..Nominee,12,45.943161,24.96676
+Romania,2007,Prov..Terr..Nominee,12,45.943161,24.96676
+Romania,2008,Prov..Terr..Nominee,13,45.943161,24.96676
+Romania,2006,Live.In.Caregiver,0,45.943161,24.96676
+Romania,2007,Live.In.Caregiver,0,45.943161,24.96676
+Romania,2008,Live.In.Caregiver,0,45.943161,24.96676
+Romania,2006,Entrepreneur,0,45.943161,24.96676
+Romania,2007,Entrepreneur,0,45.943161,24.96676
+Romania,2008,Entrepreneur,0,45.943161,24.96676
+Romania,2006,Investor,0,45.943161,24.96676
+Romania,2007,Investor,0,45.943161,24.96676
+Romania,2008,Investor,0,45.943161,24.96676
+Romania,2006,Self.Employed,0,45.943161,24.96676
+Romania,2007,Self.Employed,0,45.943161,24.96676
+Romania,2008,Self.Employed,0,45.943161,24.96676
+Romania,2006,Other.Classes,0,45.943161,24.96676
+Romania,2007,Other.Classes,6,45.943161,24.96676
+Romania,2008,Other.Classes,5,45.943161,24.96676
+Russia,2013,Family,159,61.52401,105.318756
+Russia,2006,Family,98,61.52401,105.318756
+Russia,2007,Family,120,61.52401,105.318756
+Russia,2008,Family,106,61.52401,105.318756
+Russia,2009,Family,118,61.52401,105.318756
+Russia,2010,Family,82,61.52401,105.318756
+Russia,2011,Family,80,61.52401,105.318756
+Russia,2012,Family,100,61.52401,105.318756
+Russia,2013,Refugee,6,61.52401,105.318756
+Russia,2006,Refugee,20,61.52401,105.318756
+Russia,2007,Refugee,19,61.52401,105.318756
+Russia,2008,Refugee,7,61.52401,105.318756
+Russia,2009,Refugee,5,61.52401,105.318756
+Russia,2010,Refugee,7,61.52401,105.318756
+Russia,2011,Refugee,11,61.52401,105.318756
+Russia,2012,Refugee,10,61.52401,105.318756
+Russia,2013,Skilled.Worker,138,61.52401,105.318756
+Russia,2006,Skilled.Worker,318,61.52401,105.318756
+Russia,2007,Skilled.Worker,248,61.52401,105.318756
+Russia,2008,Skilled.Worker,189,61.52401,105.318756
+Russia,2009,Skilled.Worker,307,61.52401,105.318756
+Russia,2010,Skilled.Worker,212,61.52401,105.318756
+Russia,2011,Skilled.Worker,137,61.52401,105.318756
+Russia,2012,Skilled.Worker,87,61.52401,105.318756
+Russia,2013,Canadian.Experience,11,61.52401,105.318756
+Russia,2006,Canadian.Experience,0,61.52401,105.318756
+Russia,2007,Canadian.Experience,0,61.52401,105.318756
+Russia,2008,Canadian.Experience,0,61.52401,105.318756
+Russia,2009,Canadian.Experience,0,61.52401,105.318756
+Russia,2010,Canadian.Experience,0,61.52401,105.318756
+Russia,2011,Canadian.Experience,0,61.52401,105.318756
+Russia,2012,Canadian.Experience,9,61.52401,105.318756
+Russia,2013,Prov..Terr..Nominee,49,61.52401,105.318756
+Russia,2006,Prov..Terr..Nominee,7,61.52401,105.318756
+Russia,2007,Prov..Terr..Nominee,9,61.52401,105.318756
+Russia,2008,Prov..Terr..Nominee,34,61.52401,105.318756
+Russia,2009,Prov..Terr..Nominee,44,61.52401,105.318756
+Russia,2010,Prov..Terr..Nominee,44,61.52401,105.318756
+Russia,2011,Prov..Terr..Nominee,22,61.52401,105.318756
+Russia,2012,Prov..Terr..Nominee,36,61.52401,105.318756
+Russia,2013,Live.In.Caregiver,5,61.52401,105.318756
+Russia,2006,Live.In.Caregiver,0,61.52401,105.318756
+Russia,2007,Live.In.Caregiver,0,61.52401,105.318756
+Russia,2008,Live.In.Caregiver,6,61.52401,105.318756
+Russia,2009,Live.In.Caregiver,7,61.52401,105.318756
+Russia,2010,Live.In.Caregiver,10,61.52401,105.318756
+Russia,2011,Live.In.Caregiver,6,61.52401,105.318756
+Russia,2012,Live.In.Caregiver,0,61.52401,105.318756
+Russia,2013,Entrepreneur,0,61.52401,105.318756
+Russia,2006,Entrepreneur,0,61.52401,105.318756
+Russia,2007,Entrepreneur,0,61.52401,105.318756
+Russia,2008,Entrepreneur,0,61.52401,105.318756
+Russia,2009,Entrepreneur,0,61.52401,105.318756
+Russia,2010,Entrepreneur,0,61.52401,105.318756
+Russia,2011,Entrepreneur,0,61.52401,105.318756
+Russia,2012,Entrepreneur,0,61.52401,105.318756
+Russia,2013,Investor,0,61.52401,105.318756
+Russia,2006,Investor,0,61.52401,105.318756
+Russia,2007,Investor,0,61.52401,105.318756
+Russia,2008,Investor,0,61.52401,105.318756
+Russia,2009,Investor,14,61.52401,105.318756
+Russia,2010,Investor,9,61.52401,105.318756
+Russia,2011,Investor,0,61.52401,105.318756
+Russia,2012,Investor,8,61.52401,105.318756
+Russia,2013,Self.Employed,0,61.52401,105.318756
+Russia,2006,Self.Employed,0,61.52401,105.318756
+Russia,2007,Self.Employed,0,61.52401,105.318756
+Russia,2008,Self.Employed,0,61.52401,105.318756
+Russia,2009,Self.Employed,0,61.52401,105.318756
+Russia,2010,Self.Employed,0,61.52401,105.318756
+Russia,2011,Self.Employed,0,61.52401,105.318756
+Russia,2012,Self.Employed,0,61.52401,105.318756
+Russia,2013,Other.Classes,0,61.52401,105.318756
+Russia,2006,Other.Classes,15,61.52401,105.318756
+Russia,2007,Other.Classes,12,61.52401,105.318756
+Russia,2008,Other.Classes,23,61.52401,105.318756
+Russia,2009,Other.Classes,13,61.52401,105.318756
+Russia,2010,Other.Classes,17,61.52401,105.318756
+Russia,2011,Other.Classes,13,61.52401,105.318756
+Russia,2012,Other.Classes,0,61.52401,105.318756
+Singapore,2007,Family,33,1.352083,103.819836
+Singapore,2008,Family,37,1.352083,103.819836
+Singapore,2010,Family,29,1.352083,103.819836
+Singapore,2007,Refugee,0,1.352083,103.819836
+Singapore,2008,Refugee,0,1.352083,103.819836
+Singapore,2010,Refugee,0,1.352083,103.819836
+Singapore,2007,Skilled.Worker,440,1.352083,103.819836
+Singapore,2008,Skilled.Worker,501,1.352083,103.819836
+Singapore,2010,Skilled.Worker,563,1.352083,103.819836
+Singapore,2007,Canadian.Experience,0,1.352083,103.819836
+Singapore,2008,Canadian.Experience,0,1.352083,103.819836
+Singapore,2010,Canadian.Experience,0,1.352083,103.819836
+Singapore,2007,Prov..Terr..Nominee,18,1.352083,103.819836
+Singapore,2008,Prov..Terr..Nominee,24,1.352083,103.819836
+Singapore,2010,Prov..Terr..Nominee,16,1.352083,103.819836
+Singapore,2007,Live.In.Caregiver,7,1.352083,103.819836
+Singapore,2008,Live.In.Caregiver,13,1.352083,103.819836
+Singapore,2010,Live.In.Caregiver,17,1.352083,103.819836
+Singapore,2007,Entrepreneur,0,1.352083,103.819836
+Singapore,2008,Entrepreneur,0,1.352083,103.819836
+Singapore,2010,Entrepreneur,0,1.352083,103.819836
+Singapore,2007,Investor,9,1.352083,103.819836
+Singapore,2008,Investor,6,1.352083,103.819836
+Singapore,2010,Investor,0,1.352083,103.819836
+Singapore,2007,Self.Employed,0,1.352083,103.819836
+Singapore,2008,Self.Employed,0,1.352083,103.819836
+Singapore,2010,Self.Employed,0,1.352083,103.819836
+Singapore,2007,Other.Classes,0,1.352083,103.819836
+Singapore,2008,Other.Classes,6,1.352083,103.819836
+Singapore,2010,Other.Classes,0,1.352083,103.819836
+South Africa,2013,Family,103,-30.559482,22.937506
+South Africa,2006,Family,59,-30.559482,22.937506
+South Africa,2008,Family,66,-30.559482,22.937506
+South Africa,2009,Family,62,-30.559482,22.937506
+South Africa,2010,Family,59,-30.559482,22.937506
+South Africa,2011,Family,50,-30.559482,22.937506
+South Africa,2012,Family,32,-30.559482,22.937506
+South Africa,2013,Refugee,0,-30.559482,22.937506
+South Africa,2006,Refugee,8,-30.559482,22.937506
+South Africa,2008,Refugee,6,-30.559482,22.937506
+South Africa,2009,Refugee,0,-30.559482,22.937506
+South Africa,2010,Refugee,0,-30.559482,22.937506
+South Africa,2011,Refugee,0,-30.559482,22.937506
+South Africa,2012,Refugee,0,-30.559482,22.937506
+South Africa,2013,Skilled.Worker,123,-30.559482,22.937506
+South Africa,2006,Skilled.Worker,130,-30.559482,22.937506
+South Africa,2008,Skilled.Worker,74,-30.559482,22.937506
+South Africa,2009,Skilled.Worker,99,-30.559482,22.937506
+South Africa,2010,Skilled.Worker,138,-30.559482,22.937506
+South Africa,2011,Skilled.Worker,78,-30.559482,22.937506
+South Africa,2012,Skilled.Worker,165,-30.559482,22.937506
+South Africa,2013,Canadian.Experience,33,-30.559482,22.937506
+South Africa,2006,Canadian.Experience,0,-30.559482,22.937506
+South Africa,2008,Canadian.Experience,0,-30.559482,22.937506
+South Africa,2009,Canadian.Experience,0,-30.559482,22.937506
+South Africa,2010,Canadian.Experience,0,-30.559482,22.937506
+South Africa,2011,Canadian.Experience,9,-30.559482,22.937506
+South Africa,2012,Canadian.Experience,8,-30.559482,22.937506
+South Africa,2013,Prov..Terr..Nominee,161,-30.559482,22.937506
+South Africa,2006,Prov..Terr..Nominee,140,-30.559482,22.937506
+South Africa,2008,Prov..Terr..Nominee,105,-30.559482,22.937506
+South Africa,2009,Prov..Terr..Nominee,146,-30.559482,22.937506
+South Africa,2010,Prov..Terr..Nominee,129,-30.559482,22.937506
+South Africa,2011,Prov..Terr..Nominee,99,-30.559482,22.937506
+South Africa,2012,Prov..Terr..Nominee,138,-30.559482,22.937506
+South Africa,2013,Live.In.Caregiver,0,-30.559482,22.937506
+South Africa,2006,Live.In.Caregiver,0,-30.559482,22.937506
+South Africa,2008,Live.In.Caregiver,0,-30.559482,22.937506
+South Africa,2009,Live.In.Caregiver,0,-30.559482,22.937506
+South Africa,2010,Live.In.Caregiver,0,-30.559482,22.937506
+South Africa,2011,Live.In.Caregiver,0,-30.559482,22.937506
+South Africa,2012,Live.In.Caregiver,0,-30.559482,22.937506
+South Africa,2013,Entrepreneur,0,-30.559482,22.937506
+South Africa,2006,Entrepreneur,0,-30.559482,22.937506
+South Africa,2008,Entrepreneur,12,-30.559482,22.937506
+South Africa,2009,Entrepreneur,0,-30.559482,22.937506
+South Africa,2010,Entrepreneur,0,-30.559482,22.937506
+South Africa,2011,Entrepreneur,0,-30.559482,22.937506
+South Africa,2012,Entrepreneur,0,-30.559482,22.937506
+South Africa,2013,Investor,0,-30.559482,22.937506
+South Africa,2006,Investor,0,-30.559482,22.937506
+South Africa,2008,Investor,11,-30.559482,22.937506
+South Africa,2009,Investor,0,-30.559482,22.937506
+South Africa,2010,Investor,8,-30.559482,22.937506
+South Africa,2011,Investor,0,-30.559482,22.937506
+South Africa,2012,Investor,0,-30.559482,22.937506
+South Africa,2013,Self.Employed,0,-30.559482,22.937506
+South Africa,2006,Self.Employed,0,-30.559482,22.937506
+South Africa,2008,Self.Employed,0,-30.559482,22.937506
+South Africa,2009,Self.Employed,0,-30.559482,22.937506
+South Africa,2010,Self.Employed,0,-30.559482,22.937506
+South Africa,2011,Self.Employed,0,-30.559482,22.937506
+South Africa,2012,Self.Employed,0,-30.559482,22.937506
+South Africa,2013,Other.Classes,5,-30.559482,22.937506
+South Africa,2006,Other.Classes,6,-30.559482,22.937506
+South Africa,2008,Other.Classes,7,-30.559482,22.937506
+South Africa,2009,Other.Classes,16,-30.559482,22.937506
+South Africa,2010,Other.Classes,0,-30.559482,22.937506
+South Africa,2011,Other.Classes,0,-30.559482,22.937506
+South Africa,2012,Other.Classes,0,-30.559482,22.937506
+South Africa,2007,Family,58,-30.559482,22.937506
+South Africa,2007,Refugee,6,-30.559482,22.937506
+South Africa,2007,Skilled.Worker,148,-30.559482,22.937506
+South Africa,2007,Canadian.Experience,0,-30.559482,22.937506
+South Africa,2007,Prov..Terr..Nominee,112,-30.559482,22.937506
+South Africa,2007,Live.In.Caregiver,0,-30.559482,22.937506
+South Africa,2007,Entrepreneur,13,-30.559482,22.937506
+South Africa,2007,Investor,0,-30.559482,22.937506
+South Africa,2007,Self.Employed,0,-30.559482,22.937506
+South Africa,2007,Other.Classes,0,-30.559482,22.937506
+Syria,2013,Family,15,34.802075,38.996815
+Syria,2011,Family,0,34.802075,38.996815
+Syria,2013,Refugee,454,34.802075,38.996815
+Syria,2011,Refugee,183,34.802075,38.996815
+Syria,2013,Skilled.Worker,0,34.802075,38.996815
+Syria,2011,Skilled.Worker,11,34.802075,38.996815
+Syria,2013,Canadian.Experience,0,34.802075,38.996815
+Syria,2011,Canadian.Experience,0,34.802075,38.996815
+Syria,2013,Prov..Terr..Nominee,0,34.802075,38.996815
+Syria,2011,Prov..Terr..Nominee,0,34.802075,38.996815
+Syria,2013,Live.In.Caregiver,0,34.802075,38.996815
+Syria,2011,Live.In.Caregiver,0,34.802075,38.996815
+Syria,2013,Entrepreneur,0,34.802075,38.996815
+Syria,2011,Entrepreneur,0,34.802075,38.996815
+Syria,2013,Investor,0,34.802075,38.996815
+Syria,2011,Investor,0,34.802075,38.996815
+Syria,2013,Self.Employed,0,34.802075,38.996815
+Syria,2011,Self.Employed,0,34.802075,38.996815
+Syria,2013,Other.Classes,0,34.802075,38.996815
+Syria,2011,Other.Classes,0,34.802075,38.996815
+Taiwan,2013,Family,186,23.69781,120.960515
+Taiwan,2006,Family,202,23.69781,120.960515
+Taiwan,2007,Family,204,23.69781,120.960515
+Taiwan,2008,Family,238,23.69781,120.960515
+Taiwan,2009,Family,208,23.69781,120.960515
+Taiwan,2010,Family,135,23.69781,120.960515
+Taiwan,2011,Family,129,23.69781,120.960515
+Taiwan,2012,Family,143,23.69781,120.960515
+Taiwan,2013,Refugee,0,23.69781,120.960515
+Taiwan,2006,Refugee,0,23.69781,120.960515
+Taiwan,2007,Refugee,0,23.69781,120.960515
+Taiwan,2008,Refugee,0,23.69781,120.960515
+Taiwan,2009,Refugee,0,23.69781,120.960515
+Taiwan,2010,Refugee,0,23.69781,120.960515
+Taiwan,2011,Refugee,0,23.69781,120.960515
+Taiwan,2012,Refugee,0,23.69781,120.960515
+Taiwan,2013,Skilled.Worker,58,23.69781,120.960515
+Taiwan,2006,Skilled.Worker,930,23.69781,120.960515
+Taiwan,2007,Skilled.Worker,801,23.69781,120.960515
+Taiwan,2008,Skilled.Worker,715,23.69781,120.960515
+Taiwan,2009,Skilled.Worker,548,23.69781,120.960515
+Taiwan,2010,Skilled.Worker,824,23.69781,120.960515
+Taiwan,2011,Skilled.Worker,268,23.69781,120.960515
+Taiwan,2012,Skilled.Worker,295,23.69781,120.960515
+Taiwan,2013,Canadian.Experience,0,23.69781,120.960515
+Taiwan,2006,Canadian.Experience,0,23.69781,120.960515
+Taiwan,2007,Canadian.Experience,0,23.69781,120.960515
+Taiwan,2008,Canadian.Experience,0,23.69781,120.960515
+Taiwan,2009,Canadian.Experience,0,23.69781,120.960515
+Taiwan,2010,Canadian.Experience,0,23.69781,120.960515
+Taiwan,2011,Canadian.Experience,14,23.69781,120.960515
+Taiwan,2012,Canadian.Experience,28,23.69781,120.960515
+Taiwan,2013,Prov..Terr..Nominee,54,23.69781,120.960515
+Taiwan,2006,Prov..Terr..Nominee,53,23.69781,120.960515
+Taiwan,2007,Prov..Terr..Nominee,59,23.69781,120.960515
+Taiwan,2008,Prov..Terr..Nominee,49,23.69781,120.960515
+Taiwan,2009,Prov..Terr..Nominee,41,23.69781,120.960515
+Taiwan,2010,Prov..Terr..Nominee,28,23.69781,120.960515
+Taiwan,2011,Prov..Terr..Nominee,42,23.69781,120.960515
+Taiwan,2012,Prov..Terr..Nominee,43,23.69781,120.960515
+Taiwan,2013,Live.In.Caregiver,25,23.69781,120.960515
+Taiwan,2006,Live.In.Caregiver,6,23.69781,120.960515
+Taiwan,2007,Live.In.Caregiver,0,23.69781,120.960515
+Taiwan,2008,Live.In.Caregiver,9,23.69781,120.960515
+Taiwan,2009,Live.In.Caregiver,22,23.69781,120.960515
+Taiwan,2010,Live.In.Caregiver,33,23.69781,120.960515
+Taiwan,2011,Live.In.Caregiver,37,23.69781,120.960515
+Taiwan,2012,Live.In.Caregiver,18,23.69781,120.960515
+Taiwan,2013,Entrepreneur,0,23.69781,120.960515
+Taiwan,2006,Entrepreneur,65,23.69781,120.960515
+Taiwan,2007,Entrepreneur,36,23.69781,120.960515
+Taiwan,2008,Entrepreneur,21,23.69781,120.960515
+Taiwan,2009,Entrepreneur,50,23.69781,120.960515
+Taiwan,2010,Entrepreneur,20,23.69781,120.960515
+Taiwan,2011,Entrepreneur,0,23.69781,120.960515
+Taiwan,2012,Entrepreneur,0,23.69781,120.960515
+Taiwan,2013,Investor,21,23.69781,120.960515
+Taiwan,2006,Investor,572,23.69781,120.960515
+Taiwan,2007,Investor,665,23.69781,120.960515
+Taiwan,2008,Investor,967,23.69781,120.960515
+Taiwan,2009,Investor,689,23.69781,120.960515
+Taiwan,2010,Investor,764,23.69781,120.960515
+Taiwan,2011,Investor,633,23.69781,120.960515
+Taiwan,2012,Investor,55,23.69781,120.960515
+Taiwan,2013,Self.Employed,0,23.69781,120.960515
+Taiwan,2006,Self.Employed,71,23.69781,120.960515
+Taiwan,2007,Self.Employed,76,23.69781,120.960515
+Taiwan,2008,Self.Employed,53,23.69781,120.960515
+Taiwan,2009,Self.Employed,44,23.69781,120.960515
+Taiwan,2010,Self.Employed,24,23.69781,120.960515
+Taiwan,2011,Self.Employed,0,23.69781,120.960515
+Taiwan,2012,Self.Employed,0,23.69781,120.960515
+Taiwan,2013,Other.Classes,29,23.69781,120.960515
+Taiwan,2006,Other.Classes,21,23.69781,120.960515
+Taiwan,2007,Other.Classes,28,23.69781,120.960515
+Taiwan,2008,Other.Classes,33,23.69781,120.960515
+Taiwan,2009,Other.Classes,30,23.69781,120.960515
+Taiwan,2010,Other.Classes,14,23.69781,120.960515
+Taiwan,2011,Other.Classes,26,23.69781,120.960515
+Taiwan,2012,Other.Classes,8,23.69781,120.960515
+Thailand,2006,Family,99,15.870032,100.992541
+Thailand,2007,Family,86,15.870032,100.992541
+Thailand,2008,Family,100,15.870032,100.992541
+Thailand,2006,Refugee,120,15.870032,100.992541
+Thailand,2007,Refugee,314,15.870032,100.992541
+Thailand,2008,Refugee,78,15.870032,100.992541
+Thailand,2006,Skilled.Worker,94,15.870032,100.992541
+Thailand,2007,Skilled.Worker,80,15.870032,100.992541
+Thailand,2008,Skilled.Worker,72,15.870032,100.992541
+Thailand,2006,Canadian.Experience,0,15.870032,100.992541
+Thailand,2007,Canadian.Experience,0,15.870032,100.992541
+Thailand,2008,Canadian.Experience,0,15.870032,100.992541
+Thailand,2006,Prov..Terr..Nominee,0,15.870032,100.992541
+Thailand,2007,Prov..Terr..Nominee,0,15.870032,100.992541
+Thailand,2008,Prov..Terr..Nominee,8,15.870032,100.992541
+Thailand,2006,Live.In.Caregiver,0,15.870032,100.992541
+Thailand,2007,Live.In.Caregiver,0,15.870032,100.992541
+Thailand,2008,Live.In.Caregiver,0,15.870032,100.992541
+Thailand,2006,Entrepreneur,5,15.870032,100.992541
+Thailand,2007,Entrepreneur,0,15.870032,100.992541
+Thailand,2008,Entrepreneur,0,15.870032,100.992541
+Thailand,2006,Investor,0,15.870032,100.992541
+Thailand,2007,Investor,9,15.870032,100.992541
+Thailand,2008,Investor,0,15.870032,100.992541
+Thailand,2006,Self.Employed,0,15.870032,100.992541
+Thailand,2007,Self.Employed,0,15.870032,100.992541
+Thailand,2008,Self.Employed,0,15.870032,100.992541
+Thailand,2006,Other.Classes,6,15.870032,100.992541
+Thailand,2007,Other.Classes,14,15.870032,100.992541
+Thailand,2008,Other.Classes,13,15.870032,100.992541
+Turkey,2013,Family,22,38.963745,35.243322
+Turkey,2009,Family,39,38.963745,35.243322
+Turkey,2012,Family,26,38.963745,35.243322
+Turkey,2013,Refugee,287,38.963745,35.243322
+Turkey,2009,Refugee,74,38.963745,35.243322
+Turkey,2012,Refugee,196,38.963745,35.243322
+Turkey,2013,Skilled.Worker,0,38.963745,35.243322
+Turkey,2009,Skilled.Worker,89,38.963745,35.243322
+Turkey,2012,Skilled.Worker,43,38.963745,35.243322
+Turkey,2013,Canadian.Experience,0,38.963745,35.243322
+Turkey,2009,Canadian.Experience,0,38.963745,35.243322
+Turkey,2012,Canadian.Experience,11,38.963745,35.243322
+Turkey,2013,Prov..Terr..Nominee,27,38.963745,35.243322
+Turkey,2009,Prov..Terr..Nominee,51,38.963745,35.243322
+Turkey,2012,Prov..Terr..Nominee,25,38.963745,35.243322
+Turkey,2013,Live.In.Caregiver,0,38.963745,35.243322
+Turkey,2009,Live.In.Caregiver,0,38.963745,35.243322
+Turkey,2012,Live.In.Caregiver,0,38.963745,35.243322
+Turkey,2013,Entrepreneur,0,38.963745,35.243322
+Turkey,2009,Entrepreneur,0,38.963745,35.243322
+Turkey,2012,Entrepreneur,0,38.963745,35.243322
+Turkey,2013,Investor,11,38.963745,35.243322
+Turkey,2009,Investor,0,38.963745,35.243322
+Turkey,2012,Investor,27,38.963745,35.243322
+Turkey,2013,Self.Employed,0,38.963745,35.243322
+Turkey,2009,Self.Employed,0,38.963745,35.243322
+Turkey,2012,Self.Employed,0,38.963745,35.243322
+Turkey,2013,Other.Classes,0,38.963745,35.243322
+Turkey,2009,Other.Classes,14,38.963745,35.243322
+Turkey,2012,Other.Classes,12,38.963745,35.243322
+Unite States,2006,Family,1056,37.09024,-95.712891
+Unite States,2007,Family,927,37.09024,-95.712891
+Unite States,2008,Family,1042,37.09024,-95.712891
+Unite States,2009,Family,972,37.09024,-95.712891
+Unite States,2006,Refugee,37,37.09024,-95.712891
+Unite States,2007,Refugee,28,37.09024,-95.712891
+Unite States,2008,Refugee,5,37.09024,-95.712891
+Unite States,2009,Refugee,0,37.09024,-95.712891
+Unite States,2006,Skilled.Worker,910,37.09024,-95.712891
+Unite States,2007,Skilled.Worker,1074,37.09024,-95.712891
+Unite States,2008,Skilled.Worker,954,37.09024,-95.712891
+Unite States,2009,Skilled.Worker,438,37.09024,-95.712891
+Unite States,2006,Canadian.Experience,0,37.09024,-95.712891
+Unite States,2007,Canadian.Experience,0,37.09024,-95.712891
+Unite States,2008,Canadian.Experience,0,37.09024,-95.712891
+Unite States,2009,Canadian.Experience,0,37.09024,-95.712891
+Unite States,2006,Prov..Terr..Nominee,226,37.09024,-95.712891
+Unite States,2007,Prov..Terr..Nominee,335,37.09024,-95.712891
+Unite States,2008,Prov..Terr..Nominee,387,37.09024,-95.712891
+Unite States,2009,Prov..Terr..Nominee,344,37.09024,-95.712891
+Unite States,2006,Live.In.Caregiver,0,37.09024,-95.712891
+Unite States,2007,Live.In.Caregiver,0,37.09024,-95.712891
+Unite States,2008,Live.In.Caregiver,0,37.09024,-95.712891
+Unite States,2009,Live.In.Caregiver,0,37.09024,-95.712891
+Unite States,2006,Entrepreneur,7,37.09024,-95.712891
+Unite States,2007,Entrepreneur,24,37.09024,-95.712891
+Unite States,2008,Entrepreneur,9,37.09024,-95.712891
+Unite States,2009,Entrepreneur,11,37.09024,-95.712891
+Unite States,2006,Investor,24,37.09024,-95.712891
+Unite States,2007,Investor,30,37.09024,-95.712891
+Unite States,2008,Investor,30,37.09024,-95.712891
+Unite States,2009,Investor,14,37.09024,-95.712891
+Unite States,2006,Self.Employed,55,37.09024,-95.712891
+Unite States,2007,Self.Employed,57,37.09024,-95.712891
+Unite States,2008,Self.Employed,20,37.09024,-95.712891
+Unite States,2009,Self.Employed,29,37.09024,-95.712891
+Unite States,2006,Other.Classes,121,37.09024,-95.712891
+Unite States,2007,Other.Classes,157,37.09024,-95.712891
+Unite States,2008,Other.Classes,209,37.09024,-95.712891
+Unite States,2009,Other.Classes,262,37.09024,-95.712891
+Unite States,2013,Family,822,37.09024,-95.712891
+Unite States,2010,Family,816,37.09024,-95.712891
+Unite States,2011,Family,797,37.09024,-95.712891
+Unite States,2012,Family,789,37.09024,-95.712891
+Unite States,2013,Refugee,16,37.09024,-95.712891
+Unite States,2010,Refugee,25,37.09024,-95.712891
+Unite States,2011,Refugee,21,37.09024,-95.712891
+Unite States,2012,Refugee,29,37.09024,-95.712891
+Unite States,2013,Skilled.Worker,232,37.09024,-95.712891
+Unite States,2010,Skilled.Worker,394,37.09024,-95.712891
+Unite States,2011,Skilled.Worker,191,37.09024,-95.712891
+Unite States,2012,Skilled.Worker,187,37.09024,-95.712891
+Unite States,2013,Canadian.Experience,128,37.09024,-95.712891
+Unite States,2010,Canadian.Experience,0,37.09024,-95.712891
+Unite States,2011,Canadian.Experience,100,37.09024,-95.712891
+Unite States,2012,Canadian.Experience,221,37.09024,-95.712891
+Unite States,2013,Prov..Terr..Nominee,435,37.09024,-95.712891
+Unite States,2010,Prov..Terr..Nominee,270,37.09024,-95.712891
+Unite States,2011,Prov..Terr..Nominee,218,37.09024,-95.712891
+Unite States,2012,Prov..Terr..Nominee,348,37.09024,-95.712891
+Unite States,2013,Live.In.Caregiver,0,37.09024,-95.712891
+Unite States,2010,Live.In.Caregiver,0,37.09024,-95.712891
+Unite States,2011,Live.In.Caregiver,0,37.09024,-95.712891
+Unite States,2012,Live.In.Caregiver,0,37.09024,-95.712891
+Unite States,2013,Entrepreneur,0,37.09024,-95.712891
+Unite States,2010,Entrepreneur,15,37.09024,-95.712891
+Unite States,2011,Entrepreneur,0,37.09024,-95.712891
+Unite States,2012,Entrepreneur,0,37.09024,-95.712891
+Unite States,2013,Investor,0,37.09024,-95.712891
+Unite States,2010,Investor,16,37.09024,-95.712891
+Unite States,2011,Investor,21,37.09024,-95.712891
+Unite States,2012,Investor,14,37.09024,-95.712891
+Unite States,2013,Self.Employed,0,37.09024,-95.712891
+Unite States,2010,Self.Employed,36,37.09024,-95.712891
+Unite States,2011,Self.Employed,0,37.09024,-95.712891
+Unite States,2012,Self.Employed,16,37.09024,-95.712891
+Unite States,2013,Other.Classes,69,37.09024,-95.712891
+Unite States,2010,Other.Classes,125,37.09024,-95.712891
+Unite States,2011,Other.Classes,134,37.09024,-95.712891
+Unite States,2012,Other.Classes,128,37.09024,-95.712891
+United Arab Emirate,2008,Family,17,23.424076,53.847818
+United Arab Emirate,2008,Refugee,9,23.424076,53.847818
+United Arab Emirate,2008,Skilled.Worker,255,23.424076,53.847818
+United Arab Emirate,2008,Canadian.Experience,0,23.424076,53.847818
+United Arab Emirate,2008,Prov..Terr..Nominee,16,23.424076,53.847818
+United Arab Emirate,2008,Live.In.Caregiver,0,23.424076,53.847818
+United Arab Emirate,2008,Entrepreneur,10,23.424076,53.847818
+United Arab Emirate,2008,Investor,17,23.424076,53.847818
+United Arab Emirate,2008,Self.Employed,0,23.424076,53.847818
+United Arab Emirate,2008,Other.Classes,0,23.424076,53.847818
+United Arab Emirates,2006,Family,17,23.424076,53.847818
+United Arab Emirates,2009,Family,17,23.424076,53.847818
+United Arab Emirates,2010,Family,21,23.424076,53.847818
+United Arab Emirates,2011,Family,19,23.424076,53.847818
+United Arab Emirates,2012,Family,36,23.424076,53.847818
+United Arab Emirates,2006,Refugee,0,23.424076,53.847818
+United Arab Emirates,2009,Refugee,0,23.424076,53.847818
+United Arab Emirates,2010,Refugee,0,23.424076,53.847818
+United Arab Emirates,2011,Refugee,0,23.424076,53.847818
+United Arab Emirates,2012,Refugee,6,23.424076,53.847818
+United Arab Emirates,2006,Skilled.Worker,199,23.424076,53.847818
+United Arab Emirates,2009,Skilled.Worker,217,23.424076,53.847818
+United Arab Emirates,2010,Skilled.Worker,461,23.424076,53.847818
+United Arab Emirates,2011,Skilled.Worker,233,23.424076,53.847818
+United Arab Emirates,2012,Skilled.Worker,175,23.424076,53.847818
+United Arab Emirates,2006,Canadian.Experience,0,23.424076,53.847818
+United Arab Emirates,2009,Canadian.Experience,0,23.424076,53.847818
+United Arab Emirates,2010,Canadian.Experience,0,23.424076,53.847818
+United Arab Emirates,2011,Canadian.Experience,7,23.424076,53.847818
+United Arab Emirates,2012,Canadian.Experience,0,23.424076,53.847818
+United Arab Emirates,2006,Prov..Terr..Nominee,10,23.424076,53.847818
+United Arab Emirates,2009,Prov..Terr..Nominee,15,23.424076,53.847818
+United Arab Emirates,2010,Prov..Terr..Nominee,14,23.424076,53.847818
+United Arab Emirates,2011,Prov..Terr..Nominee,14,23.424076,53.847818
+United Arab Emirates,2012,Prov..Terr..Nominee,39,23.424076,53.847818
+United Arab Emirates,2006,Live.In.Caregiver,0,23.424076,53.847818
+United Arab Emirates,2009,Live.In.Caregiver,6,23.424076,53.847818
+United Arab Emirates,2010,Live.In.Caregiver,10,23.424076,53.847818
+United Arab Emirates,2011,Live.In.Caregiver,6,23.424076,53.847818
+United Arab Emirates,2012,Live.In.Caregiver,10,23.424076,53.847818
+United Arab Emirates,2006,Entrepreneur,12,23.424076,53.847818
+United Arab Emirates,2009,Entrepreneur,5,23.424076,53.847818
+United Arab Emirates,2010,Entrepreneur,8,23.424076,53.847818
+United Arab Emirates,2011,Entrepreneur,5,23.424076,53.847818
+United Arab Emirates,2012,Entrepreneur,0,23.424076,53.847818
+United Arab Emirates,2006,Investor,18,23.424076,53.847818
+United Arab Emirates,2009,Investor,17,23.424076,53.847818
+United Arab Emirates,2010,Investor,46,23.424076,53.847818
+United Arab Emirates,2011,Investor,33,23.424076,53.847818
+United Arab Emirates,2012,Investor,32,23.424076,53.847818
+United Arab Emirates,2006,Self.Employed,0,23.424076,53.847818
+United Arab Emirates,2009,Self.Employed,0,23.424076,53.847818
+United Arab Emirates,2010,Self.Employed,0,23.424076,53.847818
+United Arab Emirates,2011,Self.Employed,0,23.424076,53.847818
+United Arab Emirates,2012,Self.Employed,0,23.424076,53.847818
+United Arab Emirates,2006,Other.Classes,0,23.424076,53.847818
+United Arab Emirates,2009,Other.Classes,0,23.424076,53.847818
+United Arab Emirates,2010,Other.Classes,0,23.424076,53.847818
+United Arab Emirates,2011,Other.Classes,0,23.424076,53.847818
+United Arab Emirates,2012,Other.Classes,0,23.424076,53.847818
+Vietnam,2013,Family,264,14.058324,108.277199
+Vietnam,2006,Family,485,14.058324,108.277199
+Vietnam,2007,Family,326,14.058324,108.277199
+Vietnam,2009,Family,279,14.058324,108.277199
+Vietnam,2010,Family,233,14.058324,108.277199
+Vietnam,2011,Family,157,14.058324,108.277199
+Vietnam,2012,Family,169,14.058324,108.277199
+Vietnam,2013,Refugee,0,14.058324,108.277199
+Vietnam,2006,Refugee,0,14.058324,108.277199
+Vietnam,2007,Refugee,71,14.058324,108.277199
+Vietnam,2009,Refugee,23,14.058324,108.277199
+Vietnam,2010,Refugee,16,14.058324,108.277199
+Vietnam,2011,Refugee,18,14.058324,108.277199
+Vietnam,2012,Refugee,0,14.058324,108.277199
+Vietnam,2013,Skilled.Worker,39,14.058324,108.277199
+Vietnam,2006,Skilled.Worker,0,14.058324,108.277199
+Vietnam,2007,Skilled.Worker,13,14.058324,108.277199
+Vietnam,2009,Skilled.Worker,39,14.058324,108.277199
+Vietnam,2010,Skilled.Worker,76,14.058324,108.277199
+Vietnam,2011,Skilled.Worker,19,14.058324,108.277199
+Vietnam,2012,Skilled.Worker,30,14.058324,108.277199
+Vietnam,2013,Canadian.Experience,0,14.058324,108.277199
+Vietnam,2006,Canadian.Experience,0,14.058324,108.277199
+Vietnam,2007,Canadian.Experience,0,14.058324,108.277199
+Vietnam,2009,Canadian.Experience,0,14.058324,108.277199
+Vietnam,2010,Canadian.Experience,0,14.058324,108.277199
+Vietnam,2011,Canadian.Experience,0,14.058324,108.277199
+Vietnam,2012,Canadian.Experience,0,14.058324,108.277199
+Vietnam,2013,Prov..Terr..Nominee,0,14.058324,108.277199
+Vietnam,2006,Prov..Terr..Nominee,0,14.058324,108.277199
+Vietnam,2007,Prov..Terr..Nominee,0,14.058324,108.277199
+Vietnam,2009,Prov..Terr..Nominee,22,14.058324,108.277199
+Vietnam,2010,Prov..Terr..Nominee,8,14.058324,108.277199
+Vietnam,2011,Prov..Terr..Nominee,6,14.058324,108.277199
+Vietnam,2012,Prov..Terr..Nominee,17,14.058324,108.277199
+Vietnam,2013,Live.In.Caregiver,0,14.058324,108.277199
+Vietnam,2006,Live.In.Caregiver,0,14.058324,108.277199
+Vietnam,2007,Live.In.Caregiver,0,14.058324,108.277199
+Vietnam,2009,Live.In.Caregiver,0,14.058324,108.277199
+Vietnam,2010,Live.In.Caregiver,0,14.058324,108.277199
+Vietnam,2011,Live.In.Caregiver,0,14.058324,108.277199
+Vietnam,2012,Live.In.Caregiver,0,14.058324,108.277199
+Vietnam,2013,Entrepreneur,0,14.058324,108.277199
+Vietnam,2006,Entrepreneur,0,14.058324,108.277199
+Vietnam,2007,Entrepreneur,0,14.058324,108.277199
+Vietnam,2009,Entrepreneur,0,14.058324,108.277199
+Vietnam,2010,Entrepreneur,0,14.058324,108.277199
+Vietnam,2011,Entrepreneur,0,14.058324,108.277199
+Vietnam,2012,Entrepreneur,0,14.058324,108.277199
+Vietnam,2013,Investor,0,14.058324,108.277199
+Vietnam,2006,Investor,0,14.058324,108.277199
+Vietnam,2007,Investor,0,14.058324,108.277199
+Vietnam,2009,Investor,7,14.058324,108.277199
+Vietnam,2010,Investor,0,14.058324,108.277199
+Vietnam,2011,Investor,0,14.058324,108.277199
+Vietnam,2012,Investor,0,14.058324,108.277199
+Vietnam,2013,Self.Employed,0,14.058324,108.277199
+Vietnam,2006,Self.Employed,0,14.058324,108.277199
+Vietnam,2007,Self.Employed,0,14.058324,108.277199
+Vietnam,2009,Self.Employed,0,14.058324,108.277199
+Vietnam,2010,Self.Employed,0,14.058324,108.277199
+Vietnam,2011,Self.Employed,0,14.058324,108.277199
+Vietnam,2012,Self.Employed,0,14.058324,108.277199
+Vietnam,2013,Other.Classes,8,14.058324,108.277199
+Vietnam,2006,Other.Classes,15,14.058324,108.277199
+Vietnam,2007,Other.Classes,16,14.058324,108.277199
+Vietnam,2009,Other.Classes,16,14.058324,108.277199
+Vietnam,2010,Other.Classes,9,14.058324,108.277199
+Vietnam,2011,Other.Classes,12,14.058324,108.277199
+Vietnam,2012,Other.Classes,10,14.058324,108.277199
