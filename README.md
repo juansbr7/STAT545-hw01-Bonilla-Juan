@@ -7,6 +7,7 @@
 ### About Juan:
 
 [Website](http://juan-sebastian-bonilla.strikingly.com) 
+
 [Intro](https://vimeo.com/203660612) 
 
 # Education:
